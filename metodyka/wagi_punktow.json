@@ -1,0 +1,143 @@
+{
+  "ranking_tekst": {
+    "T1_dokumenty_bez_wycieku_wazone": 350,
+    "T2_wyciek_wazony_kategoria": 250,
+    "T3_trudne_przypadki": 150,
+    "T4_najslabszy_jezyk": 50,
+    "T5_brak_nadmiarowego_maskowania": 150,
+    "T6_szybkosc": 50
+  },
+  "ranking_pliki": {
+    "P1_pliki_bez_wycieku_wazone": 350,
+    "P2_wyciek_wazony_miejscem": 200,
+    "P3_trudne_przypadki_plikowe": 150,
+    "P4_integralnosc": 100,
+    "P5_brak_nadmiarowego_maskowania": 100,
+    "P6_pokrycie_formatow": 50,
+    "P7_szybkosc": 50
+  },
+  "wagi_kategorii": {
+    "3": [
+      "ZDROWIE",
+      "TWARZ",
+      "PESEL",
+      "DOWOD",
+      "PASZPORT",
+      "RACHUNEK",
+      "KARTA",
+      "NR_ID",
+      "IDENTYFIKATOR",
+      "SSN",
+      "NINO",
+      "NHS",
+      "DNI",
+      "NIR",
+      "SVNR",
+      "KVNR",
+      "NUSS",
+      "MBI",
+      "NR_PODATKOWY",
+      "PRAWO_JAZDY",
+      "MRZ",
+      "SEKRET"
+    ],
+    "2": [
+      "OSOBA",
+      "ADRES",
+      "EMAIL",
+      "TELEFON",
+      "DATA_UR",
+      "MIEJSCE_UR",
+      "NR_REJESTRACYJNY",
+      "KSIEGA_WIECZYSTA",
+      "LOGIN",
+      "IP",
+      "KRYPTO"
+    ],
+    "1": [
+      "MIEJSCOWOSC",
+      "REGION",
+      "KRAJ",
+      "KOD_POCZTOWY",
+      "ORGANIZACJA",
+      "DATA",
+      "KWOTA",
+      "URL",
+      "SYGNATURA",
+      "NIP",
+      "REGON",
+      "KRS",
+      "VAT",
+      "EIN",
+      "CIF",
+      "SIREN",
+      "NR_REJESTRU",
+      "UUID",
+      "MAC",
+      "INICJALY",
+      "WLASNE"
+    ]
+  },
+  "wagi_miejsc": {
+    "tresc": 1.0,
+    "tabela": 1.0,
+    "przypis": 1.0,
+    "naglowek": 1.5,
+    "stopka": 1.5,
+    "pole": 1.5,
+    "obraz": 1.5,
+    "zalacznik": 1.5,
+    "metadane": 2.0,
+    "komentarz": 2.0,
+    "zmiany": 2.0
+  },
+  "progi": {
+    "nadmiarowe_maskowanie_zero_pkt_przy_udziale": 0.2,
+    "bootstrap_powtorzen": 1000,
+    "przedzial_ufnosci": 0.95
+  },
+  "analiza_wrazliwosci": {
+    "rowne": {
+      "ranking_tekst": "każdy test 1000/6",
+      "ranking_pliki": "każdy test 1000/7"
+    },
+    "prywatnosc": {
+      "ranking_tekst": {
+        "T1": 450,
+        "T2": 300,
+        "T3": 200,
+        "T4": 50
+      },
+      "ranking_pliki": {
+        "P1": 450,
+        "P2": 250,
+        "P3": 200,
+        "P4": 100
+      }
+    },
+    "uzytecznosc": {
+      "ranking_tekst": {
+        "T1": 250,
+        "T2": 150,
+        "T3": 100,
+        "T4": 50,
+        "T5": 350,
+        "T6": 100
+      },
+      "ranking_pliki": {
+        "P1": 250,
+        "P2": 150,
+        "P3": 100,
+        "P4": 150,
+        "P5": 200,
+        "P6": 100,
+        "P7": 50
+      }
+    }
+  },
+  "do_ustalenia_po_pilocie_dev": [
+    "t_ref_s_na_strone (T6, P7)",
+    "maszyna i ustawienia pomiaru czasu"
+  ],
+  "definicja_wycieku_dokumentu": "T1, T3, T4, P1 i P3 ważone kategorią: waga dokumentu z wyciekiem s(d) = max w(kat) po wartościach gold, które w dokumencie wyciekły (pełnie lub częściowo) / 3; bez wycieku s = 0; fail-closed (stan ≠ ok) s = 1; wynik = 1 − Σ s(d) / N (T3/P3: średnia po przypadkach punktowanych z 1 − Σ s(d) / liczba dokumentów przypadku)."
+}
