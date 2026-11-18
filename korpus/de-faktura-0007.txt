@@ -1,0 +1,27 @@
+Heinrich & Steiner Rechtsanwälte PartG mbB
+Haydnstraße 115, 70599 Stuttgart | Steuernummer 552/946/30373 | USt-IdNr. DE559724470
+RECHNUNG Nr. R-440
+Rechnungsdatum: 29.03.2023
+Leistungszeitpunkt: 22.03.2023
+Rechnungsaussteller	Rechnungsempfänger
+Heinrich & Steiner Rechtsanwälte PartG mbB	Kaiser Consulting GmbH
+Haydnstraße 115, 70599 Stuttgart	Dresdner Straße 63, 70051 Stuttgart
+USt-IdNr. DE559724470	USt-IdNr. DE100881344
+Tel. +49 172 9980752	Tel. 0172 9925904
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	2.050,46 EUR	2.050,46 EUR	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	1.687,30 EUR	1.687,30 EUR	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	5.563,33 EUR	5.563,33 EUR	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+9.301,09 EUR	1.767,21 EUR	11.068,30 EUR
+Zahlbar bis zum 24.04.2023 ohne Abzug durch Überweisung auf das Konto DE97500105176773632997 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an kontakt.heinrichsteiner@example.com, Tel. +49 172 9980752.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Marcel Klein als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Manfred Wittmann.
+Manfred Wittmann
+Heinrich & Steiner Rechtsanwälte PartG mbB | Haydnstraße 115, 70599 Stuttgart | USt-IdNr. DE559724470 | Tel. +49 172 9980752
+Autor: Benutzer
+Betreff: Rechnung für Rechtsberatung

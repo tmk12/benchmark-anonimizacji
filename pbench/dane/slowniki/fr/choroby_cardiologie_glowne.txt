@@ -1,0 +1,6 @@
+I50.0 Insuffisance cardiaque congestive
+I50.1 Insuffisance ventriculaire gauche
+I50.9 Insuffisance cardiaque, sans précision
+I11.0 Cardiopathie hypertensive avec insuffisance cardiaque (congestive)
+I42.0 Cardiomyopathie dilatée
+I25.5 Cardiomyopathie ischémique

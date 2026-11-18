@@ -1,0 +1,94 @@
+/* Skład raportu do druku A4 (Chromium → PDF). Kolory: tokeny z :root aplikacji, w druku cz.-b. nie niosą znaczenia samodzielnie. */
+:root {
+  --tekst: #16223D;
+  --tekst-2: #4A5878;
+  --linia: #C9D1E0;
+  --tlo-tabeli: #F2F5FA;
+  --akcent: #16223D;
+  --sans: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --serif: "IBM Plex Serif", Georgia, serif;
+  --mono: "IBM Plex Mono", Menlo, monospace;
+}
+
+@page {
+  size: A4;
+  margin: 17mm 16mm;
+  @bottom-center {
+    content: "Privatizer by Legal Geek – Raport porównawczy anonimizacji · s. " counter(page);
+    font: 400 8pt var(--sans);
+    color: var(--tekst-2);
+  }
+}
+@page :first {
+  margin: 0;
+  @bottom-center { content: none; }
+}
+
+* { box-sizing: border-box; }
+html { font: 400 10pt/1.42 var(--sans); color: var(--tekst); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; }
+
+/* okładka: jedna pełna strona bez marginesów @page */
+.okladka { height: 297mm; padding: 60mm 24mm 24mm; break-after: page; }
+.okladka .logo svg { width: 90mm; height: auto; }
+.tytul { margin: 50mm 0 0; font: 600 28pt/1.2 var(--serif); }
+.wersja { margin: 14mm 0 0; font-size: 10pt; color: var(--tekst-2); }
+.data { margin: 2mm 0 0; font-size: 10pt; color: var(--tekst-2); }
+
+/* spis treści: z nagłówków; zakładki PDF (outline) zastępują numery stron */
+#spis { break-after: page; }
+.spis-naglowek { margin: 0 0 6mm; font: 600 18pt var(--serif); }
+#spis ol { list-style: none; margin: 0; padding: 0; }
+#spis li { margin: 1.2mm 0; }
+#spis li.poz1 { margin-top: 3.5mm; font-weight: 600; }
+#spis li.poz2 { padding-left: 6mm; font-size: 9pt; }
+#spis a { color: inherit; text-decoration: none; }
+
+h1, h2, h3 { font-family: var(--serif); font-weight: 600; line-height: 1.25; break-after: avoid; }
+h1 { break-before: page; margin: 0 0 6mm; font-size: 20pt; padding-bottom: 2mm; border-bottom: .6pt solid var(--linia); }
+#spis + main > h1:first-child { break-before: auto; }
+h2 { margin: 8mm 0 3mm; font-size: 14pt; }
+h3 { margin: 6mm 0 2mm; font-size: 11pt; }
+p { margin: 0 0 2.5mm; orphans: 3; widows: 3; }
+ul, ol { margin: 0 0 3mm; padding-left: 6mm; }
+code { font: 400 8.5pt var(--mono); }
+a { color: inherit; }
+
+/* tabele: stały układ, 8 pt, bez ucinania i wylewania */
+table { width: 100%; table-layout: fixed; border-collapse: collapse; margin: 3mm 0 5mm; font-size: 8pt; line-height: 1.35; }
+th, td { padding: 1.2mm 1.5mm; border-bottom: .4pt solid var(--linia); text-align: left; vertical-align: top; overflow-wrap: anywhere; word-break: normal; hyphens: auto; }
+th { background: var(--tlo-tabeli); font-weight: 600; border-bottom: .8pt solid var(--tekst); }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; }
+tbody tr:nth-child(-n+2) { break-after: avoid; }  /* nagłówek tabeli nie zostaje sam z jednym wierszem na końcu strony */
+th { hyphens: manual; }
+figure, .wykres { margin: 4mm 0; break-inside: avoid; }
+figure svg, .wykres svg { max-width: 100%; height: auto; }
+figcaption, caption { font-size: 8pt; color: var(--tekst-2); text-align: left; caption-side: top; margin-bottom: 1mm; }
+
+/* tabele wyników (raport.tabele): małe adnotacje, przypisy pod tabelą, obrócone nagłówki kolumn uczestników */
+th small, td small { display: inline-block; font-size: 7pt; font-weight: 400; color: var(--tekst-2); line-height: 1.25; }
+.przypis { margin: -3mm 0 5mm; font-size: 7pt; color: var(--tekst-2); }
+table.per { font-size: 8pt; }
+table.per th, table.per td { padding: 1mm .6mm; }
+table.wyniki { font-size: 8pt; }
+table.wyniki th, table.wyniki td { padding: 1.2mm .8mm; }
+th.obrot { height: 34mm; padding: 1mm 0; text-align: center; vertical-align: bottom; }
+th.obrot span { display: inline-block; writing-mode: vertical-rl; transform: rotate(180deg); white-space: nowrap; font-size: 7pt; }
+code.hash { font: 400 7pt var(--mono); overflow-wrap: anywhere; word-break: break-all; }
+
+/* przykłady przed/po: tekst z zachowaniem podziałów wierszy; wyciek podkreślony i pogrubiony (czytelny bez koloru), maska w ramce */
+table.przyklady { font-size: 8pt; }
+table.przyklady td { white-space: pre-wrap; }
+.okno { font: 400 7pt/1.4 var(--mono); overflow-wrap: anywhere; }
+mark.wyciek { background: var(--tlo-tabeli); color: inherit; font-weight: 700; text-decoration: underline; text-decoration-thickness: .8pt; text-underline-offset: .6mm; padding: 0 .3mm; }
+.maska { border: .5pt solid var(--tekst-2); border-radius: .6mm; padding: 0 .4mm; }
+
+/* tabele z Markdownu (bez <colgroup>): szerokości kolumn z zawartości, żeby wąskie kolumny (grupa, test, poziom) nie zabierały miejsca opisom */
+table:not(:has(> colgroup)) { table-layout: auto; }
+table:not(:has(> colgroup)) th, table:not(:has(> colgroup)) td { overflow-wrap: break-word; }
+
+/* bloki kodu (polecenia w aneksie odtworzenia): zawijane, żeby nie wylewały się poza blok tekstu A4 */
+pre { break-inside: avoid; margin: 3mm 0 5mm; padding: 2mm 3mm; background: var(--tlo-tabeli); border: .4pt solid var(--linia); white-space: pre-wrap; overflow-wrap: anywhere; }
+pre code { font: 400 7.5pt/1.45 var(--mono); }

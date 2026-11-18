@@ -1,0 +1,109 @@
+{
+  "name": [
+    "OSOBA"
+  ],
+  "organization": [
+    "ORGANIZACJA"
+  ],
+  "dob": [
+    "DATA_UR"
+  ],
+  "date": [
+    "DATA"
+  ],
+  "email address": [
+    "EMAIL"
+  ],
+  "phone number": [
+    "TELEFON"
+  ],
+  "ip address": [
+    "IP"
+  ],
+  "url": [
+    "URL"
+  ],
+  "location address": [
+    "ADRES"
+  ],
+  "location street": [
+    "ADRES"
+  ],
+  "location city": [
+    "MIEJSCOWOSC",
+    "MIEJSCE_UR"
+  ],
+  "location state": [
+    "REGION"
+  ],
+  "location country": [
+    "KRAJ"
+  ],
+  "location zip": [
+    "KOD_POCZTOWY"
+  ],
+  "iban": [
+    "RACHUNEK"
+  ],
+  "bank account": [
+    "RACHUNEK"
+  ],
+  "credit card": [
+    "KARTA"
+  ],
+  "money": [
+    "KWOTA"
+  ],
+  "ssn": [
+    "SSN",
+    "SVNR",
+    "NUSS",
+    "NINO",
+    "NIR"
+  ],
+  "national id number": [
+    "PESEL",
+    "DNI",
+    "NUSS",
+    "NIR"
+  ],
+  "tax identification number": [
+    "NIP",
+    "NR_PODATKOWY",
+    "VAT",
+    "CIF",
+    "EIN",
+    "SIREN"
+  ],
+  "passport number": [
+    "PASZPORT"
+  ],
+  "identity card number": [
+    "DOWOD"
+  ],
+  "driver license": [
+    "PRAWO_JAZDY"
+  ],
+  "vehicle id": [
+    "NR_REJESTRACYJNY"
+  ],
+  "registration number": [
+    "NR_REJESTRU",
+    "KRS",
+    "REGON"
+  ],
+  "username": [
+    "LOGIN"
+  ],
+  "password": [
+    "SEKRET"
+  ],
+  "healthcare number": [
+    "KVNR",
+    "MBI",
+    "NHS"
+  ],
+  "condition": [
+    "ZDROWIE"
+  ]
+}

@@ -1,0 +1,27 @@
+Szpital Powiatowy Sigma S.A.
+ul. Świętokrzyska 122/119, 16-201 Augustów | REGON 490466546 | tel. +48 000 495 485
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjentka: Beata Szwed, PESEL 97120778829, data urodzenia 07.12.1997 r.
+Adres zamieszkania: ul. Stefana Czarnieckiego 20, 41-526 Dąbrowa Górnicza, tel. +48 000 343 111
+Data przyjęcia: 10.04.2026 r. Data wypisu: 17.04.2026 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: I50.1 Niewydolność lewokomorowa
+Rozpoznania współistniejące: E11.9 Cukrzyca typu 2 bez powikłań; I11.0 Nadciśnieniowa choroba serca z niewydolnością serca
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: ramipryl 10 mg – według schematu ustalonego w poradni; furosemid 20 mg – raz dziennie rano; bisoprolol 10 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 11.05.2026 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 04.05.2026 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Beacie Szwed w dniu wypisu; za zgodą pacjentki informacje o stanie zdrowia mogą być udzielane Stanisławie Krawczyk, tel. +48 000 160 704.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjentka została pouczona o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Małgorzata Ziółkowska, nr PWZ 9092941
+Ordynator oddziału: Olgierd Szewczyk, nr PWZ 6076779
+Małgorzata Ziółkowska
+Olgierd Szewczyk
+Szpital Powiatowy Sigma S.A. | ul. Świętokrzyska 122/119, 16-201 Augustów | tel. +48 000 495 485 | office@sigma.example.org
+Autor: Małgorzata Ziółkowska
+Temat: Karta informacyjna leczenia szpitalnego

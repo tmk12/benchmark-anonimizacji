@@ -1,0 +1,25 @@
+Clearwater Royal Infirmary NHS Foundation Trust
+195 Wharf Road, Peterborough PE5 6NR | tel. +44 20 7946 0754
+DISCHARGE SUMMARY – CARDIOLOGY WARD
+Patient: Sean Smith, date of birth 27 March 1977
+NHS number: 7766921162 | National Insurance number: PN324414B
+Home address: 212 River Close, London SW3 7UL, tel. +44 121 496 0637
+Admitted: 29 October 2021. Discharged: 2 November 2021. Admission type: emergency.
+Primary diagnosis (ICD-10): I11.0 Hypertensive heart disease with heart failure
+Secondary diagnoses: E11.9 Type 2 diabetes mellitus without complications; I35.0 Aortic (valve) stenosis
+Presenting complaint and examination: admitted with progressive breathlessness on exertion, chest pain and ankle swelling. On examination there was tachycardia, bibasal crackles, blood pressure 165/95 mmHg and oxygen saturation of 93% on room air.
+Hospital course: treated with supplemental oxygen, intravenous loop diuretics, prophylactic anticoagulation and antihypertensive therapy. The patient improved clinically, the oedema resolved and blood pressure stabilised.
+There were no complications or adverse events during the admission. Diabetes and cardiology consultations were completed.
+Advice on discharge: low-sodium diet, fluid restriction to 1.5 litres a day, daily morning weights, no strenuous exertion for two weeks and complete cessation of smoking.
+Medicines on discharge (TTO): clopidogrel 75 mg as established at clinic; furosemide 20 mg once daily in the morning; bisoprolol 2.5 mg as directed by the cardiology team.
+Follow-up: cardiology outpatient clinic on 15 November 2021, with blood tests (full blood count, creatinine, potassium). Please bring this summary to the appointment.
+A fit note covering absence from work until 15 November 2021 has been issued.
+This summary has been sent to the patient's GP. It contains health data, which is special category data under Article 9 of the UK GDPR.
+The patient was advised to attend the emergency department or call 999 if chest pain, fainting or worsening breathlessness occurs.
+Responsible doctor: Doris Olson, GMC number 7768533
+Consultant cardiologist: Oscar Baker, GMC number 3460737
+Doris Olson
+Oscar Baker
+Clearwater Royal Infirmary NHS Foundation Trust | 195 Wharf Road, Peterborough PE5 6NR | tel. +44 20 7946 0754 | hello@clearwater.test
+Author: User
+Subject: Discharge summary

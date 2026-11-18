@@ -1,0 +1,45 @@
+Bałtyk sp. z o.o. sp.k.
+ul. Powstańców Śląskich 72/76, 78-822 Szczecinek | NIP 7256373741
+FAKTURA VAT
+Data wystawienia: 14.06.2024 r.
+Data sprzedaży: 07.06.2024 r.
+Sprzedawca: Bałtyk sp. z o.o. sp.k.
+Nabywca: Mazovia sp.j.
+Sprzedawca: ul. Powstańców Śląskich 72/76, 78-822 Szczecinek
+Nabywca: ul. Armii Krajowej 27, 00-892 Warszawa
+Sprzedawca: NIP: 7256373741
+Nabywca: NIP: 9879312037
+Sprzedawca: REGON: 330737854
+Nabywca: REGON: 060634086
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 02.06.2023 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 4 400,78 zł
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 679,77 zł
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 4 720,68 zł
+Stawka VAT: 23%
+Razem netto: 9 801,23 zł
+Podatek VAT 23%: 2 254,28 zł
+Razem do zapłaty (brutto): 12 055,51 zł
+Termin płatności: 02.07.2024 r. Sposób zapłaty: przelew na rachunek PL32105985915432636773768684.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.baltyk@example.com, tel. +48000280930.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Andrzejowi Sroce – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Aleksander Jasiński.
+Aleksander Jasiński
+Bałtyk sp. z o.o. sp.k. | ul. Powstańców Śląskich 72/76, 78-822 Szczecinek | NIP 7256373741 | KRS 0000555093 | tel. +48000280930
+Autor: Aleksander Jasiński
+Temat: Faktura VAT

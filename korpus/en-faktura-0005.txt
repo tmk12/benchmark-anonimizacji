@@ -1,0 +1,45 @@
+Greystone Inc.
+9760 Bayview Lane, Milwaukee, WI 53218 | EIN 59-8679735
+INVOICE
+Invoice date: 04/27/2023
+Date of supply: 04/19/2023
+Bill from: Greystone Inc.
+Bill to: Westbrook Inc.
+Bill from: 9760 Bayview Lane, Milwaukee, WI 53218
+Bill to: 3289 Oxford Road, Milwaukee, WI 53265
+Bill from: EIN 59-8679735
+Bill to: EIN 20-0896948
+Bill from: Phone (608) 555-0156
+Bill to: Phone +1 262-555-0192
+Item: 1
+Service: Services under engagement dated 11/04/2021
+Unit: flat fee
+Qty: 1
+Amount: $4,705.26
+Tax: 8.25%
+Item: 2
+Service: Preparation and negotiation of documents
+Unit: flat fee
+Qty: 1
+Amount: $18,225.20
+Tax: 8.25%
+Item: 3
+Service: Attendance at board meetings
+Unit: flat fee
+Qty: 1
+Amount: $11,468.71
+Tax: 8.25%
+Subtotal: $34,399.17
+Sales tax 8.25%: $2,837.93
+Total due: $37,237.10
+Payment due by 05/15/2023. Please pay by bank transfer to Routing No. 316380906, Account No. 48692196, quoting the invoice date as the reference.
+Queries about this invoice: enquiries@greystone.example.org, tel. (608) 555-0156.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Amelia King, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Sean Ross.
+Sean Ross
+Greystone Inc. | 9760 Bayview Lane, Milwaukee, WI 53218 | EIN 59-8679735 | tel. (608) 555-0156
+Author: User
+Subject: Invoice for legal services

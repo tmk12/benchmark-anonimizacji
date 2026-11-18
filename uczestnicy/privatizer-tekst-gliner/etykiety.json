@@ -1,0 +1,143 @@
+{
+  "OSOBA": [
+    "OSOBA"
+  ],
+  "ORGANIZACJA": [
+    "ORGANIZACJA"
+  ],
+  "LOGIN": [
+    "LOGIN"
+  ],
+  "ADRES": [
+    "ADRES"
+  ],
+  "KOD_POCZTOWY": [
+    "KOD_POCZTOWY"
+  ],
+  "MIEJSCOWOSC": [
+    "MIEJSCOWOSC"
+  ],
+  "REGION": [
+    "REGION"
+  ],
+  "KRAJ": [
+    "KRAJ"
+  ],
+  "EMAIL": [
+    "EMAIL"
+  ],
+  "TELEFON": [
+    "TELEFON"
+  ],
+  "URL": [
+    "URL"
+  ],
+  "IP": [
+    "IP"
+  ],
+  "PESEL": [
+    "PESEL"
+  ],
+  "NIP": [
+    "NIP"
+  ],
+  "REGON": [
+    "REGON"
+  ],
+  "KRS": [
+    "KRS"
+  ],
+  "DOWOD": [
+    "DOWOD"
+  ],
+  "PASZPORT": [
+    "PASZPORT"
+  ],
+  "PRAWO_JAZDY": [
+    "PRAWO_JAZDY"
+  ],
+  "NR_ID": [
+    "NR_ID"
+  ],
+  "NR_REJESTRACYJNY": [
+    "NR_REJESTRACYJNY"
+  ],
+  "KSIEGA_WIECZYSTA": [
+    "KSIEGA_WIECZYSTA"
+  ],
+  "SYGNATURA": [
+    "SYGNATURA"
+  ],
+  "NR_REJESTRU": [
+    "NR_REJESTRU"
+  ],
+  "IDENTYFIKATOR": [
+    "IDENTYFIKATOR"
+  ],
+  "MRZ": [
+    "MRZ"
+  ],
+  "DNI": [
+    "DNI"
+  ],
+  "CIF": [
+    "CIF"
+  ],
+  "NUSS": [
+    "NUSS"
+  ],
+  "SSN": [
+    "SSN"
+  ],
+  "EIN": [
+    "EIN"
+  ],
+  "MBI": [
+    "MBI"
+  ],
+  "NINO": [
+    "NINO"
+  ],
+  "NHS": [
+    "NHS"
+  ],
+  "NR_PODATKOWY": [
+    "NR_PODATKOWY"
+  ],
+  "VAT": [
+    "VAT"
+  ],
+  "SVNR": [
+    "SVNR"
+  ],
+  "KVNR": [
+    "KVNR"
+  ],
+  "NIR": [
+    "NIR"
+  ],
+  "SIREN": [
+    "SIREN"
+  ],
+  "RACHUNEK": [
+    "RACHUNEK"
+  ],
+  "KARTA": [
+    "KARTA"
+  ],
+  "KRYPTO": [
+    "KRYPTO"
+  ],
+  "DATA_UR": [
+    "DATA_UR"
+  ],
+  "MIEJSCE_UR": [
+    "MIEJSCE_UR"
+  ],
+  "DATA": [
+    "DATA"
+  ],
+  "SEKRET": [
+    "SEKRET"
+  ]
+}

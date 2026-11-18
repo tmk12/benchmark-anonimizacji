@@ -1,0 +1,14 @@
+Liste des personnes habilitées
+Entité: Distribution Leroy SNC
+La présente liste a été établie le 23/01/2026. Les personnes mentionnées ci-dessous sont habilitées à recevoir la correspondance.
+N°	Nom et prénom	Numéro de sécurité sociale	Fonction
+1	Fontaine Jean	–	mandataire
+2	ROLLAND Geneviève	–	cheffe de projet
+3	PERRIN Laurent	–	conseiller
+4	Vincent Brigitte	–	gérante
+5	THOMAS Camille	–	conseillère
+6	LEFEBVRE Simone	256094866043519	conseillère
+7	LAMY Adèle	294098639608467	comptable
+8	Riviere Michel	179097523756011	mandataire
+9	GARCIA Patricia	241092213929161	gérante
+La liste a été approuvée par Patricia Garcia.

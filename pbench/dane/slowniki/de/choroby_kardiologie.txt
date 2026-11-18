@@ -1,0 +1,11 @@
+I10 Essentielle (primäre) Hypertonie
+I25.1 Atherosklerotische Herzkrankheit
+I34.0 Mitralklappeninsuffizienz
+I35.0 Aortenklappenstenose
+I70.2 Atherosklerose der Extremitätenarterien
+E78.0 Reine Hypercholesterinämie
+E78.2 Gemischte Hyperlipidämie
+E11.9 Diabetes mellitus, Typ 2, ohne Komplikationen
+E66.9 Adipositas, nicht näher bezeichnet
+N18.3 Chronische Nierenkrankheit, Stadium 3
+Z95.1 Vorhandensein eines aortokoronaren Bypasses

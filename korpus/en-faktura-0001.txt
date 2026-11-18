@@ -1,0 +1,45 @@
+Harlow Construction LLC
+6172 Springfield Lane, Denver, CO 80205 | EIN 47-7795700
+INVOICE
+Invoice date: 11/08/2024
+Date of supply: 11/04/2024
+Bill from: Harlow Construction LLC
+Bill to: Harbour LLC
+Bill from: 6172 Springfield Lane, Denver, CO 80205
+Bill to: 6143 Daisy Lane, Denver, CO 80270
+Bill from: EIN 47-7795700
+Bill to: EIN 25-0411031
+Bill from: Phone (719) 555-0136
+Bill to: Phone (719) 555-0192
+Item: 1
+Description: Monthly retainer for general legal counsel
+Qty: 1
+Rate: $4,877.21
+Amount: $4,877.21
+Tax: 8.25%
+Item: 2
+Description: Review of commercial lease
+Qty: 1
+Rate: $9,030.72
+Amount: $9,030.72
+Tax: 8.25%
+Item: 3
+Description: Regulatory filing and attendance
+Qty: 1
+Rate: $2,470.52
+Amount: $2,470.52
+Tax: 8.25%
+Subtotal: $16,378.45
+Sales tax 8.25%: $1,351.22
+Total due: $17,729.67
+Payment due by 12/09/2024. Please pay by bank transfer to Routing No. 264330147, Account No. 93444826, quoting the invoice date as the reference.
+Queries about this invoice: hello@harlowconstruction.test, tel. (719) 555-0136.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Kevin Thompson, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Terry Castillo.
+Terry Castillo
+Harlow Construction LLC | 6172 Springfield Lane, Denver, CO 80205 | EIN 47-7795700 | tel. (719) 555-0136
+Author: User
+Subject: Invoice for legal services

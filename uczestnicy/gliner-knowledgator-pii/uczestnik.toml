@@ -1,0 +1,10 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). Samodzielny GLiNER: poziom tylko tekst.
+# Ruling R37: każdy uczestnik tekstowy biegnie na wszystkich 5 językach; `jezyki_oficjalne` = języki oficjalnie obsługiwane wg karty/dokumentacji
+# (sędzia oznacza dokumenty flagą `w_zakresie_oficjalnym` dla miary „w zakresie oficjalnym”).
+poziomy = ["tekst"]
+jezyki = ["pl", "en", "es", "de", "fr"]          # uruchamiamy na wszystkich 5 (ruling R37)
+jezyki_oficjalne = ["en"]  # karta: language en
+formaty = []
+procesy = 2
+timeout_s = 600
+start_timeout_s = 600

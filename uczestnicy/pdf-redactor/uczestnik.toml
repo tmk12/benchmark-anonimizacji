@@ -1,0 +1,10 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). pdf-redactor (JoshData, grupa B): redakcja warstwy tekstu
+# PDF wyrażeniami regularnymi z wykryć analizatora w konfiguracji `presidio-pl-ner`; poziom plik, tylko PDF z tekstem.
+# Ruling R37: każdy uczestnik biegnie na wszystkich 5 językach; języki oficjalne jak w `presidio-pl-ner` (model NER per język).
+poziomy = ["plik"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["pl", "en", "es", "de", "fr"]
+formaty = ["pdf"]     # skany nie mają warstwy tekstu (pdf-redactor nie dotyka obrazów) – to zakres presidio-image-redactor
+procesy = 2
+timeout_s = 900
+start_timeout_s = 900

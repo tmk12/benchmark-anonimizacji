@@ -1,0 +1,45 @@
+Medicus S.A.
+ul. Grodzka 139/92, 63-504 Ostrów Wielkopolski | NIP 4291498520
+FAKTURA VAT
+Data wystawienia: 03.03.2022 r.
+Data sprzedaży: 25.02.2022 r.
+Sprzedawca: Medicus S.A.
+Nabywca: Nova sp. z o.o.
+Sprzedawca: ul. Grodzka 139/92, 63-504 Ostrów Wielkopolski
+Nabywca: pl. Trzech Krzyży 36/70, 59-285 Legnica
+Sprzedawca: NIP: 4291498520
+Nabywca: NIP: 7742233364
+Sprzedawca: REGON: 380915541
+Nabywca: REGON: 219437836
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 18.09.2020 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 11 077,71 zł
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 2 845,08 zł
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 7 885,15 zł
+Stawka VAT: 23%
+Razem netto: 21 807,94 zł
+Podatek VAT 23%: 5 015,83 zł
+Razem do zapłaty (brutto): 26 823,77 zł
+Termin płatności: 18.03.2022 r. Sposób zapłaty: przelew na rachunek PL26114411043799657124246309.
+Adres e-mail do przesyłania potwierdzeń płatności: office@medicus.example.org, tel. +48 000 950 420.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Jarosławowi Urbańskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Vanessa Marciniak.
+Vanessa Marciniak
+Medicus S.A. | ul. Grodzka 139/92, 63-504 Ostrów Wielkopolski | NIP 4291498520 | KRS 0000211225 | tel. +48 000 950 420
+Autor: Vanessa Marciniak
+Temat: Faktura VAT

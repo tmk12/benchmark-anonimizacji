@@ -1,0 +1,7 @@
+{
+  "pl": {"repo": "lexedit/herbert-polish-legal-ner", "rewizja": "3b0f37e527cd65f863dde911ab908da6b3b2534a"},
+  "en": {"repo": "dslim/bert-large-NER", "rewizja": "6fe43d9ec0bba0f67e367ecd74399216fc409c7f"},
+  "es": {"repo": "Davlan/xlm-roberta-large-ner-hrl", "rewizja": "1f929ffad9b7353f9c84b0b3f579fc3bb0b3685e"},
+  "de": {"repo": "FacebookAI/xlm-roberta-large-finetuned-conll03-german", "rewizja": "1fbcc7a00a69ce5ab754623154a8e9cc6ba868e2"},
+  "fr": {"repo": "Jean-Baptiste/camembert-ner", "rewizja": "ef35fe7767c1dad71f5c853838cdd80d0b3441ed"}
+}

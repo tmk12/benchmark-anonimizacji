@@ -1,0 +1,32 @@
+ASSURED SHORTHOLD TENANCY AGREEMENT
+Landlord: Angela Castillo | Tenant: James Collins
+This Agreement is made on 18 March 2025 at Stoke-on-Trent between:
+(1) Angela Castillo, National Insurance number BT013794A, of 75 Grange Way, Stoke-on-Trent ST3 6BH, tel. +44 20 7946 0232, e-mail a.castillo@example.org (the Landlord); and
+(2) James Collins, National Insurance number OR336174B, of 2 Pembroke Grove, Gloucester GL5 3LW, tel. +44 7700 900152, e-mail james.collins@webmail.test (the Tenant).
+1. PREMISES
+1.1 The Landlord lets and the Tenant takes the residential dwelling at 207 Church Drive, Leicester LE5 3SR (the "Property"), together with the fixtures and fittings listed in the inventory, previously occupied by Jerry Hernandez, who vacated it on 22 May 2023.
+1.2 The Property may be used solely as a private residence for the Tenant and the persons named in writing to the Landlord.
+2. TERM
+2.1 The tenancy begins on 20 March 2025 and continues for a fixed term ending on 17 December 2025.
+2.2 After the fixed term the tenancy continues as a statutory periodic tenancy unless it is ended by notice under section 21 or section 8 of the Housing Act 1988.
+3. RENT AND DEPOSIT
+3.1 The Tenant shall pay rent of £4,183.00 per calendar month in advance, by bank transfer to the Landlord's account GB90MONZ04828329645086, on or before the tenth day of each month.
+3.2 The Tenant pays a tenancy deposit of £4,183.00 (one month's rent), which the Landlord shall protect in a government-authorised scheme within thirty days of receipt.
+3.3 The Tenant pays utilities and council or municipal charges directly to the suppliers according to consumption.
+4. OBLIGATIONS
+4.1 The Tenant shall keep the Property clean and in good condition, shall not sublet or assign it without the Landlord's written consent, and shall report any damage promptly to the Landlord.
+Item	Due date	Responsible party
+Monthly rent	tenth day of the month	James Collins
+Return of deposit	thirty days after move-out	Angela Castillo
+Check-in	20 March 2025	Deborah Frank
+5. GENERAL
+5.1 This Agreement is the entire agreement between the parties and may be varied only in writing signed by both of them.
+5.2 Notices shall be sent to the addresses above, or by e-mail to a.castillo@example.org and james.collins@webmail.test.
+5.3 This Agreement is governed by the law of England and Wales.
+Landlord:                                                  Tenant:
+Angela Castillo
+James Collins
+A copy of the "How to rent" guide, the gas safety certificate and the energy performance certificate were given to the Tenant on 18 March 2025.
+Tenancy agreement – Angela Castillo / James Collins | Property: 207 Church Drive, Leicester LE5 3SR
+Author: Angela Castillo
+Title: Residential tenancy agreement

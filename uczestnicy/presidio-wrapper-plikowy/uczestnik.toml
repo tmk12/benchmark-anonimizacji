@@ -1,0 +1,10 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). NASZ naiwny wrapper plikowy (grupa B, nie produkt):
+# Presidio w konfiguracji `presidio-pl-ner` + python-docx/openpyxl/python-pptx; poziom plik.
+# Ruling R37: każdy uczestnik biegnie na wszystkich 5 językach; języki oficjalne jak w `presidio-pl-ner` (model NER per język).
+poziomy = ["plik"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["pl", "en", "es", "de", "fr"]
+formaty = ["docx", "xlsx", "pptx"]
+procesy = 2
+timeout_s = 1800      # analiza akapit po akapicie; listy płac XLSX (~1000 wartości w kilkuset komórkach) najdłużej
+start_timeout_s = 900

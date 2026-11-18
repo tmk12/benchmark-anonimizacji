@@ -1,0 +1,27 @@
+Centrum Prawne sp. z o.o.
+ul. Świętokrzyska 34/56, 58-965 Wałbrzych | NIP 7432190293
+FAKTURA VAT
+Data wystawienia: 22 marca 2023 r.
+Data sprzedaży: 22 marca 2023 r.
+Sprzedawca	Nabywca
+Centrum Prawne sp. z o.o.	Unitech sp. z o.o.
+ul. Świętokrzyska 34/56, 58-965 Wałbrzych	ul. Żeromskiego 74, 05-745 Pruszków
+NIP: 7432190293	NIP: 8987675457
+REGON: 266268386	REGON: 208107240
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	1 306,25 PLN	1 306,25 PLN	23%
+2	Opinia prawna w sprawie umowy najmu	1	613,35 PLN	613,35 PLN	23%
+3	Reprezentacja przed organem administracji	1	505,91 PLN	505,91 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+2 425,51 PLN	557,87 PLN	2 983,38 PLN
+Termin płatności: 17 kwietnia 2023 r. Sposób zapłaty: przelew na rachunek PL64102219079952092228001573.
+Adres e-mail do przesyłania potwierdzeń płatności: info@centrumprawne.example.net, tel. +48 000 416 888.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Grażynie Zawadzkiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Katarzyna Wiśniewska.
+Katarzyna Wiśniewska
+Centrum Prawne sp. z o.o. | ul. Świętokrzyska 34/56, 58-965 Wałbrzych | NIP 7432190293 | KRS 0000220178 | tel. +48 000 416 888
+Autor: Użytkownik
+Temat: Faktura VAT

@@ -1,0 +1,27 @@
+Frank, Krause & Partner Rechtsanwälte PartG mbB
+Am Bahnhof 29, 42833 Wuppertal | Steuernummer 321/181/49199 | USt-IdNr. DE661233202
+RECHNUNG Nr. R-233
+Rechnungsdatum: 4. Januar 2024
+Leistungszeitpunkt: 29. Dezember 2023
+Rechnungsaussteller	Rechnungsempfänger
+Frank, Krause & Partner Rechtsanwälte PartG mbB	Wohnbau Mitte GmbH
+Am Bahnhof 29, 42833 Wuppertal	Goethestraße 21, 42426 Wuppertal
+USt-IdNr. DE661233202	USt-IdNr. DE977744823
+Tel. 0171 3920029	Tel. 01522 8895456
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	2.612,87 €	2.612,87 €	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	2.281,50 €	2.281,50 €	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	6.900,13 €	6.900,13 €	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+11.794,50 €	2.240,96 €	14.035,46 €
+Zahlbar bis zum 22. Januar 2024 ohne Abzug durch Überweisung auf das Konto DE80500502011488400845 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an buero@frankkrausepartner.example.org, Tel. 0171 3920029.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Рeter Кoch als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Heike Zeller.
+Heike Zeller
+Frank, Krause & Partner Rechtsanwälte PartG mbB | Am Bahnhof 29, 42833 Wuppertal | USt-IdNr. DE661233202 | Tel. 0171 3920029
+Autor: Benutzer
+Betreff: Rechnung für Rechtsberatung

@@ -1,0 +1,25 @@
+UNITED STATES DISTRICT COURT FOR THE DISTRICT OF NEW MEXICO
+Case No. 2:20-cv-09257-KFD
+Jacob Hernandez, Plaintiff, v. Grace Martin, Defendant.
+FINDINGS OF FACT, CONCLUSIONS OF LAW AND ORDER FOR JUDGMENT
+11/26/2020
+Before the Honorable Kimberly Hall, United States District Judge. Appearances: Walter Green for Plaintiff; Margaret Barrett for Defendant.
+This matter came before the Court for a bench trial on 11/24/2020. Having considered the testimony, the exhibits and the arguments of counsel, the Court enters the following findings and conclusions pursuant to Fed. R. Civ. P. 52(a).
+Plaintiff Jacob Hernandez seeks to recover amounts allegedly due under a written contract. Defendant Grace Martin denies liability, asserting partial performance and setoff.
+Plaintiff filed this action on 07/02/2020 seeking $214,194.12 plus interest from 04/06/2020. Defendant answered and denied liability.
+On 02/26/2020 the parties entered into a written contract under which Plaintiff undertook to perform certain work and Defendant undertook to pay the price within fourteen days of acceptance. The work was accepted without reservation.
+The price was not paid by 04/06/2020. A letter requiring payment was sent on 05/11/2020. It went unanswered.
+Robert Miller testified for Plaintiff and Frank Miller testified for Defendant. The Court finds both witnesses credible, although their recollections differed in detail.
+The testimony of Brian Sharp, a construction cost estimator, was unrebutted and the Court accepts it as reliable.
+Under the governing state law, a plaintiff proves breach of contract by showing a valid contract, its own performance, the defendant's breach and resulting damages. Plaintiff has carried that burden by a preponderance of the evidence.
+The principle that a party who accepts work without reservation cannot later resist payment on the basis of defects readily apparent on inspection is stated in Jones v. Smith, 249 F.3d 558 (1st Cir. 2018), where the court held that acceptance is strong evidence of conformity with the contract.
+See also Lloyd v. Morgan, 600 F.3d 1009 (9th Cir. 2020) (holding that interest runs from the contractual due date without any further demand).
+Compare Ford v. Payne, 197 F. Supp. 3d 603 (N.D. Cal. 2019), and the authorities cited there on the assessment of damages for unpaid contract sums.
+The setoff defense fails because the cross-claim on which Defendant relies had not matured when Defendant invoked it.
+Judgment is entered for Plaintiff in the amount of $164,359.91, representing the contract price less the credit allowed for defective work.
+ORDER: (1) Judgment is entered for Plaintiff against Defendant in the amount of $164,359.91, with pre-judgment interest from 04/06/2020 and post-judgment interest under 28 U.S.C. § 1961.
+(2) Plaintiff shall recover its costs under Fed. R. Civ. P. 54(d)(1), taxed at $21,307.69, including attorneys' fees of $10,580.98.
+Any notice of appeal must be filed within thirty days of entry of this judgment under Fed. R. App. P. 4(a)(1)(A).
+Kimberly Hall
+United States District Court for the District of New Mexico | Case No. 2:20-cv-09257-KFD | Page 1
+Subject: Judgment in a claim for payment under a contract

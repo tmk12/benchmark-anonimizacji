@@ -1,0 +1,27 @@
+Crestview Inc.
+9537 Newton Court, Madison, WI 53717 | EIN 24-3154391
+INVOICE
+Invoice date: 12/28/2023
+Date of supply: 12/22/2023
+Bill from	Bill to
+Crestview Inc.	Cardinal LLC
+9537 Newton Court, Madison, WI 53717	922 Highland Road, Omaha, NE 68106
+EIN 24-3154391	EIN 75-4383384
+Phone (715) 555-0175	Phone (402) 555-0101
+Item	Description	Qty	Rate	Amount	Tax
+1	Monthly retainer for general legal counsel	1	$1,691.18	$1,691.18	8.25%
+2	Review of commercial lease	1	$2,111.09	$2,111.09	8.25%
+3	Regulatory filing and attendance	1	$5,716.21	$5,716.21	8.25%
+Subtotal	Sales tax 8.25%	Total due
+$9,518.48	$785.27	$10,303.75
+Payment due by 01/29/2024. Please pay by bank transfer to Routing No. 308465648, Account No. 9240399789, quoting the invoice date as the reference.
+Queries about this invoice: hello@crestview.test, tel. (715) 555-0175.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Joshua Edwards, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Ashley Taylor.
+Ashley Taylor
+Crestview Inc. | 9537 Newton Court, Madison, WI 53717 | EIN 24-3154391 | tel. (715) 555-0175
+Author: User
+Subject: Invoice for legal services

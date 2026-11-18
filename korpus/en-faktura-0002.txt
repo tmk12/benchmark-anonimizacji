@@ -1,0 +1,45 @@
+Oak & Ivy Design Corp.
+9901 Oak Lane, Denver, CO 80269 | EIN 21-8050196
+INVOICE
+Invoice date: 04/10/2023
+Date of supply: 03/31/2023
+Bill from: Oak & Ivy Design Corp.
+Bill to: Compass Co.
+Bill from: 9901 Oak Lane, Denver, CO 80269
+Bill to: 3445 Main Drive, Denver, CO 80283
+Bill from: EIN 21-8050196
+Bill to: EIN 86-7701435
+Bill from: Phone +1 303-555-0112
+Bill to: Phone (719) 555-0123
+Item: 1
+Description: Monthly retainer for general legal counsel
+Qty: 1
+Rate: $6,049.27
+Amount: $6,049.27
+Tax: 8.25%
+Item: 2
+Description: Review of commercial lease
+Qty: 1
+Rate: $13,316.80
+Amount: $13,316.80
+Tax: 8.25%
+Item: 3
+Description: Regulatory filing and attendance
+Qty: 1
+Rate: $15,408.08
+Amount: $15,408.08
+Tax: 8.25%
+Subtotal: $34,774.15
+Sales tax 8.25%: $2,868.87
+Total due: $37,643.02
+Payment due by 05/01/2023. Please pay by bank transfer to Routing No. 037827654, Account No. 519049172915, quoting the invoice date as the reference.
+Queries about this invoice: office@oakivydesign.test, tel. +1 303-555-0112.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Dennis Patrick, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Alexander Hernandez.
+Alexander Hernandez
+Oak & Ivy Design Corp. | 9901 Oak Lane, Denver, CO 80269 | EIN 21-8050196 | tel. +1 303-555-0112
+Author: Alexander Hernandez
+Subject: Invoice for legal services

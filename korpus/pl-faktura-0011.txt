@@ -1,0 +1,45 @@
+Skanska Projekt sp.j.
+ul. Krótka 66/10, 55-802 Oława | NIP 4782411095
+FAKTURA VAT
+Data wystawienia: 24 maja 2024 r.
+Data sprzedaży: 16 maja 2024 r.
+Sprzedawca: Skanska Projekt sp.j.
+Nabywca: Vistula sp. z o.o.
+Sprzedawca: ul. Krótka 66/10, 55-802 Oława
+Nabywca: ul. Armii Krajowej 68/55, 73-631 Stargard
+Sprzedawca: NIP: 4782411095
+Nabywca: NIP: 7135524603
+Sprzedawca: REGON: 413820717
+Nabywca: REGON: 189490954
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 15 maja 2023 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 1 115,14 PLN
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 8 849,97 PLN
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 19 829,01 PLN
+Stawka VAT: 23%
+Razem netto: 29 794,12 PLN
+Podatek VAT 23%: 6 852,65 PLN
+Razem do zapłaty (brutto): 36 646,77 PLN
+Termin płatności: 11 czerwca 2024 r. Sposób zapłaty: przelew na rachunek PL40154292524217624429551091.
+Adres e-mail do przesyłania potwierdzeń płatności: office@skanskaprojekt.example.org, tel. +48 000 499 398.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Eugeniuszowi Kowalskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Michał Pluta.
+Michał Pluta
+Skanska Projekt sp.j. | ul. Krótka 66/10, 55-802 Oława | NIP 4782411095 | KRS 0000926687 | tel. +48 000 499 398
+Autor: Użytkownik
+Temat: Faktura VAT

@@ -1,0 +1,26 @@
+Clearwater General Hospital NHS Trust
+107 Laurel Crescent, Bath BA4 3NU | tel. +44 161 496 0880
+DISCHARGE SUMMARY – CARDIOLOGY WARD
+Patient: James Lee, date of birth 27/07/1988
+NHS number: 6177260810 | National Insurance number: HW422971C
+Home address: 121 Jefferson Street, Bournemouth BH5 4UT, tel. 0117 496 0152
+Admitted: 18/06/2021. Discharged: 25/06/2021. Admission type: emergency.
+Primary diagnosis (ICD-10): I35.0 Aortic (valve) stenosis
+Secondary diagnoses: I48 Atrial fibrillation and flutter; I50.0 Congestive heart failure
+Presenting complaint and examination: admitted with progressive breathlessness on exertion, chest pain and ankle swelling. On examination there was tachycardia, bibasal crackles, blood pressure 165/95 mmHg and oxygen saturation of 93% on room air.
+Investigations: full blood count, CRP, creatinine, electrolytes, high-sensitivity troponin, NT-proBNP, urinalysis, ECG, chest X-ray and transthoracic echocardiogram. Detailed results are in the clinical record.
+There were no complications or adverse events during the admission. Diabetes and cardiology consultations were completed.
+Advice on discharge: low-sodium diet, fluid restriction to 1.5 litres a day, daily morning weights, no strenuous exertion for two weeks and complete cessation of smoking.
+Medicines on discharge (TTO): clopidogrel 75 mg as established at clinic; apixaban 5 mg once daily in the morning; spironolactone 25 mg as directed by the cardiology team.
+Follow-up: cardiology outpatient clinic on 05/07/2021, with blood tests (full blood count, creatinine, potassium). Please bring this summary to the appointment.
+A fit note covering absence from work until 16/07/2021 has been issued.
+Information about the condition and the planned treatment was given to the patient on the day of discharge; with the patient's consent information may be shared with Timothy Lewis (tel. 0113 496 0713).
+This summary has been sent to the patient's GP. It contains health data, which is special category data under Article 9 of the UK GDPR.
+The patient was advised to attend the emergency department or call 999 if chest pain, fainting or worsening breathlessness occurs.
+Responsible doctor: Abigail Taylor, GMC number 3226124
+Consultant cardiologist: Melissa Evans, GMC number 6120348
+Abigail Taylor
+Melissa Evans
+Clearwater General Hospital NHS Trust | 107 Laurel Crescent, Bath BA4 3NU | tel. +44 161 496 0880 | hello@clearwater.test
+Author: Abigail Taylor
+Subject: Discharge summary

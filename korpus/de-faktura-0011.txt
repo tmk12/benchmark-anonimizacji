@@ -1,0 +1,28 @@
+Wolf Rechtsanwälte PartG mbB
+Daimlerstraße 49, 93163 Regensburg | Steuernummer 342/0461/8221 | USt-IdNr. DE783752456
+RECHNUNG Nr. R-497
+Rechnungsdatum: 31. Januar 2025
+Leistungszeitpunkt: 21. Januar 2025
+Rechnungsaussteller	Rechnungsempfänger
+Wolf Rechtsanwälte PartG mbB	Kaiser Consulting GmbH
+Daimlerstraße 49, 93163 Regensburg	Kirchweg 100, 96694 Bamberg
+USt-IdNr. DE783752456	USt-IdNr. DE893565934
+Tel. +49 172 9968532	Tel. 0176 04069019
+Pos.	Leistung	Einheit	Menge	Gesamt netto	USt-Satz
+1	Beratung nach Vertrag vom 26. Juli 2024	pauschal	1	7.730,54 €	19 %
+2	Entwurf und Verhandlung von Dokumenten	pauschal	1	1.456,69 €	19 %
+3	Teilnahme an Gesellschafterversammlungen	pauschal	1	7.302,42 €	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+16.489,65 €	3.133,03 €	19.622,68 €
+Zahlbar bis zum 21. Februar 2025 ohne Abzug durch Überweisung auf das Konto DE32600501015777794392 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an info@wolfrechtsanwalte.test, Tel. +49 172 9968532.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Horst Albrecht als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Eberhard Sauter.
+Eberhard Sauter
+Wolf Rechtsanwälte PartG mbB | Daimlerstraße 49, 93163 Regensburg | USt-IdNr. DE783752456 | Tel. +49 172 9968532
+Autor: Eberhard Sauter
+Betreff: Rechnung für Rechtsberatung

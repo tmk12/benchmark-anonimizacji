@@ -1,0 +1,12 @@
+I50.0 Niewydolność serca zastoinowa
+I50.1 Niewydolność lewokomorowa
+I11.0 Nadciśnieniowa choroba serca z niewydolnością serca
+I10 Samoistne nadciśnienie tętnicze
+I48 Migotanie i trzepotanie przedsionków
+I25.1 Miażdżycowa choroba serca
+I20.0 Dławica piersiowa niestabilna
+I35.0 Zwężenie zastawki aortalnej
+E78.5 Hiperlipidemia nieokreślona
+E11.9 Cukrzyca typu 2 bez powikłań
+E66.9 Otyłość nieokreślona
+N18.3 Przewlekła choroba nerek stadium 3

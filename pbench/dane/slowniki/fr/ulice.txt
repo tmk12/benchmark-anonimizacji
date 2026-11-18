@@ -1,0 +1,246 @@
+rue de la République
+rue Victor Hugo
+rue Jean Jaurès
+rue de Paris
+rue du Général de Gaulle
+rue Pasteur
+rue de la Gare
+rue Nationale
+rue de l'Église
+rue des Écoles
+rue du Moulin
+rue de la Paix
+rue Gambetta
+rue du 8 Mai 1945
+rue du 11 Novembre
+rue de la Liberté
+rue Jules Ferry
+rue Carnot
+rue Voltaire
+rue Molière
+rue Racine
+rue Pierre Curie
+rue Marcelin Berthelot
+rue Émile Zola
+rue Anatole France
+rue Aristide Briand
+rue Clemenceau
+rue Léon Blum
+rue Jean Moulin
+rue du Maréchal Foch
+rue du Maréchal Leclerc
+rue de Verdun
+rue des Lilas
+rue des Tilleuls
+rue des Acacias
+rue des Chênes
+rue des Peupliers
+rue des Platanes
+rue des Cerisiers
+rue des Roses
+rue des Jardins
+rue des Vignes
+rue du Château
+rue du Stade
+rue du Commerce
+rue du Marché
+rue de la Mairie
+rue du Pont
+rue de la Fontaine
+rue du Four
+rue du Puits
+rue de la Croix
+rue Saint-Jacques
+rue Saint-Michel
+rue Saint-Antoine
+rue Saint-Honoré
+rue Saint-Denis
+rue Saint-Martin
+rue de Rivoli
+rue de Rennes
+rue de Vaugirard
+rue de Belleville
+rue de Charonne
+rue de Ménilmontant
+rue Oberkampf
+rue de la Roquette
+rue du Faubourg Saint-Antoine
+rue du Faubourg Saint-Honoré
+rue du Faubourg Saint-Denis
+rue La Fayette
+rue de Turbigo
+rue Montmartre
+rue Lepic
+rue des Martyrs
+rue de Clichy
+rue de Courcelles
+rue de Passy
+rue de la Pompe
+rue de Sèvres
+rue du Bac
+rue de Grenelle
+rue de l'Université
+rue Mouffetard
+rue Monge
+rue Gay-Lussac
+rue d'Ulm
+rue Descartes
+rue de Lyon
+rue de Marseille
+rue de Bordeaux
+rue de Toulouse
+rue de Strasbourg
+rue de Nantes
+rue de Lille
+rue de la Part-Dieu
+rue Garibaldi
+rue de la Villette
+rue Paul Bert
+rue Édouard Vaillant
+rue Marx Dormoy
+rue Henri Barbusse
+rue Maurice Thorez
+rue Salengro
+rue Ambroise Paré
+rue Louis Pasteur
+rue Camille Desmoulins
+rue Danton
+rue Robespierre
+rue Condorcet
+rue Diderot
+rue Rousseau
+rue Montesquieu
+rue Lamartine
+rue Alfred de Musset
+rue George Sand
+rue Balzac
+rue Flaubert
+rue Stendhal
+rue Verlaine
+rue Rimbaud
+rue Baudelaire
+rue Debussy
+rue Berlioz
+rue Gounod
+rue Ravel
+rue Bizet
+rue Cézanne
+rue Renoir
+rue Monet
+rue Matisse
+rue Pierre Loti
+rue Jeanne d'Arc
+rue Sainte-Catherine
+rue Notre-Dame
+rue du Docteur Roux
+rue du Colonel Fabien
+rue du Capitaine Dreyfus
+rue de l'Industrie
+rue de l'Usine
+rue du Port
+rue des Quais
+rue de la Plage
+rue des Pêcheurs
+rue des Marins
+rue des Tanneurs
+rue des Tisserands
+rue des Boulangers
+rue des Forgerons
+rue des Carrières
+rue des Vergers
+rue des Prés
+rue des Champs
+rue des Bois
+rue des Sources
+rue des Hirondelles
+rue des Mésanges
+rue des Rossignols
+rue des Pâquerettes
+rue des Bleuets
+rue des Violettes
+rue des Genêts
+rue des Bruyères
+rue des Marronniers
+avenue de la République
+avenue Jean Jaurès
+avenue du Général Leclerc
+avenue de Verdun
+avenue de la Gare
+avenue de la Liberté
+avenue Victor Hugo
+avenue Foch
+avenue Kléber
+avenue Mozart
+avenue Montaigne
+avenue des Champs-Élysées
+avenue de Clichy
+avenue d'Italie
+avenue de Choisy
+avenue de Saint-Ouen
+avenue du Maine
+avenue de la Grande Armée
+avenue de la Marne
+avenue de Paris
+avenue de Lyon
+avenue de la Libération
+avenue des Alpes
+avenue des Pyrénées
+avenue de Provence
+avenue de Bretagne
+avenue de Normandie
+avenue d'Alsace
+boulevard Saint-Germain
+boulevard Saint-Michel
+boulevard Haussmann
+boulevard Voltaire
+boulevard de Strasbourg
+boulevard de Magenta
+boulevard de Belleville
+boulevard Raspail
+boulevard Montparnasse
+boulevard de Sébastopol
+boulevard Gambetta
+boulevard Carnot
+boulevard Victor Hugo
+boulevard de la Liberté
+boulevard Pasteur
+boulevard des Écoles
+boulevard du Port
+boulevard Jean Jaurès
+boulevard Lafayette
+place de la République
+place de la Mairie
+place de l'Église
+place du Marché
+place de la Gare
+place Charles de Gaulle
+place de la Liberté
+place Jean Jaurès
+place du Théâtre
+place Bellecour
+place Stanislas
+place des Terreaux
+impasse des Lilas
+impasse du Moulin
+impasse de l'Église
+impasse des Écoles
+allée des Tilleuls
+allée des Roses
+allée des Platanes
+allée du Parc
+chemin des Vignes
+chemin du Moulin
+chemin de la Source
+chemin des Écoliers
+quai de la Loire
+quai de Seine
+quai du Rhône
+quai des Chartrons
+route de Paris
+route Nationale
+route de Lyon
+route de la Mer
+cours Mirabeau
+cours Lafayette
+cours Gambetta
+quai Saint-Pierre

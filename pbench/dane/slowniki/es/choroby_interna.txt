@@ -1,0 +1,25 @@
+I10 Hipertensión esencial (primaria)
+E11.9 Diabetes mellitus tipo 2 sin complicaciones
+E11.6 Diabetes mellitus tipo 2 con otras complicaciones especificadas
+E78.5 Hiperlipidemia no especificada
+E03.9 Hipotiroidismo no especificado
+E66.9 Obesidad no especificada
+E87.1 Hiponatremia
+J44.9 Enfermedad pulmonar obstructiva crónica no especificada
+J44.1 Enfermedad pulmonar obstructiva crónica con exacerbación aguda
+J18.9 Neumonía no especificada
+N18.3 Enfermedad renal crónica en estadio 3
+N39.0 Infección de vías urinarias, sitio no especificado
+K21.0 Enfermedad por reflujo gastroesofágico con esofagitis
+K29.5 Gastritis crónica no especificada
+K76.0 Hígado graso no clasificado en otra parte
+D50.9 Anemia por deficiencia de hierro
+D64.9 Anemia no especificada
+M10.9 Gota no especificada
+M81.0 Osteoporosis posmenopáusica
+I50.9 Insuficiencia cardíaca no especificada
+I48 Fibrilación y aleteo auricular
+F32.1 Episodio depresivo moderado
+G47.3 Apnea del sueño
+N40 Hiperplasia de la próstata
+N95.1 Estados menopáusicos y climatéricos

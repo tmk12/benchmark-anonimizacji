@@ -1,0 +1,27 @@
+Jantar sp. z o.o. sp.k.
+ul. Pokoju 106/91, 38-151 Sanok | NIP 6091844390
+FAKTURA VAT
+Data wystawienia: 5 stycznia 2024 r.
+Data sprzedaży: 29 grudnia 2023 r.
+Sprzedawca	Nabywca
+Jantar sp. z o.o. sp.k.	Hortus sp. z o.o.
+ul. Pokoju 106/91, 38-151 Sanok	ul. Krakowskie Przedmieście 69, 28-030 Jędrzejów
+NIP: 6091844390	NIP: 4980035327
+REGON: 453450985	REGON: 423842237
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 27 lutego 2023 r.	ryczałt	1	12 006,53 PLN	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	3 208,17 PLN	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	1 860,56 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+17 075,26 PLN	3 927,31 PLN	21 002,57 PLN
+Termin płatności: 31 stycznia 2024 r. Sposób zapłaty: przelew na rachunek PL70106083178123570866907827.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.jantar@example.com, tel. 000 304 472.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Waldemarowi Smolińskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Przemysław Szymański.
+Przemysław Szymański
+Jantar sp. z o.o. sp.k. | ul. Pokoju 106/91, 38-151 Sanok | NIP 6091844390 | KRS 0000184340 | tel. 000 304 472
+Autor: Przemysław Szymański
+Temat: Faktura VAT

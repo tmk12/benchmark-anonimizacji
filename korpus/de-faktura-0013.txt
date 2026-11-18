@@ -1,0 +1,27 @@
+Wolf, Hoffmeister & Partner Rechtsanwälte PartG mbB
+Kieler Straße 53, 50609 Köln | Steuernummer 622/3791/5457 | USt-IdNr. DE753401403
+RECHNUNG Nr. R-273
+Rechnungsdatum: 24.11.2022
+Leistungszeitpunkt: 18.11.2022
+Rechnungsaussteller	Rechnungsempfänger
+Wolf, Hoffmeister & Partner Rechtsanwälte PartG mbB	Ingenieurbüro Krause AG
+Kieler Straße 53, 50609 Köln	Stuttgarter Straße 170, 50962 Köln
+USt-IdNr. DE753401403	USt-IdNr. DE698132591
+Tel. +492214710368	Tel. 0221 4710327
+Pos.	Leistung	Einheit	Menge	Gesamt netto	USt-Satz
+1	Beratung nach Vertrag vom 26.01.2022	pauschal	1	1.324,47 EUR	19 %
+2	Entwurf und Verhandlung von Dokumenten	pauschal	1	8.600,62 EUR	19 %
+3	Teilnahme an Gesellschafterversammlungen	pauschal	1	908,39 EUR	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+10.833,48 EUR	2.058,36 EUR	12.891,84 EUR
+Zahlbar bis zum 21.12.2022 ohne Abzug durch Überweisung auf das Konto DE48870500004183651655 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an buero@wolfhoffmeisterpartner.example.org, Tel. +492214710368.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Friedrich Sommer als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Ursula Maier.
+Ursula Maier
+Wolf, Hoffmeister & Partner Rechtsanwälte PartG mbB | Kieler Straße 53, 50609 Köln | USt-IdNr. DE753401403 | Tel. +492214710368
+Autor: Benutzer
+Betreff: Rechnung für Rechtsberatung

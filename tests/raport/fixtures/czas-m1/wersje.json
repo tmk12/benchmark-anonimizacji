@@ -1,0 +1,13 @@
+{
+  "privatizer-tekst/tekst": {
+    "wersje": {
+      "narzedzie": "1.0",
+      "aplikacja": "9.8.7b6",
+      "model": "lgp-test",
+      "model_wersja": "0.0.1rc2",
+      "port": "8765",
+      "plan": "pro"
+    },
+    "zapisano": "2026-11-04T20:01:36+00:00"
+  }
+}

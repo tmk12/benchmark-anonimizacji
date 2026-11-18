@@ -1,0 +1,27 @@
+Cardinal Ltd
+25 Bedford Road, Canterbury CT4 1AT | VAT Reg. No. GB724534835
+VAT INVOICE
+Invoice date: 21/12/2022
+Date of supply: 16/12/2022
+From	To
+Cardinal Ltd	Northern Freight PLC
+25 Bedford Road, Canterbury CT4 1AT	156 Dorset Terrace, Kingston upon Hull HU1 2WR
+Company no. 09388375	Company no. 05452557
+VAT no. GB724534835	VAT no. GB382818916
+No.	Service	Unit	Qty	Net amount	VAT rate
+1	Services under agreement dated 01/03/2022	lump sum	1	£857.70	20%
+2	Drafting and negotiation of documents	lump sum	1	£625.66	20%
+3	Attendance at board meetings	lump sum	1	£4,701.93	20%
+Total net	VAT at 20%	Total payable
+£6,185.29	£1,237.06	£7,422.35
+Payment due by 12/01/2023. Please pay by bank transfer to GB69RBOS83693607759494, quoting the invoice date as the reference.
+Queries about this invoice: hello@cardinal.test, tel. 0121 496 0987.
+This invoice is issued in accordance with section 6 of the Value Added Tax Act 1994. The domestic reverse charge does not apply to these services.
+Late payment interest and a fixed recovery sum are claimable under the Late Payment of Commercial Debts (Interest) Act 1998.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Carol Shelton, the person authorised to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Christopher Reed.
+Christopher Reed
+Cardinal Ltd | 25 Bedford Road, Canterbury CT4 1AT | Company No. 09388375 | VAT No. GB724534835 | tel. 0121 496 0987
+Author: User
+Subject: Invoice for legal services

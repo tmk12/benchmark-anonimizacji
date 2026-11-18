@@ -1,0 +1,12 @@
+[
+  {
+    "location": "/korpus/*",
+    "tdm-reservation": 1,
+    "tdm-policy": "https://github.com/tmk12/benchmark-anonimizacji/blob/main/korpus/LICENCJA-KORPUSU.md"
+  },
+  {
+    "location": "/korpus-trudne/*",
+    "tdm-reservation": 1,
+    "tdm-policy": "https://github.com/tmk12/benchmark-anonimizacji/blob/main/korpus/LICENCJA-KORPUSU.md"
+  }
+]

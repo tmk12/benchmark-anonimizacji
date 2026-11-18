@@ -1,0 +1,45 @@
+Lumen sp. z o.o.
+ul. Koszykowa 83, 35-508 Rzeszów | NIP 1343811968
+FAKTURA VAT
+Data wystawienia: 27 sierpnia 2021 r.
+Data sprzedaży: 20 sierpnia 2021 r.
+Sprzedawca: Lumen sp. z o.o.
+Nabywca: Fabryka Mebli Orion sp. z o.o. sp.k.
+Sprzedawca: ul. Koszykowa 83, 35-508 Rzeszów
+Nabywca: ul. Targowa 150/13, 58-936 Wałbrzych
+Sprzedawca: NIP: 1343811968
+Nabywca: NIP: 5827111589
+Sprzedawca: REGON: 060780534
+Nabywca: REGON: 229686603
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 13 kwietnia 2020 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 18 762,44 PLN
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 3 913,03 PLN
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 805,55 PLN
+Stawka VAT: 23%
+Razem netto: 23 481,02 PLN
+Podatek VAT 23%: 5 400,63 PLN
+Razem do zapłaty (brutto): 28 881,65 PLN
+Termin płatności: 17 września 2021 r. Sposób zapłaty: przelew na rachunek PL86203058808144180812510768.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.lumen@example.com, tel. +48 000 387 529.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Aleksandrze Dąbrowskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Teresa Michalska.
+Teresa Michalska
+Lumen sp. z o.o. | ul. Koszykowa 83, 35-508 Rzeszów | NIP 1343811968 | KRS 0000873594 | tel. +48 000 387 529
+Autor: Użytkownik
+Temat: Faktura VAT

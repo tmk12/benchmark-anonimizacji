@@ -1,0 +1,28 @@
+Bufete Ureña y Asociados, S.L.P.
+Calle Mayor, 79, 3º A, 06827 Don Benito | CIF B47062005 | NIF-IVA ESB47062005
+FACTURA N.º A-154
+Fecha de expedición: 21/06/2024
+Fecha de la operación: 14/06/2024
+Emisor	Destinatario
+Bufete Ureña y Asociados, S.L.P.	Brisa, S.L.
+Calle Mayor, 79, 3º A, 06827 Don Benito	Plaza de Castilla, 46, 06480 Almendralejo
+CIF B47062005	CIF B28311371
+Tel. +34000810814	Tel. +34 000 88 16 83
+N.º	Concepto	Cantidad	Precio unitario	Base imponible	Tipo de IVA
+1	Cuota mensual de asesoramiento jurídico general	1	1.328,49 EUR	1.328,49 EUR	21 %
+2	Informe sobre contrato de arrendamiento de local	1	5.347,56 EUR	5.347,56 EUR	21 %
+3	Asistencia a reunión con la Administración	1	1.188,03 EUR	1.188,03 EUR	21 %
+Base imponible	IVA 21 %	Total factura
+7.864,08 EUR	1.651,46 EUR	9.515,54 EUR
+Vencimiento: 08/07/2024. Forma de pago: transferencia bancaria a la cuenta ES1400300617814632741969, indicando el número de factura como concepto.
+Consultas sobre esta factura: administracion@bufeteurenayasociados.example.org, tel. +34000810814.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Pau Ferrer Domínguez, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Santiago Ríos Martín.
+Santiago Ríos Martín
+Bufete Ureña y Asociados, S.L.P. | Calle Mayor, 79, 3º A, 06827 Don Benito | CIF B47062005 | tel. +34000810814
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

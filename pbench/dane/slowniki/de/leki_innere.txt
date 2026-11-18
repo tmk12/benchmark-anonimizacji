@@ -1,0 +1,14 @@
+Metformin|500;850;1000
+Pantoprazol|20;40
+Ramipril|2,5;5;10
+Torasemid|10;20
+Furosemid|20;40
+Simvastatin|20;40
+Prednisolon|5;20;50
+Allopurinol|100;300
+Metamizol|500
+Ciprofloxacin|250;500
+Spironolacton|25;50
+Apixaban|2,5;5
+Candesartan|8;16;32
+Colchicin|0,5

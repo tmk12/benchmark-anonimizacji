@@ -1,0 +1,27 @@
+Transport Express sp.j.
+ul. Świętokrzyska 146, 58-899 Wałbrzych | NIP 6582416143
+FAKTURA VAT
+Data wystawienia: 7 kwietnia 2026 r.
+Data sprzedaży: 31 marca 2026 r.
+Sprzedawca	Nabywca
+Transport Express sp.j.	Unitech sp. z o.o. sp.k.
+ul. Świętokrzyska 146, 58-899 Wałbrzych	ul. Wojska Polskiego 110C/27, 50-815 Wrocław
+NIP: 6582416143	NIP: 4807665580
+REGON: 115772140	REGON: 271280363
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 11 października 2024 r.	ryczałt	1	5 394,07 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	6 848,41 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	11 979,57 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+24 222,05 zł	5 571,07 zł	29 793,12 zł
+Termin płatności: 29 kwietnia 2026 r. Sposób zapłaty: przelew na rachunek PL95106966178673810272338912.
+Adres e-mail do przesyłania potwierdzeń płatności: info@transportexpress.example.net, tel. +48000356223.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Bogdanowi Gadomskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Irena Nosal.
+Irena Nosal
+Transport Express sp.j. | ul. Świętokrzyska 146, 58-899 Wałbrzych | NIP 6582416143 | KRS 0000979535 | tel. +48000356223
+Autor: Irena Nosal
+Temat: Faktura VAT

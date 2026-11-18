@@ -1,0 +1,28 @@
+Rechtsanwälte Krämer, Weber & Kollegen PartG mbB
+Gartenstraße 147, 03645 Cottbus | Steuernummer 90/216/25384 | USt-IdNr. DE427535582
+RECHNUNG Nr. R-155
+Rechnungsdatum: 24.04.2026
+Leistungszeitpunkt: 14.04.2026
+Rechnungsaussteller	Rechnungsempfänger
+Rechtsanwälte Krämer, Weber & Kollegen PartG mbB	Textil Franken GmbH
+Gartenstraße 147, 03645 Cottbus	Bergstraße 191, 03397 Cottbus
+USt-IdNr. DE427535582	USt-IdNr. DE102090241
+Tel. 01522 8895456	Tel. +49 172 9973186
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	18.756,91 EUR	18.756,91 EUR	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	879,63 EUR	879,63 EUR	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	7.480,89 EUR	7.480,89 EUR	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+27.117,43 EUR	5.152,31 EUR	32.269,74 EUR
+Zahlbar bis zum 15.05.2026 ohne Abzug durch Überweisung auf das Konto DE58200100208759942104 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an buero@rechtsanwaltekramerweber.example.org, Tel. 01522 8895456.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Tim Zimmermann als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Jörg Fröhlich.
+Jörg Fröhlich
+Rechtsanwälte Krämer, Weber & Kollegen PartG mbB | Gartenstraße 147, 03645 Cottbus | USt-IdNr. DE427535582 | Tel. 01522 8895456
+Autor: Jörg Fröhlich
+Betreff: Rechnung für Rechtsberatung

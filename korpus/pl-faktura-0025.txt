@@ -1,0 +1,27 @@
+Globe S.A.
+ul. Kopernika 6/66, 39-128 Tarnobrzeg | NIP 7527488003
+FAKTURA VAT
+Data wystawienia: 12.09.2025 r.
+Data sprzedaży: 10.09.2025 r.
+Sprzedawca	Nabywca
+Globe S.A.	Metalex sp. z o.o.
+ul. Kopernika 6/66, 39-128 Tarnobrzeg	ul. Złota 68/76, 64-840 Nowy Tomyśl
+NIP: 7527488003	NIP: 4667451441
+REGON: 358244874	REGON: 049082161
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 17.09.2024 r.	ryczałt	1	817,71 PLN	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	9 391,73 PLN	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	13 231,45 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+23 440,89 PLN	5 391,40 PLN	28 832,29 PLN
+Termin płatności: 29.09.2025 r. Sposób zapłaty: przelew na rachunek PL73116949756745849129187330.
+Adres e-mail do przesyłania potwierdzeń płatności: info@globe.example.net, tel. 000 608 159.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Mai Kowalskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Piotr Bielecki.
+Piotr Bielecki
+Globe S.A. | ul. Kopernika 6/66, 39-128 Tarnobrzeg | NIP 7527488003 | KRS 0000181546 | tel. 000 608 159
+Autor: Użytkownik
+Temat: Faktura VAT

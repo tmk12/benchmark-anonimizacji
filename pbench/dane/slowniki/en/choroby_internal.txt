@@ -1,0 +1,12 @@
+I10 Essential (primary) hypertension
+E11.9 Type 2 diabetes mellitus without complications
+E78.5 Hyperlipidaemia unspecified
+E03.9 Hypothyroidism unspecified
+J44.9 Chronic obstructive pulmonary disease unspecified
+J45.0 Predominantly allergic asthma
+K21.0 Gastro-oesophageal reflux disease with oesophagitis
+K29.5 Chronic gastritis unspecified
+K80.2 Calculus of gallbladder
+N18.3 Chronic kidney disease stage 3
+D50.9 Iron deficiency anaemia
+E66.9 Obesity unspecified

@@ -1,0 +1,151 @@
+Wykaz wspólników spółki
+Dokument sporządzono w dniu 23.01.2025 r. dla podmiotu Pol-Chem sp.k.
+Lp.	Wspólnik	Adres	PESEL	Liczba udziałów
+1	Jerzy Marciniak	ul. Rajska 16, 95-984 Pabianice	–	149
+2	Stanisława Pietrzak	ul. Gdańska 10C/79, 83-104 Kościerzyna	–	257
+3	Katarzyna Bielska	–	–	128
+4	Andrzej Sikorski	ul. Południowa 82/120, 64-998 Chodzież	66111423877	36
+5	Bogdan Pawlak	ul. Grójecka 150, 44-087 Gliwice	70021275493	370
+6	Zenon Maciejewski	–	73081748574	134
+7	Ryszard Kwiatkowski	ul. Mickiewicza 83, 27-504 Starachowice	–	297
+8	Agnieszka Jankowska	–	–	118
+9	Irena Bielecka	ul. Batorego 9, 96-876 Sochaczew	84062403340	105
+10	Józef Jankowski	ul. Sienkiewicza 7/95, 73-801 Stargard	44013002370	191
+11	Michał Zieliński	ul. Krótka 26, 55-231 Oława	68112667597	398
+12	Róża Malinowska	ul. Piękna 144/79, 90-118 Łódź	86080524946	69
+13	Zuzanna Adamczyk	al. Jerozolimskie 122, 34-017 Zakopane	85123011348	319
+14	Jan Wojciechowski	ul. Warszawska 42/87, 41-654 Świętochłowice	99100549973	97
+15	Andrzej Nowak	–	–	85
+16	Sandra Rutkowska	ul. Krakowskie Przedmieście 108/99, 75-578 Koszalin	–	245
+17	Zdzisława Lis	ul. Klasztorna 114/84, 80-014 Gdańsk	–	262
+18	Violetta Chmielewska	–	–	150
+19	Piotr Malinowski	ul. Dąbrowskiego 17, 81-355 Gdynia	44112158556	185
+20	Adam Bukowski	ul. Krakowskie Przedmieście 135, 34-924 Limanowa	82101389255	71
+21	Marcin Bednarczyk	ul. Zygmunta Augusta 125, 88-557 Inowrocław	82042931131	106
+22	Małgorzata Lenart	al. Armii Ludowej 51, 26-805 Końskie	–	380
+23	Bożena Mazur	ul. Mostowa 141, 90-067 Łódź	70033113747	59
+24	Michał Szymański	–	–	49
+25	Paweł Woźniak	ul. Mickiewicza 29, 22-916 Chełm	48072750032	352
+26	Karol Łukasik	ul. Lipowa 5A, 83-625 Starogard Gdański	–	329
+27	Pelagia Kwiatkowska	–	62012404481	366
+28	Wojciech Ostrowski	–	89040314052	143
+29	Marta Kowalska	–	–	180
+30	Jan Wilczek	ul. Tysiąclecia 138, 39-004 Dębica	–	375
+31	Leszek Orzechowski	–	96073038134	201
+32	Anna Kita	–	60092497706	72
+33	Natalia Mazurek	ul. Kościuszki 121, 10-171 Olsztyn	62022011408	392
+34	Dagmara Mazur	–	56110979400	163
+35	Nikodem Piątek	–	–	243
+36	Robert Grabowski	ul. Puławska 125, 48-824 Nysa	–	42
+37	Hubert Przybylski	ul. Prosta 139, 00-256 Warszawa	75060642451	238
+38	Genowefa Kędzierska	ul. Brzozowa 7, 90-856 Łódź	–	70
+39	Anna Kowalczyk	–	–	339
+40	Amelia Gajewska	ul. Ratuszowa 141, 44-500 Jastrzębie-Zdrój	57081475340	350
+41	Irena Zielińska	–	–	184
+42	Piotr Wasilewski	–	94052883999	363
+43	Maja Łukasik	–	–	319
+44	Magdalena Bieniek	ul. Mokotowska 112/52, 82-103 Kwidzyn	–	307
+45	Sabina Lewandowska	ul. Sienkiewicza 79/30, 22-325 Chełm	–	129
+46	Maciej Dobrowolski	–	–	71
+47	Michał Zaręba	ul. Zwycięstwa 80C, 82-491 Elbląg	–	219
+48	Anita Piotrowska	ul. Parkowa 135, 86-117 Grudziądz	–	55
+49	Krzysztof Nowak	–	84050497595	274
+50	Patrycja Brzezińska	–	53081341182	354
+51	Sebastian Witkowski	–	–	173
+52	Roman Krawczyk	ul. Dolna 13/111, 75-336 Koszalin	–	306
+53	Paweł Kubicki	–	–	218
+54	Zofia Zych	–	–	92
+55	Łukasz Kubiak	–	83103133873	218
+56	Zdzisław Wilczek	ul. Pocztowa 91, 64-730 Piła	74100174990	229
+57	Małgorzata Kubicka	–	–	321
+58	Zuzanna Wysocka	ul. Nowy Świat 114/120, 28-419 Pińczów	78022703223	101
+59	Urszula Nowakowska	ul. Dąbrowskiego 12, 41-561 Bytom	75043037029	362
+60	Elżbieta Baranowska	–	46071306704	148
+61	Natalia Madej	–	62083168426	364
+62	Mirosław Wieczorek	ul. Ząbkowska 92, 37-370 Łańcut	–	90
+63	Hubert Zawadzki	–	–	186
+64	Joanna Przybylska	–	–	370
+65	Alicja Augustyniak	–	56012224963	248
+66	Marek Woźniak	ul. Krótka 148, 48-383 Prudnik	68011040897	173
+67	Agnieszka Michalska	ul. Morska 13, 22-961 Chełm	99071770604	169
+68	Henryka Kaźmierczak	ul. Reymonta 139/72, 65-097 Zielona Góra	–	204
+69	Laura Krawczyk	ul. Piękna 53, 11-107 Kętrzyn	–	156
+70	Irena Jankowska	ul. Klonowa 44/49, 76-006 Słupsk	–	327
+71	Joanna Majewska	–	86092875508	145
+72	Anna Wiśniewska	–	92060418567	286
+73	Piotr Witkowski	–	–	278
+74	Halina Jaworska	–	73011913386	299
+75	Ludwik Wójcik	ul. Puławska 34, 26-515 Radom	–	63
+76	Jan Król	–	87090531258	290
+77	Katarzyna Kowalewska	ul. Gdańska 94, 90-714 Łódź	72061483885	99
+78	Wojciech Madej	ul. Moniuszki 103, 21-787 Lubartów	–	58
+79	Jakub Dudek	ul. Złota 15A/111, 87-455 Ciechocinek	–	390
+80	Sławomir Jaworski	–	–	284
+81	Paulina Lis	ul. Częstochowska 112B/59, 30-974 Kraków	–	194
+82	Stanisław Mazur	ul. Puławska 23, 37-111 Łańcut	–	108
+83	Marian Grzelak	ul. Marszałkowska 91/62, 42-508 Częstochowa	–	364
+84	Jan Szymański	al. Solidarności 119C, 43-735 Jaworzno	95022033992	92
+85	Karol Nowak	–	89051613595	29
+86	Antoni Kowalski	–	–	112
+87	Weronika Wójcik	ul. Powstańców Warszawy 86, 47-036 Strzelce Opolskie	–	231
+88	Krystian Kozłowski	ul. Francuska 129/77, 00-096 Warszawa	–	65
+89	Maria Włodarczyk	ul. Rzeszowska 99/57, 33-056 Tarnów	–	381
+90	Dorota Sobczak	ul. Rewolucji 1905 r. 121, 60-849 Poznań	46011467483	103
+91	Sabina Wesołowska	ul. Norwida 95, 00-414 Warszawa	–	118
+92	Bronisław Wach	ul. Świętokrzyska 145, 41-569 Świętochłowice	84110752932	277
+93	Jacek Kowalski	ul. Sądowa 141/31, 40-693 Katowice	–	10
+94	Paweł Kubiak	–	81012052739	63
+95	Łukasz Lis	ul. Długa 93, 64-679 Nowy Tomyśl	42060168672	272
+96	Jacek Król	–	–	136
+97	Wojciech Wójcik	–	–	21
+98	Alan Nowak	ul. Rybacka 118, 39-761 Mielec	–	281
+99	Artur Dolny	ul. Hoża 10A/16, 87-693 Toruń	85042799516	257
+100	Roman Wawrzyniak	ul. Tuwima 147, 22-336 Zamość	–	391
+101	Halina Wieczorek	–	90121723386	36
+102	Michał Bielski	ul. Krakowska 92/22, 39-170 Mielec	–	59
+103	Olga Michalska	ul. Grójecka 132/71, 98-170 Wieluń	–	302
+104	Weronika Wiśniewska	–	–	302
+105	Hana Czarnecka	ul. Piękna 48, 30-200 Kraków	–	18
+106	Krystyna Piątek	–	–	295
+107	Jan Michalski	ul. Kowalska 18/33, 07-686 Ostrołęka	42062834874	273
+108	Anita Strzelecka	ul. Grabiszyńska 122, 46-847 Kluczbork	68051769383	132
+109	Paweł Michalik	ul. Żelazna 86/109, 84-939 Hel	–	268
+110	Dominik Mróz	ul. Staszica 6/60, 39-554 Dębica	85082009118	67
+111	Konrad Szczepański	ul. Bohaterów Getta 56/101, 26-694 Skarżysko-Kamienna	–	74
+112	Nikola Kania	–	–	130
+113	Jan Szafrański	ul. Staszica 124/11, 22-533 Zamość	99110136178	155
+114	Tomasz Żak	ul. Konopnickiej 70, 70-565 Szczecin	–	56
+115	Mateusz Lech	–	82031796918	308
+116	Agata Maj	–	–	194
+117	Dariusz Zakrzewski	ul. Handlowa 119/84, 40-203 Katowice	–	46
+118	Lena Czarnecka	ul. Piękna 105B/26, 44-430 Rybnik	–	170
+119	Marta Kowalczyk	ul. Zygmunta Augusta 41/73, 41-065 Zabrze	70042231368	277
+120	Leokadia Urbańska	ul. Długa 102/65, 50-562 Wrocław	–	146
+121	Waldemar Wojciechowski	ul. Żelazna 82, 85-274 Bydgoszcz	51012178557	176
+122	Bożena Grzybowska	–	–	104
+123	Adam Wawrzyniak	–	–	298
+124	Władysława Pawlak	ul. Krakowskie Przedmieście 129, 41-347 Sosnowiec	–	26
+125	Celina Lis	ul. Francuska 80/58, 58-969 Wałbrzych	–	358
+126	Barbara Gołębiowska	ul. Dębowa 117/92, 84-548 Wejherowo	–	132
+127	Jerzy Gil	–	49060582457	291
+128	Longin Wróblewski	ul. Stefana Czarnieckiego 29/73, 63-671 Jarocin	61060162332	395
+129	Maria Maciejewska	ul. Wyspiańskiego 35B/94, 78-518 Kołobrzeg	–	141
+130	Arkadiusz Olejnik	ul. Nadbrzeżna 114/26, 30-438 Kraków	–	73
+131	Maria Zielińska	ul. Wolska 15/9, 66-714 Gorzów Wielkopolski	–	164
+132	Jacek Radecki	pl. Powstańców Warszawy 144, 72-446 Świnoujście	–	102
+133	Patryk Ratajczak	ul. Ratuszowa 124, 42-716 Zawiercie	–	135
+134	Małgorzata Urbaniak	ul. Zygmunta Augusta 141/46, 80-608 Gdańsk	–	243
+135	Michał Kaczor	–	88011383532	177
+136	Elżbieta Woźniak	ul. Sobieskiego 12/63, 83-661 Tczew	–	243
+137	Patryk Lewandowski	ul. Targowa 47, 30-444 Kraków	–	292
+138	Magdalena Chudzik	ul. Długa 14, 41-367 Bytom	79041170069	291
+139	Danuta Stępień	ul. Nowy Świat 140, 55-274 Trzebnica	–	305
+140	Adam Jankowski	ul. Kościelna 11/113, 00-947 Warszawa	–	113
+141	Arkadiusz Sowiński	os. Armii Krajowej 120/71, 35-145 Rzeszów	–	231
+142	Magdalena Tomaszewska	al. Niepodległości 11/109, 05-694 Wołomin	–	72
+143	Joanna Nowakowska	–	–	244
+144	Dariusz Włodarczyk	ul. Stolarska 44, 75-759 Koszalin	–	231
+145	Jakub Brodowski	ul. Krótka 53, 42-474 Częstochowa	–	225
+146	Małgorzata Konieczna	–	–	148
+147	Marek Błaszczyk	ul. Północna 11/47, 45-499 Opole	–	124
+Listę sporządził i zatwierdził Dorota Sobczak.

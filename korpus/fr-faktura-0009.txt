@@ -1,0 +1,29 @@
+SELARL Richard & Roussel Avocats
+137 avenue de la République, 49292 Angers | SIREN 750700254 | TVA intracommunautaire FR73750700254
+FACTURE N° F-434
+Date d'émission : 07/08/2024
+Date de la prestation : 05/08/2024
+Émetteur	Client
+SELARL Richard & Roussel Avocats	Garonne SAS
+137 avenue de la République, 49292 Angers	172 bis boulevard de Sébastopol, 49600 Angers
+SIREN 750700254	SIREN 653031344
+TVA intracommunautaire FR73750700254	TVA intracommunautaire FR79653031344
+Tél. +33 2 61 91 91 01	Tél. +33 2 61 91 13 32
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 28/12/2022	forfait	1	4 832,59 €	20 %
+2	Rédaction et négociation d'actes	forfait	1	1 310,17 €	20 %
+3	Assistance à des assemblées d'associés	forfait	1	13 666,52 €	20 %
+Total HT	TVA 20 %	Total TTC
+19 809,28 €	3 961,86 €	23 771,14 €
+Échéance de paiement : 26/08/2024, par virement sur le compte FR7630006106988749618756378 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : bureau@richardrousselavocats.example.org, tél. +33 2 61 91 91 01.
+Mentions légales : SELARL Richard & Roussel Avocats, société d'exercice libéral à responsabilité limitée au capital de 7 220,00 €, RCS Angers 750700254, TVA intracommunautaire FR73750700254.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Alain Carpentier, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Dylan Martin.
+Dylan Martin
+SELARL Richard & Roussel Avocats | 137 avenue de la République, 49292 Angers | SIREN 750700254 | TVA intracommunautaire FR73750700254 | Tél. +33 2 61 91 91 01
+Auteur: Utilisateur
+Objet: Facture d'honoraires

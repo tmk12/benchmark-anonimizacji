@@ -1,0 +1,12 @@
+I50.0 Congestive heart failure
+I50.1 Left ventricular failure
+I11.0 Hypertensive heart disease with heart failure
+I10 Essential (primary) hypertension
+I48 Atrial fibrillation and flutter
+I25.1 Atherosclerotic heart disease
+I20.0 Unstable angina
+I35.0 Aortic (valve) stenosis
+E78.5 Hyperlipidemia unspecified
+E11.9 Type 2 diabetes mellitus without complications
+E66.9 Obesity unspecified
+N18.3 Chronic kidney disease stage 3

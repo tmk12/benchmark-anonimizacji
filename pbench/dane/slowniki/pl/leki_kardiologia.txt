@@ -1,0 +1,11 @@
+bisoprolol|2,5;5;10
+metoprolol|25;50;100
+ramipryl|2,5;5;10
+losartan|50;100
+amlodypina|5;10
+furosemid|20;40
+spironolakton|25;50
+atorwastatyna|10;20;40
+klopidogrel|75
+warfaryna|3;5
+apiksaban|2,5;5

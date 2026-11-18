@@ -1,0 +1,23 @@
+Specjalistyczne Centrum Medyczne Inpol sp. z o.o.
+ul. Stefana Czarnieckiego 128/58, 08-672 Siedlce | tel. 000 505 160 | REGON 243469964
+Siedlce, dnia 10 stycznia 2025 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 20 stycznia 2025 r.
+Dane pacjenta: Ludwik Wróbel, PESEL 04283195213, data urodzenia 31 sierpnia 2004 r.
+Adres: ul. Poznańska 138, 25-513 Kielce, tel. +48 000 629 201
+Skierowuję Ludwika Wróbla do szpitala: Rolnik Centrum Medyczne sp. z o.o., ul. Starowiślna 36/107, 05-049 Marki, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): E03.9 Niedoczynność tarczycy
+Rozpoznanie dodatkowe: E66.9 Otyłość nieokreślona
+Dotychczasowe leczenie: pantoprazol 40 mg – bez wystarczającej poprawy; omeprazol 20 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: +48 000 773 021, e-mail info@rolnik.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Specjalistyczne Centrum Medyczne Inpol sp. z o.o. oraz osobie wskazanej przez pacjenta: Zdzisławie Tkaczyk.
+Lekarz kierujący: Albert Kowalski, nr PWZ 2524326
+Miejsce pieczęci imiennej i podpisu
+Albert Kowalski
+Specjalistyczne Centrum Medyczne Inpol sp. z o.o. | ul. Stefana Czarnieckiego 128/58, 08-672 Siedlce | tel. 000 505 160 | biuro@inpol.test
+Autor: Użytkownik
+Temat: Skierowanie na leczenie szpitalne

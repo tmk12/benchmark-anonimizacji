@@ -1,0 +1,27 @@
+Handel-Pol S.A.
+ul. Aleja Jana Pawła II 108, 67-717 Głogów | NIP 2087047751
+FAKTURA VAT
+Data wystawienia: 15 czerwca 2022 r.
+Data sprzedaży: 10 czerwca 2022 r.
+Sprzedawca	Nabywca
+Handel-Pol S.A.	Quantum sp.j.
+ul. Aleja Jana Pawła II 108, 67-717 Głogów	ul. Wolności 36/56, 90-682 Łódź
+NIP: 2087047751	NIP: 6467858268
+REGON: 423919750	REGON: 062588048
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	2 232,22 zł	2 232,22 zł	23%
+2	Opinia prawna w sprawie umowy najmu	1	2 302,11 zł	2 302,11 zł	23%
+3	Reprezentacja przed organem administracji	1	1 352,94 zł	1 352,94 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+5 887,27 zł	1 354,07 zł	7 241,34 zł
+Termin płatności: 11 lipca 2022 r. Sposób zapłaty: przelew na rachunek PL60215351905137042220221848.
+Adres e-mail do przesyłania potwierdzeń płatności: info@handelpol.example.net, tel. 000 933 176.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Piotrowi Jaworskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Wojciech Kozłowski.
+Wojciech Kozłowski
+Handel-Pol S.A. | ul. Aleja Jana Pawła II 108, 67-717 Głogów | NIP 2087047751 | KRS 0000172537 | tel. 000 933 176
+Autor: Wojciech Kozłowski
+Temat: Faktura VAT

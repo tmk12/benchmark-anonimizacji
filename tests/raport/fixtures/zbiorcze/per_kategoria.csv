@@ -1,0 +1,9 @@
+ranking,uczestnik,kategoria,wartosci,wyciekle,odsetek_wyciekow
+tekst,privatizer-tekst,ADRES,1000,100,0.1
+tekst,privatizer-tekst,KWOTA,800,40,0.05
+tekst,privatizer-tekst-maks,ADRES,1000,10,0.01
+tekst,privatizer-tekst-maks,KWOTA,800,0,0.0
+pliki,privatizer-plik,ADRES,500,60,0.12
+pliki,privatizer-plik,KWOTA,300,20,0.066667
+pliki,privatizer-plik-maks,ADRES,500,20,0.04
+pliki,privatizer-plik-maks,KWOTA,300,0,0.0

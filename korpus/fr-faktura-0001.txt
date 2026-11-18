@@ -1,0 +1,49 @@
+SELARL Dubois & Girard Avocats
+86 rue du Faubourg Saint-Honoré, 76422 Rouen | SIREN 750853905 | TVA intracommunautaire FR82750853905
+FACTURE N° F-174
+Date d'émission : 27 mars 2026
+Date de la prestation : 18 mars 2026
+Émetteur: SELARL Dubois & Girard Avocats
+Client: Cabinet Dubois EURL
+Émetteur: 86 rue du Faubourg Saint-Honoré, 76422 Rouen
+Client: 7 rue Molière, 76510 Rouen
+Émetteur: SIREN 750853905
+Client: SIREN 886769108
+Émetteur: TVA intracommunautaire FR82750853905
+Client: TVA intracommunautaire FR80886769108
+Émetteur: Tél. +33 2 61 91 26 96
+Client: Tél. +33 2 61 91 72 94
+Réf.: 1
+Désignation: Conseil selon la convention du 20 novembre 2024
+Unité: forfait
+Quantité: 1
+Total HT: 705,44 EUR
+TVA: 20 %
+Réf.: 2
+Désignation: Rédaction et négociation d'actes
+Unité: forfait
+Quantité: 1
+Total HT: 932,18 EUR
+TVA: 20 %
+Réf.: 3
+Désignation: Assistance à des assemblées d'associés
+Unité: forfait
+Quantité: 1
+Total HT: 3 470,05 EUR
+TVA: 20 %
+Total HT: 5 107,67 EUR
+TVA 20 %: 1 021,53 EUR
+Total TTC: 6 129,20 EUR
+Échéance de paiement : 24 avril 2026, par virement sur le compte FR7630056590672843053333923 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : bureau@duboisgirardavocats.example.org, tél. +33 2 61 91 26 96.
+Mentions légales : SELARL Dubois & Girard Avocats, société d'exercice libéral à responsabilité limitée au capital de 4 640,00 EUR, RCS Rouen 750853905, TVA intracommunautaire FR82750853905.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Mathieu Leroy, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Béatrice Salmon.
+Béatrice Salmon
+SELARL Dubois & Girard Avocats | 86 rue du Faubourg Saint-Honoré, 76422 Rouen | SIREN 750853905 | TVA intracommunautaire FR82750853905 | Tél. +33 2 61 91 26 96
+Auteur: Utilisateur
+Objet: Facture d'honoraires

@@ -1,0 +1,7 @@
+<section class="okladka">
+  <div class="logo">{{ logo }}</div>
+  <p class="tytul">{{ tytul }}</p>
+  {% if towarzyszy %}<p class="wersja">Dokument towarzyszący raportowi „{{ towarzyszy }}”</p>{% endif %}
+  <p class="wersja">Wersja metodyki: prerejestracja-1 (zamrożona {{ daty.zamrozenie }})</p>
+  <p class="data">Data raportu: {{ daty.raport }}</p>
+</section>

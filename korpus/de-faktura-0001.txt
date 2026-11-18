@@ -1,0 +1,28 @@
+Rechtsanwälte Schmitz, Schulz & Kollegen PartG mbB
+Gutenbergstraße 48, 65480 Wiesbaden | Steuernummer 489/630/96872 | USt-IdNr. DE779263153
+RECHNUNG Nr. R-574
+Rechnungsdatum: 11. März 2021
+Leistungszeitpunkt: 11. März 2021
+Rechnungsaussteller	Rechnungsempfänger
+Rechtsanwälte Schmitz, Schulz & Kollegen PartG mbB	Recycling Ruhr GmbH
+Gutenbergstraße 48, 65480 Wiesbaden	Rathausplatz 86, 65837 Wiesbaden
+USt-IdNr. DE779263153	USt-IdNr. DE188532350
+Tel. +49 171 3920025	Tel. +49 1525 4599371
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	3.568,18 €	3.568,18 €	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	4.010,49 €	4.010,49 €	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	7.907,19 €	7.907,19 €	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+15.485,86 €	2.942,31 €	18.428,17 €
+Zahlbar bis zum 2. April 2021 ohne Abzug durch Überweisung auf das Konto DE05660501019455706549 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an zentrale@rechtsanwalteschmitz.example.net, Tel. +49 171 3920025.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Angelika Fischer als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Sabrina Köhler.
+Sabrina Köhler
+Rechtsanwälte Schmitz, Schulz & Kollegen PartG mbB | Gutenbergstraße 48, 65480 Wiesbaden | USt-IdNr. DE779263153 | Tel. +49 171 3920025
+Autor: Benutzer
+Betreff: Rechnung für Rechtsberatung

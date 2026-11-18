@@ -1,0 +1,30 @@
+SELARL Bonnet-Vernet Avocats
+150 rue Jean Jaurès, 45044 Orléans | SIREN 728130675 | TVA intracommunautaire FR52728130675
+FACTURE N° F-204
+Date d'émission : 28/03/2025
+Date de la prestation : 24/03/2025
+Émetteur	Client
+SELARL Bonnet-Vernet Avocats	Normandie SA
+150 rue Jean Jaurès, 45044 Orléans	139 rue de Charonne, 38459 Grenoble
+SIREN 728130675	SIREN 825374390
+TVA intracommunautaire FR52728130675	TVA intracommunautaire FR11825374390
+Tél. +33 2 61 91 55 43	Tél. 04 65 71 03 44
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 23/02/2024	forfait	1	581,78 €	20 %
+2	Rédaction et négociation d'actes	forfait	1	1 305,42 €	20 %
+3	Assistance à des assemblées d'associés	forfait	1	984,34 €	20 %
+Total HT	TVA 20 %	Total TTC
+2 871,54 €	574,31 €	3 445,85 €
+Échéance de paiement : 28/04/2025, par virement sur le compte FR7630006668912565055607838 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : contact@bonnetvernetavocats.test, tél. +33 2 61 91 55 43.
+Mentions légales : SELARL Bonnet-Vernet Avocats, société d'exercice libéral à responsabilité limitée au capital de 6 940,00 €, RCS Orléans 728130675, TVA intracommunautaire FR52728130675.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Olivier Leroy, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Martine Henry.
+Martine Henry
+SELARL Bonnet-Vernet Avocats | 150 rue Jean Jaurès, 45044 Orléans | SIREN 728130675 | TVA intracommunautaire FR52728130675 | Tél. +33 2 61 91 55 43
+Auteur: Martine Henry
+Objet: Facture d'honoraires

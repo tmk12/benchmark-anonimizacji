@@ -1,0 +1,45 @@
+Rewit S.A.
+ul. Puławska 133/8, 05-338 Nowy Dwór Mazowiecki | NIP 4316740384
+FAKTURA VAT
+Data wystawienia: 12.09.2025 r.
+Data sprzedaży: 11.09.2025 r.
+Sprzedawca: Rewit S.A.
+Nabywca: Silesia S.A.
+Sprzedawca: ul. Puławska 133/8, 05-338 Nowy Dwór Mazowiecki
+Nabywca: ul. Krótka 91, 59-692 Zgorzelec
+Sprzedawca: NIP: 4316740384
+Nabywca: NIP: 4426194209
+Sprzedawca: REGON: 143328416
+Nabywca: REGON: 494812057
+Lp.: 1
+Nazwa towaru lub usługi: Stała obsługa prawna za miesiąc rozliczeniowy
+Ilość: 1
+Cena netto: 5 604,57 zł
+Wartość netto: 5 604,57 zł
+VAT: 23%
+Lp.: 2
+Nazwa towaru lub usługi: Opinia prawna w sprawie umowy najmu
+Ilość: 1
+Cena netto: 8 707,58 zł
+Wartość netto: 8 707,58 zł
+VAT: 23%
+Lp.: 3
+Nazwa towaru lub usługi: Reprezentacja przed organem administracji
+Ilość: 1
+Cena netto: 2 066,71 zł
+Wartość netto: 2 066,71 zł
+VAT: 23%
+Razem netto: 16 378,86 zł
+Podatek VAT 23%: 3 767,14 zł
+Razem do zapłaty (brutto): 20 146,00 zł
+Termin płatności: 29.09.2025 r. Sposób zapłaty: przelew na rachunek PL67194343220010566980566403.
+Adres e-mail do przesyłania potwierdzeń płatności: info@rewit.example.net, tel. +48 000 969 595.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Wandzie Brzezińskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Pelagia Kos.
+Pelagia Kos
+Rewit S.A. | ul. Puławska 133/8, 05-338 Nowy Dwór Mazowiecki | NIP 4316740384 | KRS 0000970447 | tel. +48 000 969 595
+Autor: Użytkownik
+Temat: Faktura VAT

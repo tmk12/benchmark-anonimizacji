@@ -1,0 +1,28 @@
+Schmid Rechtsanwälte PartG mbB
+Kirchweg 22, 01850 Dresden | Steuernummer 167/307/74354 | USt-IdNr. DE486040337
+RECHNUNG Nr. R-416
+Rechnungsdatum: 24. Dezember 2024
+Leistungszeitpunkt: 20. Dezember 2024
+Rechnungsaussteller	Rechnungsempfänger
+Schmid Rechtsanwälte PartG mbB	Weser KG
+Kirchweg 22, 01850 Dresden	Schulstraße 152, 01119 Dresden
+USt-IdNr. DE486040337	USt-IdNr. DE207399185
+Tel. +49 174 9464308	Tel. +4915228895456
+Pos.	Leistung	Einheit	Menge	Gesamt netto	USt-Satz
+1	Beratung nach Vertrag vom 28. August 2024	pauschal	1	18.189,61 €	19 %
+2	Entwurf und Verhandlung von Dokumenten	pauschal	1	1.441,34 €	19 %
+3	Teilnahme an Gesellschafterversammlungen	pauschal	1	3.890,49 €	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+23.521,44 €	4.469,07 €	27.990,51 €
+Zahlbar bis zum 21. Januar 2025 ohne Abzug durch Überweisung auf das Konto DE14600100708225266885 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an info@schmidrechtsanwalte.test, Tel. +49 174 9464308.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Doris Zimmermann als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Hans Rieger.
+Hans Rieger
+Schmid Rechtsanwälte PartG mbB | Kirchweg 22, 01850 Dresden | USt-IdNr. DE486040337 | Tel. +49 174 9464308
+Autor: Hans Rieger
+Betreff: Rechnung für Rechtsberatung

@@ -1,0 +1,10 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). scrubadub (grupa B): same wzorce, konfiguracja domyślna; poziom tekst.
+# Ruling R37: każdy uczestnik tekstowy biegnie na wszystkich 5 językach; `jezyki_oficjalne` = języki oficjalnie obsługiwane wg dokumentacji
+# (sędzia oznacza dokumenty flagą `w_zakresie_oficjalnym` dla miary „w zakresie oficjalnym”).
+poziomy = ["tekst"]
+jezyki = ["pl", "en", "es", "de", "fr"]          # uruchamiamy na wszystkich 5 (ruling R37)
+jezyki_oficjalne = ["en"]  # dokumentacja „Localisation”: detektory krajowe tylko en_GB/en_US; telefon działa w każdym locale
+formaty = []
+procesy = 2
+timeout_s = 300
+start_timeout_s = 300

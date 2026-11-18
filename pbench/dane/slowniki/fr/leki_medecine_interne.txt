@@ -1,0 +1,14 @@
+metformine|500;850;1000|2 fois par jour pendant les repas
+pantoprazole|20;40|1 fois par jour avant le petit-déjeuner
+ramipril|2,5;5;10|1 fois par jour
+torasémide|10;20|1 fois par jour le matin
+furosémide|20;40|1 fois par jour le matin
+simvastatine|20;40|1 fois par jour le soir
+prednisolone|5;20|1 fois par jour le matin
+allopurinol|100;300|1 fois par jour
+paracétamol|500;1000|jusqu'à 3 fois par jour
+ciprofloxacine|250;500|2 fois par jour
+spironolactone|25;50|1 fois par jour le matin
+apixaban|2,5;5|2 fois par jour
+candésartan|8;16;32|1 fois par jour
+colchicine|1|1 fois par jour

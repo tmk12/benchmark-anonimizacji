@@ -1,0 +1,6 @@
+[project]
+name = "uczestnik-atrapa"
+version = "0.1.0"
+description = "Atrapa uczestnika benchmarku (bez zależności) – testy orkiestratora"
+requires-python = "==3.12.*"
+dependencies = []

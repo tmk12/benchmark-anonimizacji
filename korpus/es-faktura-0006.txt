@@ -1,0 +1,46 @@
+Despacho Duarte Abogados, S.L.P.
+Paseo de la Habana, 110, 01670 Vitoria-Gasteiz | CIF B15546484 | NIF-IVA ESB15546484
+FACTURA N.º A-209
+Fecha de expedición: 02/02/2021
+Fecha de la operación: 29/01/2021
+Emisor: Despacho Duarte Abogados, S.L.P.
+Destinatario: Talleres Rodríguez, S.L.
+Emisor: Paseo de la Habana, 110, 01670 Vitoria-Gasteiz
+Destinatario: Calle de Gran Vía, 165, 01136 Vitoria-Gasteiz
+Emisor: CIF B15546484
+Destinatario: CIF B03935269
+Emisor: Tel. +34000319611
+Destinatario: Tel. 000 937 774
+N.º: 1
+Concepto: Cuota mensual de asesoramiento jurídico general
+Cantidad: 1
+Precio unitario: 2.145,22 €
+Base imponible: 2.145,22 €
+Tipo de IVA: 21 %
+N.º: 2
+Concepto: Informe sobre contrato de arrendamiento de local
+Cantidad: 1
+Precio unitario: 932,13 €
+Base imponible: 932,13 €
+Tipo de IVA: 21 %
+N.º: 3
+Concepto: Asistencia a reunión con la Administración
+Cantidad: 1
+Precio unitario: 7.179,08 €
+Base imponible: 7.179,08 €
+Tipo de IVA: 21 %
+Base imponible: 10.256,43 €
+IVA 21 %: 2.153,85 €
+Total factura: 12.410,28 €
+Vencimiento: 22/02/2021. Forma de pago: transferencia bancaria a la cuenta ES1421000289276897401673, indicando el número de factura como concepto.
+Consultas sobre esta factura: contacto@despachoduarteabogados.example.com, tel. +34000319611.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Bruno Gamero Moreno, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Silvia Lorenzo Zurita.
+Silvia Lorenzo Zurita
+Despacho Duarte Abogados, S.L.P. | Paseo de la Habana, 110, 01670 Vitoria-Gasteiz | CIF B15546484 | tel. +34000319611
+Asunto: Factura por servicios jurídicos
+Autor: Silvia Lorenzo Zurita

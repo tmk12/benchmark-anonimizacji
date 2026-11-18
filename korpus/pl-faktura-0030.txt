@@ -1,0 +1,27 @@
+Delta sp. z o.o.
+al. Solidarności 33, 30-056 Kraków | NIP 1177749367
+FAKTURA VAT
+Data wystawienia: 24.04.2026 r.
+Data sprzedaży: 21.04.2026 r.
+Sprzedawca	Nabywca
+Delta sp. z o.o.	Optima sp. z o.o.
+al. Solidarności 33, 30-056 Kraków	ul. Puławska 50, 32-794 Wieliczka
+NIP: 1177749367	NIP: 3113804121
+REGON: 352832707	REGON: 223881670
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 28.11.2025 r.	ryczałt	1	1 027,77 PLN	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	8 926,15 PLN	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	7 592,04 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+17 545,96 PLN	4 035,57 PLN	21 581,53 PLN
+Termin płatności: 11.05.2026 r. Sposób zapłaty: przelew na rachunek PL34213900920430519248644106.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@delta.test, tel. 000 003 496.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Józefowi Jaworskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Józef Kowalewski.
+Józef Kowalewski
+Delta sp. z o.o. | al. Solidarności 33, 30-056 Kraków | NIP 1177749367 | KRS 0000114038 | tel. 000 003 496
+Autor: Użytkownik
+Temat: Faktura VAT

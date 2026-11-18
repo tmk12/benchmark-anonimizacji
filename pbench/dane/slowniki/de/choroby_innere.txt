@@ -1,0 +1,21 @@
+E11.7 Diabetes mellitus, Typ 2, mit multiplen Komplikationen
+E11.9 Diabetes mellitus, Typ 2, ohne Komplikationen
+J18.9 Pneumonie, nicht näher bezeichnet
+J44.1 Chronische obstruktive Lungenkrankheit mit akuter Exazerbation
+K21.0 Gastroösophageale Refluxkrankheit mit Ösophagitis
+K25.3 Magengeschwür, akut, ohne Blutung oder Perforation
+K29.1 Sonstige akute Gastritis
+K57.3 Divertikulose des Dickdarmes ohne Perforation oder Abszess
+K70.3 Alkoholische Leberzirrhose
+K76.0 Fettleber, anderenorts nicht klassifiziert
+K92.2 Gastrointestinale Blutung, nicht näher bezeichnet
+N17.9 Akutes Nierenversagen, nicht näher bezeichnet
+N18.3 Chronische Nierenkrankheit, Stadium 3
+N39.0 Harnwegsinfektion, Lokalisation nicht näher bezeichnet
+D50.9 Eisenmangelanämie, nicht näher bezeichnet
+E87.1 Hypoosmolalität und Hyponatriämie
+I10 Essentielle (primäre) Hypertonie
+I50.1 Linksherzinsuffizienz
+M10.9 Gicht, nicht näher bezeichnet
+R55 Synkope und Kollaps
+A46 Erysipel

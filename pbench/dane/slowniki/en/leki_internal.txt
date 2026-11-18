@@ -1,0 +1,10 @@
+metformin|500;850;1000
+pantoprazole|20;40
+omeprazole|20;40
+amlodipine|5;10
+losartan|50;100
+atorvastatin|10;20;40
+ramipril|2.5;5;10
+paracetamol|500;1000
+cetirizine|10
+prednisolone|5;10;20

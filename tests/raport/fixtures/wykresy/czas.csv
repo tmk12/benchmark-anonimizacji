@@ -1,0 +1,11 @@
+ranking,uczestnik,dokumenty_proby,awarie,s_na_strone,wynik
+tekst,privatizer-tekst,60,0,0.68,1.0
+tekst,beta,60,0,0.2,1.0
+tekst,gamma,60,0,3.1,1.0
+tekst,delta,60,0,,
+tekst,epsilon,60,0,1.4,1.0
+tekst,zeta,60,0,0.03,1.0
+tekst,privatizer-tekst-maks,60,0,,
+pliki,privatizer-plik,60,0,6.4,1.0
+pliki,plik-b,60,0,0.19,1.0
+pliki,privatizer-plik-maks,60,0,,

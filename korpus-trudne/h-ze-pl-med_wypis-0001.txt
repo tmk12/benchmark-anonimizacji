@@ -1,0 +1,27 @@
+Szpital Specjalistyczny Skanska Projekt sp. z o.o.
+ul. Topolowa 84/31, 83-709 Starogard Gdański | REGON 275409575 | tel. 000 897 855
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjentka: Julia Lasota, PESEL 52122075206, data urodzenia 20 grudnia 1952 r.
+Adres zamieszkania: ul. Parkowa 13, 62-937 Kalisz, tel. +48 000 323 614
+Data przyjęcia: 19 czerwca 2026 r. Data wypisu: 26 czerwca 2026 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: E11.9 Cukrzyca typu 2 bez powikłań
+Rozpoznania współistniejące: I11.0 Nadciśnieniowa choroba serca z niewydolnością serca; I20.0 Dławica piersiowa niestabilna
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: bisoprolol 5 mg – według schematu ustalonego w poradni; atorwastatyna 40 mg – raz dziennie rano; apiksaban 2,5 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 27 lipca 2026 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 8 lipca 2026 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Julii Lasocie w dniu wypisu; za zgodą pacjentki informacje o stanie zdrowia mogą być udzielane Tadeuszowi Wasilewskiemu, tel. 000 431 680.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjentka została pouczona o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Małgorzata Cieślak, nr PWZ 9594643
+Ordynator oddziału: Zofia Smolińska, nr PWZ 1955191
+Małgorzata Cieślak
+Zofia Smolińska
+Szpital Specjalistyczny Skanska Projekt sp. z o.o. | ul. Topolowa 84/31, 83-709 Starogard Gdański | tel. 000 897 855 | info@skanskaprojekt.example.net
+Autor: Małgorzata Cieślak
+Temat: Karta informacyjna leczenia szpitalnego

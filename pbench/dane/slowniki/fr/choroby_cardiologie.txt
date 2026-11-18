@@ -1,0 +1,15 @@
+I10 Hypertension essentielle (primitive)
+I25.1 Cardiopathie athéroscléreuse
+I48.9 Fibrillation auriculaire et flutter auriculaire, sans précision
+I34.0 Insuffisance mitrale (valvulaire)
+I35.0 Rétrécissement aortique (valvulaire)
+I70.2 Athérosclérose des artères distales
+E78.0 Hypercholestérolémie pure
+E78.2 Hyperlipidémie mixte
+E11.9 Diabète sucré de type 2 sans complication
+E66.9 Obésité, sans précision
+N18.3 Maladie rénale chronique de stade 3
+Z95.1 Présence d'un pontage aortocoronarien
+J44.9 Bronchopneumopathie chronique obstructive, sans précision
+G47.3 Apnée du sommeil
+E03.9 Hypothyroïdie, sans précision

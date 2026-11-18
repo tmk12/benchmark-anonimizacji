@@ -1,0 +1,40 @@
+Kancelaria Radców Prawnych Wójcik i Wspólnicy sp.k.
+ul. Kowalska 125/2, 80-949 Gdańsk | NIP 7873731826 | KRS 0000091732
+UMOWA O STAŁĄ OBSŁUGĘ PRAWNĄ
+zawarta w dniu 26 września 2022 r. (miejsce zawarcia: Gdańsk) pomiędzy:
+Kancelaria Radców Prawnych Wójcik i Wspólnicy sp.k. z siedzibą: ul. Kowalska 125/2, 80-949 Gdańsk, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS 0000091732, NIP 7873731826, REGON 157763609, reprezentowaną przez Artura Grabowskiego – wspólnika, zwaną dalej „Kancelarią”,
+a
+Gamma S.A. z siedzibą: ul. Ząbkowska 107/32, 41-673 Ruda Śląska, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS 0001001888, NIP 1543477497, REGON 094453317, reprezentowaną przez Amelię Lis – Prezesa Zarządu, zwaną dalej „Klientem”,
+zwanymi dalej łącznie „Stronami”, a każda z osobna „Stroną”, o następującej treści:
+§ 1. Przedmiot umowy
+1. Kancelaria zobowiązuje się do świadczenia na rzecz Klienta stałej obsługi prawnej w zakresie prawa cywilnego i handlowego, prawa pracy oraz ochrony danych osobowych, w szczególności do sporządzania i opiniowania projektów umów, przygotowywania opinii prawnych oraz udziału w negocjacjach prowadzonych przez Klienta.
+2. Obsługa nie obejmuje zastępstwa procesowego przed sądami powszechnymi, sądami administracyjnymi i organami administracji publicznej; w takim przypadku Strony ustalą odrębnie zakres pełnomocnictwa i wynagrodzenie.
+3. Opiekunem Klienta ze strony Kancelarii jest Karolina Lewandowska, a w razie jego nieobecności zastępstwo przejmuje Adam Sobczak. Zmiana opiekuna nie wymaga aneksu do umowy.
+4. Uwagi do sposobu wykonywania umowy Klient kieruje do Karoliny Lewandowskiej, a w sprawach spornych do Artura Grabowskiego jako wspólnika odpowiedzialnego za relację z Klientem.
+§ 2. Sposób wykonywania umowy
+1. Kancelaria wykonuje umowę z należytą starannością, uwzględniając zawodowy charakter swojej działalności, w terminach uzgodnionych z Klientem, a w sprawach pilnych – w ciągu dwóch dni roboczych od otrzymania kompletu dokumentów.
+2. Klient przekazuje Kancelarii informacje i dokumenty niezbędne do wykonania zlecenia za pośrednictwem osoby wskazanej przez Zarząd, którą jest Agnieszka Lewandowska (tel. +48 000 238 687, e-mail: agnieszkalewandowska@example.org).
+3. Opinie prawne i projekty dokumentów są przekazywane w formie elektronicznej, chyba że Klient zażąda formy pisemnej.
+§ 3. Wynagrodzenie
+1. Z tytułu obsługi Klient zapłaci Kancelarii miesięczne wynagrodzenie ryczałtowe w wysokości 22 447,00 PLN netto, powiększone o podatek od towarów i usług według stawki obowiązującej w dniu wystawienia faktury.
+2. Ryczałt obejmuje do 20 godzin pracy prawników w miesiącu. Czas pracy ponad ten limit rozlicza się według stawki godzinowej, a łączna wartość czynności ponad limit w danym miesiącu nie może przekroczyć 5 254,56 PLN bez uprzedniej zgody Klienta.
+3. Wynagrodzenie płatne jest z dołu, w terminie 14 dni od doręczenia faktury, przelewem na rachunek Kancelarii nr PL65160460147540690479899167.
+§ 4. Czas obowiązywania i wypowiedzenie
+1. Umowa wchodzi w życie z dniem 13 października 2022 r. i zostaje zawarta na czas nieokreślony.
+2. Każda ze Stron może wypowiedzieć umowę z zachowaniem trzymiesięcznego okresu wypowiedzenia ze skutkiem na koniec miesiąca kalendarzowego. Wypowiedzenie wymaga formy pisemnej pod rygorem nieważności.
+§ 5. Poufność. 1. Kancelaria zachowuje w tajemnicy wszelkie informacje uzyskane w związku ze świadczeniem obsługi, zgodnie z obowiązkami wynikającymi z ustawy z dnia 6 lipca 1982 r. o radcach prawnych oraz ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze. Obowiązek ten trwa także po rozwiązaniu umowy.
+2. Za naruszenie obowiązku poufności Strona zapłaci drugiej Stronie karę umowną w wysokości 60 699,24 PLN, bez uszczerbku dla prawa dochodzenia odszkodowania przewyższającego karę na zasadach ogólnych (art. 484 § 1 Kodeksu cywilnego).
+§ 6. Ochrona danych osobowych. Kancelaria przetwarza dane osobowe powierzone przez Klienta wyłącznie w celu wykonania umowy i zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO). Strony zawrą odrębną umowę powierzenia przetwarzania, o której mowa w art. 28 RODO, jeżeli przedmiot zlecenia będzie tego wymagał.
+§ 7. Odpowiedzialność. Odpowiedzialność Kancelarii jest objęta obowiązkowym ubezpieczeniem odpowiedzialności cywilnej, a jej wysokość ogranicza się do sumy gwarancyjnej wynikającej z tego ubezpieczenia, z wyłączeniem szkód wyrządzonych umyślnie. Kancelaria nie odpowiada za skutki decyzji biznesowych Klienta podjętych wbrew jej pisemnym zastrzeżeniom.
+§ 8. Doręczenia
+Korespondencję do Klienta doręcza się na adres ul. Ząbkowska 107/32, 41-673 Ruda Śląska lub na adres poczty elektronicznej kontakt.gamma@example.com, a do Kancelarii – na adres ul. Kowalska 125/2, 80-949 Gdańsk lub biuro@europol.test. Zmiana adresu wymaga pisemnego powiadomienia drugiej Strony.
+§ 9. Postanowienia końcowe
+1. Zmiany umowy wymagają formy pisemnej pod rygorem nieważności.
+2. W sprawach nieuregulowanych umową stosuje się przepisy Kodeksu cywilnego, w tym przepisy o zleceniu. Spory wynikające z umowy rozstrzyga sąd powszechny właściwy dla siedziby Kancelarii.
+3. Umowę sporządzono w dwóch jednobrzmiących egzemplarzach, po jednym dla każdej ze Stron.
+Za Kancelarię:                                                  Za Klienta:
+Artur Grabowski
+Amelia Lis
+Kancelaria Radców Prawnych Wójcik i Wspólnicy sp.k., ul. Kowalska 125/2, 80-949 Gdańsk | tel. +48 000 135 299 | biuro@europol.test | NIP 7873731826
+Autor: Karolina Lewandowska
+Tytul: Umowa o stałą obsługę prawną

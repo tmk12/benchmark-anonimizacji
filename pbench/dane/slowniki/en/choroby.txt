@@ -1,0 +1,53 @@
+J45.0 Predominantly allergic asthma
+I10 Essential (primary) hypertension
+E11.9 Type 2 diabetes mellitus without complications
+E10.9 Type 1 diabetes mellitus without complications
+I25.1 Atherosclerotic heart disease
+I50.0 Congestive heart failure
+I48 Atrial fibrillation and flutter
+J44.9 Chronic obstructive pulmonary disease unspecified
+F32.1 Moderate depressive episode
+F41.1 Generalized anxiety disorder
+F43.1 Post-traumatic stress disorder
+G43.9 Migraine unspecified
+G40.9 Epilepsy unspecified
+M54.5 Low back pain
+M51.1 Lumbar disc disorder with radiculopathy
+M17.9 Osteoarthritis of knee unspecified
+M05.9 Seropositive rheumatoid arthritis
+M81.9 Osteoporosis unspecified
+N18.3 Chronic kidney disease stage 3
+N20.0 Calculus of kidney
+N40 Benign prostatic hyperplasia
+K21.0 Gastro-oesophageal reflux disease with oesophagitis
+K29.5 Chronic gastritis unspecified
+K50.9 Crohn's disease unspecified
+K51.9 Ulcerative colitis unspecified
+K80.2 Calculus of gallbladder
+K74.6 Cirrhosis of liver
+E03.9 Hypothyroidism unspecified
+E05.9 Thyrotoxicosis unspecified
+E66.9 Obesity unspecified
+D50.9 Iron deficiency anaemia
+C50.9 Malignant neoplasm of breast
+C61 Malignant neoplasm of prostate
+C34.9 Malignant neoplasm of bronchus or lung
+C18.9 Malignant neoplasm of colon
+C91.0 Acute lymphoblastic leukaemia
+I63.9 Cerebral infarction unspecified
+I21.9 Acute myocardial infarction
+G20 Parkinson's disease
+G35 Multiple sclerosis
+F20.9 Schizophrenia unspecified
+F31.9 Bipolar affective disorder
+L40.0 Psoriasis vulgaris
+L20.9 Atopic dermatitis
+B20 HIV disease
+B18.2 Chronic viral hepatitis C
+U07.1 COVID-19
+H25.9 Senile cataract
+H40.9 Glaucoma unspecified
+S72.0 Fracture of neck of femur
+S82.6 Fracture of lateral malleolus
+O24.4 Gestational diabetes mellitus
+G47.3 Sleep apnoea

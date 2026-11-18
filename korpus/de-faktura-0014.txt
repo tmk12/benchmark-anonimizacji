@@ -1,0 +1,46 @@
+Fiedler Rechtsanwälte PartG mbB
+Kirchstraße 114, 34864 Kassel | Steuernummer 521/2761/9228 | USt-IdNr. DE935965143
+RECHNUNG Nr. R-491
+Rechnungsdatum: 02.02.2023
+Leistungszeitpunkt: 31.01.2023
+Rechnungsaussteller: Fiedler Rechtsanwälte PartG mbB
+Rechnungsempfänger: Allgäu Käse AG
+Rechnungsaussteller: Kirchstraße 114, 34864 Kassel
+Rechnungsempfänger: Schmale Gasse 179, 34209 Kassel
+Rechnungsaussteller: USt-IdNr. DE935965143
+Rechnungsempfänger: USt-IdNr. DE622971484
+Rechnungsaussteller: Tel. +49 172 9925904
+Rechnungsempfänger: Tel. +49 176 04069072
+Pos.: 1
+Leistung: Pauschale für laufende Rechtsberatung
+Menge: 1
+Einzelpreis netto: 7.645,24 EUR
+Gesamt netto: 7.645,24 EUR
+USt-Satz: 19 %
+Pos.: 2
+Leistung: Prüfung eines Gewerberaummietvertrags
+Menge: 1
+Einzelpreis netto: 1.303,22 EUR
+Gesamt netto: 1.303,22 EUR
+USt-Satz: 19 %
+Pos.: 3
+Leistung: Teilnahme an einer Besprechung mit der Behörde
+Menge: 1
+Einzelpreis netto: 3.012,90 EUR
+Gesamt netto: 3.012,90 EUR
+USt-Satz: 19 %
+Nettobetrag: 11.961,36 EUR
+Umsatzsteuer 19 %: 2.272,66 EUR
+Rechnungsbetrag: 14.234,02 EUR
+Zahlbar bis zum 27.02.2023 ohne Abzug durch Überweisung auf das Konto DE43680501017634461386 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an buero@fiedlerrechtsanwalte.example.org, Tel. +49 172 9925904.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Monika Pohl als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Torsten Baumann.
+Torsten Baumann
+Fiedler Rechtsanwälte PartG mbB | Kirchstraße 114, 34864 Kassel | USt-IdNr. DE935965143 | Tel. +49 172 9925904
+Autor: Torsten Baumann
+Betreff: Rechnung für Rechtsberatung

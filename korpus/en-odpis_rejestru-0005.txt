@@ -1,0 +1,43 @@
+COMPANIES HOUSE – COMPANY PROFILE
+Cardinal Ltd
+Field: Company name
+Details: Cardinal Ltd
+Field: Company number
+Details: 06448752
+Field: Registered office address
+Details: 124 Kings Place, Bradford BD5 8TF
+Field: VAT number
+Details: GB169751718
+Field: Company status
+Details: Active
+Event: Incorporated on
+Date: 30 August 2019
+Event: Last accounts made up to
+Date: 23 February 2024
+Event: Issued share capital
+Date: £22,500.00
+Officers of the company (statutory register extract)
+No.: 1
+Surname: Hudson
+Forename: Barbara
+Date of birth: 9 July 1997
+Role: Director
+Identifier: SJ139773A
+No.: 2
+Surname: Davis
+Forename: Albert
+Date of birth: 1 July 1974
+Role: Director
+Identifier: SC384825B
+No.: 3
+Surname: Lopez
+Forename: Amanda
+Date of birth: 8 December 1992
+Role: Director and secretary
+Identifier: MH544956B
+Nature of business (SIC): 69102 – solicitors; 70229 – management consultancy activities other than financial management.
+Accounting reference date: 31 December. The company's term is unlimited.
+This extract is generated from the public register under the Companies Act 2006 and shows the position at the date of printing. It is not a certified copy.
+Extract generated from the Companies House register | Company 06448752 | Page 1 of 2
+Entity: Cardinal Ltd
+Subject: Company register extract

@@ -1,0 +1,45 @@
+Silesia sp. z o.o.
+ul. Parkowa 91/94, 64-005 Chodzież | NIP 2104175688
+FAKTURA VAT
+Data wystawienia: 08.06.2026 r.
+Data sprzedaży: 29.05.2026 r.
+Sprzedawca: Silesia sp. z o.o.
+Nabywca: Gaz-Instal sp. z o.o.
+Sprzedawca: ul. Parkowa 91/94, 64-005 Chodzież
+Nabywca: ul. Szpitalna 76, 87-345 Lipno
+Sprzedawca: NIP: 2104175688
+Nabywca: NIP: 3045749414
+Sprzedawca: REGON: 327774837
+Nabywca: REGON: 469484760
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 18.07.2025 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 2 045,30 zł
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 1 202,25 zł
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 3 049,92 zł
+Stawka VAT: 23%
+Razem netto: 6 297,47 zł
+Podatek VAT 23%: 1 448,42 zł
+Razem do zapłaty (brutto): 7 745,89 zł
+Termin płatności: 02.07.2026 r. Sposób zapłaty: przelew na rachunek PL03106254311285557452286263.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@silesia.test, tel. 000 319 735.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Kindze Ziółkowskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Daniel Banaś.
+Daniel Banaś
+Silesia sp. z o.o. | ul. Parkowa 91/94, 64-005 Chodzież | NIP 2104175688 | KRS 0000798626 | tel. 000 319 735
+Autor: Użytkownik
+Temat: Faktura VAT

@@ -1,0 +1,27 @@
+Kingsley LLP
+65 Rose Drive, Coventry CV5 3HT | VAT Reg. No. GB724304857
+VAT INVOICE
+Invoice date: 18 September 2025
+Date of supply: 12 September 2025
+From	To
+Kingsley LLP	Greystone PLC
+65 Rose Drive, Coventry CV5 3HT	1 Marine Gardens, Sunderland SR4 3UW
+Company no. 07414968	Company no. 08991871
+VAT no. GB724304857	VAT no. GB984232406
+No.	Service	Unit	Qty	Net amount	VAT rate
+1	Services under agreement dated 19 July 2024	lump sum	1	£4,045.14	20%
+2	Drafting and negotiation of documents	lump sum	1	£14,450.12	20%
+3	Attendance at board meetings	lump sum	1	£1,817.08	20%
+Total net	VAT at 20%	Total payable
+£20,312.34	£4,062.47	£24,374.81
+Payment due by 9 October 2025. Please pay by bank transfer to GB63TSBS77897597287268, quoting the invoice date as the reference.
+Queries about this invoice: enquiries@kingsley.example.org, tel. +44 118 496 0065.
+This invoice is issued in accordance with section 6 of the Value Added Tax Act 1994. The domestic reverse charge does not apply to these services.
+Late payment interest and a fixed recovery sum are claimable under the Late Payment of Commercial Debts (Interest) Act 1998.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Sharon King, the person authorised to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Andrew Gomez.
+Andrew Gomez
+Kingsley LLP | 65 Rose Drive, Coventry CV5 3HT | Company No. 07414968 | VAT No. GB724304857 | tel. +44 118 496 0065
+Author: User
+Subject: Invoice for legal services

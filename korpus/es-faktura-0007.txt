@@ -1,0 +1,45 @@
+Aranda Casal Abogados, S.L.P.
+Calle de Alfonso XIII, 24, 1º C, 12233 Vinaròs | CIF B11384252 | NIF-IVA ESB11384252
+FACTURA N.º A-530
+Fecha de expedición: 13 de mayo de 2021
+Fecha de la operación: 4 de mayo de 2021
+Emisor: Aranda Casal Abogados, S.L.P.
+Destinatario: Construcciones Vega, S.A.
+Emisor: Calle de Alfonso XIII, 24, 1º C, 12233 Vinaròs
+Destinatario: Calle del Carmen, 78, 25007 Lérida
+Emisor: CIF B11384252
+Destinatario: CIF A33712340
+Emisor: Tel. +34000082217
+Destinatario: Tel. +34 000 08 10 00
+N.º: 1
+Concepto: Cuota mensual de asesoramiento jurídico general
+Cantidad: 1
+Precio unitario: 562,97 €
+Base imponible: 562,97 €
+Tipo de IVA: 21 %
+N.º: 2
+Concepto: Informe sobre contrato de arrendamiento de local
+Cantidad: 1
+Precio unitario: 653,58 €
+Base imponible: 653,58 €
+Tipo de IVA: 21 %
+N.º: 3
+Concepto: Asistencia a reunión con la Administración
+Cantidad: 1
+Precio unitario: 1.913,96 €
+Base imponible: 1.913,96 €
+Tipo de IVA: 21 %
+Base imponible: 3.130,51 €
+IVA 21 %: 657,41 €
+Total factura: 3.787,92 €
+Vencimiento: 9 de junio de 2021. Forma de pago: transferencia bancaria a la cuenta ES0901827612108655021760, indicando el número de factura como concepto.
+Consultas sobre esta factura: contacto@arandacasalabogados.example.com, tel. +34000082217.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Eva Vázquez Jiménez, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Javier Gil Ruiz.
+Javier Gil Ruiz
+Aranda Casal Abogados, S.L.P. | Calle de Alfonso XIII, 24, 1º C, 12233 Vinaròs | CIF B11384252 | tel. +34000082217
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

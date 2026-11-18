@@ -1,0 +1,32 @@
+CONTRAT DE VENTE D'UN VÉHICULE D'OCCASION
+Vendeur : Nicolas Duquesne | Acheteur : Axel Robert
+Entre les soussignés, à Dijon, le 25/03/2022 :
+Nicolas Duquesne, né le 21/05/1988, numéro de sécurité sociale 188051877225445, demeurant 57 route de la Mer, 21182 Dijon, tél. 03 53 01 46 24, ci-après « le vendeur »,
+et
+Axel Robert, né le 02/06/1942, demeurant 197 rue Saint-Denis, 84707 Avignon, tél. +33 6 39 98 73 51, courriel arobert@example.net, ci-après « l'acheteur ».
+Article 1 – Objet
+Le vendeur vend à l'acheteur le véhicule particulier d'occasion immatriculé FN-780-GF, avec son certificat d'immatriculation, deux clés et son carnet d'entretien.
+Le vendeur déclare être le seul propriétaire du véhicule, qu'il n'est ni gagé ni saisi et qu'il n'a subi aucun sinistre grave non déclaré.
+L'assurance du véhicule court jusqu'au 06/03/2023 ; le vendeur informe son assureur de la vente.
+Article 2 – Prix et paiement
+Le prix de vente est fixé à 6 612,98 EUR.
+L'acheteur a versé à la signature un acompte de 4 550,94 EUR et paiera le solde par virement sur le compte du vendeur FR7630002103088242215119172 au plus tard le 13/04/2022.
+Les frais de changement de titulaire du certificat d'immatriculation sont à la charge de l'acheteur.
+Élément	État	Observations
+Kilométrage	187 450 km	selon le compteur
+Contrôle technique	valable jusqu'au 06/03/2023	rapport joint
+Sinistres	aucun	déclaration de Nicolas Duquesne
+Article 3 – Remise du véhicule et garantie
+Le véhicule est remis le 25/03/2022 au domicile du vendeur, en présence de Philippe Rey (tél. 03 53 01 97 18) comme témoin de son état.
+L'acheteur a examiné et essayé le véhicule et l'achète dans son état actuel ; la garantie légale des vices cachés demeure applicable. Les risques sont transférés à la remise.
+Pour tout litige, les parties se rapprochent du tribunal compétent du domicile du défendeur.
+Article 4 – Dispositions finales
+Toute modification doit être écrite et signée par les deux parties.
+Contact en cas de difficulté : n.duquesne88@courriel.test et +33 6 39 98 73 51.
+Le contrat est établi en deux exemplaires, remis un à chaque partie.
+Le vendeur :                                                  L'acheteur :
+Nicolas Duquesne
+Axel Robert
+Vente du véhicule FN-780-GF | Nicolas Duquesne / Axel Robert
+Auteur: Nicolas Duquesne
+Titre: Contrat de vente de véhicule d'occasion

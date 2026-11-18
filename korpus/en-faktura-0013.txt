@@ -1,0 +1,27 @@
+Atlas Inc.
+9452 North Boulevard, Memphis, TN 38159 | EIN 63-8233857
+INVOICE
+Invoice date: 04/04/2024
+Date of supply: 03/25/2024
+Bill from	Bill to
+Atlas Inc.	Northern Freight LLC
+9452 North Boulevard, Memphis, TN 38159	6343 School Way, Nashville, TN 37233
+EIN 63-8233857	EIN 90-8486866
+Phone +14235550149	Phone +1 901-555-0108
+Item	Description	Qty	Rate	Amount	Tax
+1	Monthly retainer for general legal counsel	1	$1,863.74	$1,863.74	8.25%
+2	Review of commercial lease	1	$1,886.09	$1,886.09	8.25%
+3	Regulatory filing and attendance	1	$4,883.03	$4,883.03	8.25%
+Subtotal	Sales tax 8.25%	Total due
+$8,632.86	$712.21	$9,345.07
+Payment due by 05/01/2024. Please pay by bank transfer to Routing No. 297339270, Account No. 917540749, quoting the invoice date as the reference.
+Queries about this invoice: info@atlas.example.com, tel. +14235550149.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Jamie Brown, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Nicholas Myers.
+Nicholas Myers
+Atlas Inc. | 9452 North Boulevard, Memphis, TN 38159 | EIN 63-8233857 | tel. +14235550149
+Author: User
+Subject: Invoice for legal services

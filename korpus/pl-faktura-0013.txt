@@ -1,0 +1,27 @@
+Trans-Rol S.A.
+ul. Piłsudskiego 52, 64-212 Leszno | NIP 5611221425
+FAKTURA VAT
+Data wystawienia: 05.07.2022 r.
+Data sprzedaży: 01.07.2022 r.
+Sprzedawca	Nabywca
+Trans-Rol S.A.	Inpol S.A.
+ul. Piłsudskiego 52, 64-212 Leszno	ul. Traugutta 27/119, 11-375 Kętrzyn
+NIP: 5611221425	NIP: 2116300136
+REGON: 315558014	REGON: 323765942
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 24.06.2021 r.	ryczałt	1	13 685,11 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	894,31 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	8 087,16 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+22 666,58 zł	5 213,31 zł	27 879,89 zł
+Termin płatności: 02.08.2022 r. Sposób zapłaty: przelew na rachunek PL39175711266671605937260831.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@transrol.test, tel. +48 000 608 028.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Michałowi Kamińskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Barbara Dudek.
+Barbara Dudek
+Trans-Rol S.A. | ul. Piłsudskiego 52, 64-212 Leszno | NIP 5611221425 | KRS 0000499669 | tel. +48 000 608 028
+Autor: Barbara Dudek
+Temat: Faktura VAT

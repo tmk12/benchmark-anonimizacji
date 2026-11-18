@@ -1,0 +1,6 @@
+{
+  "opis": "Komunikaty odmowy produktu (pbench.agregacja.stan_dokumentu): dokument, którego pole `blad` zawiera komunikat, jest odmową – liczoną jak brak wyniku (fail-closed) i raportowaną osobno. Opis: KONFIG.md, sekcja „Odmowy”.",
+  "komunikaty": [
+    "Wiadomość zawiera załączniki – Privatizer nie anonimizuje załączników w plikach EML."
+  ]
+}

@@ -1,0 +1,26 @@
+Northgate Regional Health System
+8063 York Avenue, Kansas City, MO 64194 | EIN 03-4167659 | tel. (417) 555-0186
+HOSPITAL DISCHARGE SUMMARY – CARDIOLOGY SERVICE
+Patient: Brian Morgan, date of birth 09/14/1963
+Social Security No.: 647-49-9201
+Home address: 6999 Hill Blvd, Fresno, CA 93725, tel. (714) 555-0190
+Admitted: 12/15/2023. Discharged: 12/26/2023. Admission type: emergency.
+Principal diagnosis (ICD-10-CM): I25.1 Atherosclerotic heart disease
+Secondary diagnoses: E66.9 Obesity unspecified; I50.1 Left ventricular failure
+Presenting complaint and examination: admitted with progressive breathlessness on exertion, chest pain and ankle swelling. On examination there was tachycardia, bibasal crackles, blood pressure 165/95 mmHg and oxygen saturation of 93% on room air.
+Studies: CBC with differential, CRP, basic metabolic panel, high-sensitivity troponin, BNP, urinalysis, EKG, chest X-ray and transthoracic echocardiogram. Detailed results are in the medical record.
+Hospital course: treated with supplemental oxygen, intravenous loop diuretics, prophylactic anticoagulation and antihypertensive therapy. The patient improved clinically, the edema resolved and blood pressure stabilized.
+Discharge instructions: low-sodium diet, fluid restriction to 1.5 liters a day, daily morning weights, no strenuous exertion for two weeks and complete cessation of smoking.
+Discharge medications: atorvastatin 80 mg per outpatient regimen; apixaban 2.5 mg once daily in the morning; metoprolol 50 mg as directed by cardiology.
+Follow-up: cardiology clinic visit on 01/08/2024, with labs (CBC, basic metabolic panel, potassium). Please bring this summary to the appointment.
+A work excuse covering absence until 01/12/2024 has been provided.
+Information about the condition and the planned treatment was given to the patient on the day of discharge; with the patient's consent information may be shared with Russell Jackson (tel. (714) 555-0109).
+This summary contains protected health information subject to the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule.
+The patient was advised to go to the emergency department or call 911 if chest pain, fainting or worsening shortness of breath occurs.
+Attending physician: Jennifer Gardner, NPI 1192658940
+Cardiology service chief: John Davis, NPI 1227212143
+Jennifer Gardner
+John Davis
+Northgate Regional Health System | 8063 York Avenue, Kansas City, MO 64194 | tel. (417) 555-0186 | hello@northgate.test
+Author: Jennifer Gardner
+Subject: Discharge summary

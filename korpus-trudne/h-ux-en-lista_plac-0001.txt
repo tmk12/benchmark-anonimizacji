@@ -1,0 +1,233 @@
+Atlas Inc.
+4773 Windsor Court, Phoenix, AZ 85015 | EIN 12-9228188
+PAYROLL REGISTER – SEMI-MONTHLY PAY PERIOD
+Pay date: 09/07/2026
+Employer: Atlas Inc.
+No.	First name	Last name	SSN	Job title	Gross pay	Bank account
+1	Grace	Black	079-13-0192	HR administrator	$7,651.49	Routing No. 111613629, Account No. 330406018
+2	Elizabeth	Hernandez	225-53-5295	Accountant	$4,830.30	Routing No. 244344108, Account No. 6421306420
+3	Kenneth	Chavez	036-69-5513	Team leader	$8,862.82	Routing No. 043278239, Account No. 384714586
+4	Aaron	Perry	482-49-6687	Junior associate	$9,525.43	Routing No. 048224505, Account No. 66942777
+5	Olivia	Hall	688-12-8020	Executive assistant	$13,593.90	Routing No. 296477638, Account No. 23514805945
+6	Ashley	Howard	067-11-3999	Driver	$12,750.32	Routing No. 084289478, Account No. 16786853
+7	John	Diaz	742-58-6657	Warehouse operative	$9,862.35	Routing No. 288461681, Account No. 987655594
+8	James	Arnold	684-29-6767	Clerk	$13,194.43	Routing No. 051718781, Account No. 972456158084
+9	Virginia	Garcia	480-35-0283	Senior specialist	$11,319.48	Routing No. 010661617, Account No. 24695854
+10	Mary	Fitzgerald	471-47-0298	Health and safety officer	$5,317.37	Routing No. 274283925, Account No. 4397089297
+11	John	Lewis	599-99-3161	Consultant	$8,964.83	Routing No. 027313628, Account No. 752360195
+12	Daniel	Garcia	694-65-4028	IT administrator	$10,277.91	Routing No. 263230248, Account No. 5931344155
+13	Robert	Lucas	128-15-9831	HR administrator	$13,436.70	Routing No. 047238725, Account No. 388459480715
+14	Andrew	Garcia	224-33-4101	Accountant	$5,022.73	Routing No. 096930935, Account No. 222970108940
+15	Edward	Haynes	094-07-6235	Team leader	$10,703.28	Routing No. 076320714, Account No. 753195949
+16	Amy	Ballard	546-80-3142	Junior associate	$12,400.70	Routing No. 269204883, Account No. 66052206
+17	Martha	Carlson	498-28-9023	Executive assistant	$9,543.22	Routing No. 228445269, Account No. 25516999217
+18	Albert	Peters	505-99-3656	Driver	$5,413.39	Routing No. 129156589, Account No. 51321337
+19	Cheryl	Castillo	413-74-2886	Warehouse operative	$12,572.02	Routing No. 042478755, Account No. 6307085481
+20	Mary	Brown	653-88-7610	Clerk	$10,177.68	Routing No. 090077292, Account No. 837548703
+21	David	Miller	149-06-6256	Senior specialist	$12,216.82	Routing No. 234788486, Account No. 65054141368
+22	Elizabeth	Rodriguez	340-95-2436	Health and safety officer	$7,091.64	Routing No. 227278411, Account No. 33132586
+23	Kayla	Moore	426-17-8695	Consultant	$12,259.26	Routing No. 032375981, Account No. 79289987
+24	Gary	Oliver	411-73-1165	IT administrator	$11,199.30	Routing No. 030362051, Account No. 32052455319
+25	Alexis	Anderson	679-49-2040	HR administrator	$7,045.85	Routing No. 019792435, Account No. 3001076032
+26	Charlotte	Daniels	672-98-1578	Accountant	$11,895.97	Routing No. 093717038, Account No. 485227022889
+27	Samuel	Smith	104-17-0984	Team leader	$12,523.86	Routing No. 021559899, Account No. 6230603974
+28	Gary	Martin	327-17-9721	Junior associate	$7,563.13	Routing No. 117866315, Account No. 63058865
+29	Mark	Lyons	171-13-3503	Executive assistant	$8,164.39	Routing No. 090874806, Account No. 640261923370
+30	James	Cruz	751-50-4215	Driver	$10,025.91	Routing No. 327782506, Account No. 6631233679
+31	Terry	Davis	633-08-3422	Warehouse operative	$5,950.21	Routing No. 236415061, Account No. 519906732822
+32	Andrew	Miller	541-25-4853	Clerk	$9,725.57	Routing No. 128640371, Account No. 53976613
+33	Julie	Anderson	043-52-1159	Senior specialist	$9,513.79	Routing No. 018548826, Account No. 28735071284
+34	Judy	Colon	329-44-9294	Health and safety officer	$10,684.37	Routing No. 297931704, Account No. 22970554489
+35	Betty	Gutierrez	534-76-6807	Consultant	$8,195.15	Routing No. 303957177, Account No. 50443962663
+36	Linda	Romero	698-21-8157	IT administrator	$9,255.22	Routing No. 065031548, Account No. 33041522
+37	Megan	Gross	550-39-4971	HR administrator	$5,331.18	Routing No. 020638232, Account No. 30250117149
+38	Sarah	Hall	248-19-8731	Accountant	$5,700.56	Routing No. 039244549, Account No. 579051565
+39	Joan	Cannon	022-66-7898	Team leader	$13,370.05	Routing No. 078911817, Account No. 45578851887
+40	Betty	Young	108-35-3922	Junior associate	$12,433.19	Routing No. 266123297, Account No. 549237388528
+41	Dorothy	Meyer	124-33-8105	Executive assistant	$9,690.05	Routing No. 325520553, Account No. 720081945
+42	Ronald	King	216-15-1347	Driver	$9,356.61	Routing No. 299190653, Account No. 48341048
+43	Nathan	Gill	517-36-2983	Warehouse operative	$6,099.62	Routing No. 214463695, Account No. 6169510493
+44	Lauren	Ross	770-31-4637	Clerk	$13,013.69	Routing No. 125896623, Account No. 25786068
+45	Mark	Wright	313-27-0565	Senior specialist	$6,958.45	Routing No. 226658498, Account No. 696651308263
+46	Robert	Walker	525-86-6371	Health and safety officer	$10,556.97	Routing No. 290462490, Account No. 97280514
+47	Mary	Gomez	385-57-6117	Consultant	$7,668.37	Routing No. 216748033, Account No. 1510246684
+48	Brittany	Watson	761-33-6118	IT administrator	$11,147.01	Routing No. 068394088, Account No. 58048735
+49	Janet	Armstrong	122-50-1234	HR administrator	$6,869.94	Routing No. 076607181, Account No. 44700108303
+50	Elizabeth	Lewis	689-94-6628	Accountant	$5,095.65	Routing No. 313172395, Account No. 5606078450
+51	Karen	Wood	757-96-3052	Team leader	$6,407.62	Routing No. 222504559, Account No. 702343409191
+52	David	Brock	750-41-7804	Junior associate	$7,480.75	Routing No. 058672037, Account No. 81783969
+53	Joseph	Myers	737-45-9192	Executive assistant	$5,023.45	Routing No. 320993978, Account No. 19109800237
+54	Judy	Simon	725-91-2354	Driver	$7,465.67	Routing No. 041844856, Account No. 36464438
+55	Debra	Adams	524-43-9006	Warehouse operative	$13,016.99	Routing No. 251412243, Account No. 76109262287
+56	Janet	Baker	740-92-9209	Clerk	$8,208.11	Routing No. 234134904, Account No. 526743258737
+57	Betty	Reed	395-92-1317	Senior specialist	$8,167.16	Routing No. 068244963, Account No. 85325551074
+58	Elizabeth	Hill	608-69-3207	Health and safety officer	$4,923.05	Routing No. 226191735, Account No. 66500109
+59	Steven	Anderson	189-37-6611	Consultant	$13,609.52	Routing No. 019809920, Account No. 763404512537
+60	Mark	Garcia	234-47-7201	IT administrator	$12,781.18	Routing No. 064896975, Account No. 750570556
+61	Angela	Santiago	190-49-2436	HR administrator	$6,711.08	Routing No. 230597749, Account No. 98872075511
+62	Joshua	Smith	156-49-6993	Accountant	$8,400.65	Routing No. 066464884, Account No. 56227091
+63	Isabella	Larson	640-19-7707	Team leader	$5,811.32	Routing No. 086375128, Account No. 61344807
+64	Patricia	Wilson	137-45-4226	Junior associate	$5,612.77	Routing No. 292890002, Account No. 81733158
+65	Angela	Johnson	323-23-1105	Executive assistant	$11,148.81	Routing No. 093231200, Account No. 2167997406
+66	Sophia	Garcia	198-93-4827	Driver	$10,881.67	Routing No. 062357429, Account No. 529235747
+67	Rachel	Adams	545-87-3950	Warehouse operative	$11,870.61	Routing No. 075261816, Account No. 908346212
+68	Diane	Jones	744-95-0676	Clerk	$6,282.57	Routing No. 259124177, Account No. 99166397730
+69	James	Patel	312-45-5192	Senior specialist	$11,436.83	Routing No. 047102521, Account No. 2349431086
+70	Mark	Payne	484-16-2729	Health and safety officer	$9,493.20	Routing No. 267153305, Account No. 8569512548
+71	Donna	Murray	739-97-2582	Consultant	$4,458.65	Routing No. 290447512, Account No. 306044708888
+72	Barbara	King	004-06-8717	IT administrator	$12,643.37	Routing No. 234222201, Account No. 17111467
+73	Paul	Bush	057-01-1783	HR administrator	$4,869.00	Routing No. 295765325, Account No. 6534866551
+74	Jennifer	Foster	300-70-0219	Accountant	$9,123.28	Routing No. 325347587, Account No. 178115524
+75	Billy	Coleman	738-14-7053	Team leader	$6,574.95	Routing No. 226458957, Account No. 189973722382
+76	Jacob	Davis	058-96-9782	Junior associate	$8,934.44	Routing No. 127595126, Account No. 98688771192
+77	Jason	Patel	542-30-5486	Executive assistant	$13,340.87	Routing No. 067264847, Account No. 434757724
+78	Jesse	Clarke	164-18-4697	Driver	$11,590.87	Routing No. 070040919, Account No. 66656446
+79	Joshua	Vargas	511-81-5094	Warehouse operative	$11,396.46	Routing No. 235409625, Account No. 981063641750
+80	Mary	Williams	541-96-5030	Clerk	$10,753.71	Routing No. 066325305, Account No. 608130248
+81	Michael	Gonzalez	347-55-6472	Senior specialist	$7,844.20	Routing No. 074007356, Account No. 680302856
+82	Cheryl	Lopez	703-86-4736	Health and safety officer	$7,662.77	Routing No. 123809926, Account No. 56543038046
+83	Andrea	Medina	503-23-1432	Consultant	$4,334.86	Routing No. 324854686, Account No. 68414144
+84	Nancy	McKinney	063-43-4717	IT administrator	$6,835.68	Routing No. 233592738, Account No. 748238866
+85	Timothy	Taylor	140-49-0410	HR administrator	$5,502.82	Routing No. 255685348, Account No. 838294267
+86	Kelly	Ramirez	712-97-5412	Accountant	$5,522.70	Routing No. 064360566, Account No. 440819377
+87	Karen	Collins	687-07-0162	Team leader	$10,171.74	Routing No. 286979599, Account No. 283740578351
+88	Hannah	Rice	311-08-5458	Junior associate	$6,294.00	Routing No. 297670913, Account No. 843809724
+89	Dylan	Rogers	279-75-5600	Executive assistant	$11,486.55	Routing No. 051480857, Account No. 21702979544
+90	Dorothy	Nelson	140-04-1632	Driver	$6,876.43	Routing No. 040877125, Account No. 19675152
+91	Janet	Rivera	137-72-0372	Warehouse operative	$13,941.57	Routing No. 099596729, Account No. 5708995567
+92	Albert	Adams	237-06-9907	Clerk	$13,747.29	Routing No. 299910778, Account No. 4259196269
+93	Liam	Flores	633-12-0750	Senior specialist	$4,550.99	Routing No. 101757427, Account No. 272604517807
+94	Jeremy	Ferguson	290-57-8280	Health and safety officer	$9,534.11	Routing No. 097676586, Account No. 7956272757
+95	Philip	Williams	596-70-7827	Consultant	$5,720.42	Routing No. 054314137, Account No. 474113093
+96	Linda	Walker	133-22-6163	IT administrator	$7,941.24	Routing No. 294123133, Account No. 202115231
+97	Jennifer	Allen	497-54-4451	HR administrator	$13,941.71	Routing No. 069104206, Account No. 6164331483
+98	Linda	Barnes	432-29-7109	Accountant	$7,878.83	Routing No. 020810843, Account No. 80468041
+99	Betty	Lopez	676-41-3895	Team leader	$9,791.55	Routing No. 117672868, Account No. 312738423
+100	Adam	Patel	593-70-1395	Junior associate	$5,298.86	Routing No. 062251101, Account No. 304483906090
+101	Amy	Curtis	629-26-6026	Executive assistant	$7,082.63	Routing No. 305341956, Account No. 53371544
+102	Jesse	Diaz	121-42-3104	Driver	$13,892.85	Routing No. 323824280, Account No. 300159103
+103	Margaret	Allen	419-88-6099	Warehouse operative	$4,835.31	Routing No. 276352171, Account No. 20097774788
+104	George	Williams	477-55-4323	Clerk	$8,601.18	Routing No. 326578245, Account No. 888118962413
+105	Robert	Matthews	491-65-6863	Senior specialist	$8,269.94	Routing No. 326041989, Account No. 62773311
+106	Peter	Johnson	115-11-5836	Health and safety officer	$5,159.05	Routing No. 057286055, Account No. 738019070369
+107	Mark	Rodriguez	255-11-3292	Consultant	$7,181.69	Routing No. 046959241, Account No. 146356965
+108	Kathleen	Walker	511-89-0012	IT administrator	$8,910.49	Routing No. 020239149, Account No. 533823953454
+109	Ronald	Harris	567-75-8000	HR administrator	$13,529.45	Routing No. 020505268, Account No. 753898169873
+110	Judy	Stanley	188-87-8530	Accountant	$10,935.46	Routing No. 066982861, Account No. 5774493020
+111	Daniel	Wilson	077-04-5825	Team leader	$6,003.89	Routing No. 122810291, Account No. 43866142488
+112	Stephanie	Johnson	418-18-4309	Junior associate	$4,630.38	Routing No. 106307924, Account No. 6531406124
+113	Jesse	Stewart	646-72-2114	Executive assistant	$5,856.50	Routing No. 310966067, Account No. 590402943
+114	Sarah	Stevens	125-37-7895	Driver	$4,671.15	Routing No. 298737761, Account No. 61973874
+115	Megan	Rhodes	464-78-3855	Warehouse operative	$6,789.33	Routing No. 233858391, Account No. 2176456407
+116	Robert	Mack	441-99-9932	Clerk	$10,069.71	Routing No. 080435129, Account No. 30335350
+117	Daniel	George	348-55-2400	Senior specialist	$13,077.75	Routing No. 034043732, Account No. 794328430
+118	Scott	Ruiz	690-52-7363	Health and safety officer	$11,879.74	Routing No. 213538288, Account No. 439075045068
+119	Ruth	Kelly	404-43-7988	Consultant	$5,950.63	Routing No. 017000543, Account No. 89746204804
+120	Alice	Smith	543-69-7312	IT administrator	$12,555.33	Routing No. 257738950, Account No. 27618954
+121	Alfie	Weaver	483-91-6006	HR administrator	$13,213.66	Routing No. 237995881, Account No. 829949739805
+122	Michelle	Harper	201-45-3568	Accountant	$6,506.04	Routing No. 110255266, Account No. 845902123
+123	Johnny	Stevens	724-28-9557	Team leader	$12,497.52	Routing No. 257598734, Account No. 707305046
+124	Jeffrey	Hughes	638-05-2985	Junior associate	$11,205.75	Routing No. 239782584, Account No. 57785633123
+125	Anna	Miller	633-98-0965	Executive assistant	$9,432.23	Routing No. 067328246, Account No. 7134064884
+126	Donna	Holmes	475-52-4264	Driver	$10,362.97	Routing No. 316915960, Account No. 20934493475
+127	Arthur	Martinez	387-21-3035	Warehouse operative	$6,789.44	Routing No. 094375314, Account No. 513879993
+128	Stephanie	Powers	349-28-7060	Clerk	$6,816.94	Routing No. 316497514, Account No. 638534853736
+129	Matthew	Harris	480-39-7649	Senior specialist	$6,472.39	Routing No. 223967069, Account No. 334888487
+130	Robert	Delgado	579-68-2293	Health and safety officer	$12,079.86	Routing No. 329912455, Account No. 32394959
+131	Dorothy	Wheeler	489-77-2487	Consultant	$7,248.98	Routing No. 087690417, Account No. 5153288526
+132	Karen	Gill	705-78-1953	IT administrator	$12,365.82	Routing No. 260961918, Account No. 1741911520
+133	Chloe	Moreno	569-35-3941	HR administrator	$6,656.33	Routing No. 221372203, Account No. 6685312491
+134	Nancy	Kim	613-84-1897	Accountant	$6,643.48	Routing No. 214269750, Account No. 10948884
+135	Robert	Sutton	240-93-3827	Team leader	$8,728.57	Routing No. 246600727, Account No. 723672040
+136	Melissa	Gonzalez	685-88-5357	Junior associate	$10,682.50	Routing No. 076480191, Account No. 3727494215
+137	Douglas	Mendoza	285-32-6651	Executive assistant	$6,509.83	Routing No. 128876116, Account No. 6763961973
+138	Jacob	Barton	167-55-1453	Driver	$4,318.71	Routing No. 052844447, Account No. 22715875
+139	Carol	Pratt	003-71-3268	Warehouse operative	$5,945.99	Routing No. 063995275, Account No. 608726012
+140	Catherine	Thompson	412-10-5108	Clerk	$7,739.97	Routing No. 122209064, Account No. 498627486
+141	Willie	Martinez	205-38-7664	Senior specialist	$5,760.18	Routing No. 077065104, Account No. 615777827
+142	Albert	Martinez	729-66-3181	Health and safety officer	$9,980.44	Routing No. 049603565, Account No. 52338969802
+143	Anthony	Jenkins	423-75-4718	Consultant	$8,033.12	Routing No. 067865770, Account No. 7280281334
+144	Jennifer	Wright	545-40-3311	IT administrator	$11,241.03	Routing No. 074303238, Account No. 198989908034
+145	Edward	Clark	447-82-2339	HR administrator	$12,043.68	Routing No. 257784988, Account No. 1000953801
+146	Mark	Dixon	052-37-4704	Accountant	$10,702.83	Routing No. 326354058, Account No. 165444451033
+147	Callum	Smith	063-38-8147	Team leader	$13,646.04	Routing No. 237887371, Account No. 690164914
+148	Kenneth	Smith	117-94-2568	Junior associate	$9,694.13	Routing No. 125469746, Account No. 47682723449
+149	Gregory	Castillo	195-45-9427	Executive assistant	$4,685.06	Routing No. 030470859, Account No. 295472950599
+150	Harry	Clark	433-40-7677	Driver	$4,965.12	Routing No. 065034419, Account No. 645892497
+151	Michael	Johnson	334-42-0717	Warehouse operative	$7,206.76	Routing No. 215561813, Account No. 70826686222
+152	Sandra	Rodriguez	103-49-6455	Clerk	$6,489.06	Routing No. 214106457, Account No. 45969497
+153	Joe	Ramirez	427-90-0223	Senior specialist	$11,974.01	Routing No. 081080719, Account No. 8952632123
+154	Catherine	Fisher	482-61-6563	Health and safety officer	$12,134.11	Routing No. 128378481, Account No. 290539980
+155	Diane	Alvarez	098-53-2980	Consultant	$7,591.98	Routing No. 087164370, Account No. 76481845456
+156	Jennifer	French	623-94-7280	IT administrator	$12,651.92	Routing No. 109536666, Account No. 75343839
+157	Paul	Watts	509-06-5697	HR administrator	$5,533.51	Routing No. 095342304, Account No. 46773586564
+158	Janet	Lewis	123-37-1905	Accountant	$4,989.47	Routing No. 234159002, Account No. 820163253
+159	Stephanie	Simmons	279-54-3250	Team leader	$9,436.44	Routing No. 253839251, Account No. 536404449
+160	Evelyn	Bridges	724-06-3537	Junior associate	$9,201.02	Routing No. 317416798, Account No. 7133433553
+161	Sean	King	768-67-4267	Executive assistant	$4,704.17	Routing No. 094453074, Account No. 9147299793
+162	Timothy	Gonzalez	224-40-3887	Driver	$8,894.65	Routing No. 114644572, Account No. 9031012468
+163	Nicholas	Brown	399-91-0785	Warehouse operative	$11,458.27	Routing No. 011890571, Account No. 88751564263
+164	Sarah	Allen	525-70-2252	Clerk	$7,673.26	Routing No. 238794609, Account No. 9039107084
+165	Thomas	Jackson	754-11-5931	Senior specialist	$5,642.89	Routing No. 264402664, Account No. 9793291511
+166	Mark	Johnson	733-07-1024	Health and safety officer	$5,248.34	Routing No. 101031457, Account No. 902792744
+167	Dorothy	Rodriguez	550-50-3733	Consultant	$7,031.31	Routing No. 021152306, Account No. 77252669988
+168	Joan	Lawrence	600-08-9329	IT administrator	$5,989.01	Routing No. 053281478, Account No. 42390957139
+169	Sara	Tucker	740-63-7530	HR administrator	$9,119.47	Routing No. 046461917, Account No. 694307769
+170	Anthony	Parker	446-55-7819	Accountant	$5,948.22	Routing No. 094803925, Account No. 218733983
+171	Ann	Hunter	492-27-9806	Team leader	$4,568.57	Routing No. 026084903, Account No. 39159890
+172	Kyle	Gonzalez	469-13-5240	Junior associate	$5,269.00	Routing No. 218239346, Account No. 617093900
+173	Cheryl	Grant	118-38-1557	Executive assistant	$8,065.23	Routing No. 105147897, Account No. 807527528
+174	John	Mason	204-39-7229	Driver	$9,066.22	Routing No. 073609250, Account No. 655203139
+175	Ruth	Myers	021-37-6517	Warehouse operative	$7,243.42	Routing No. 226950206, Account No. 343157119217
+176	Julie	Johnson	288-68-7340	Clerk	$13,960.19	Routing No. 248769187, Account No. 6652602996
+177	Elizabeth	Hart	540-26-3792	Senior specialist	$4,325.49	Routing No. 275957069, Account No. 122499184
+178	William	Blake	718-14-3800	Health and safety officer	$7,854.37	Routing No. 112704375, Account No. 36628465575
+179	Sandra	Nunez	452-24-0135	Consultant	$6,919.52	Routing No. 273636609, Account No. 108213189
+180	Albert	Parker	434-79-3995	IT administrator	$8,551.07	Routing No. 101155854, Account No. 7089822775
+181	Tyler	Sanchez	443-20-8418	HR administrator	$6,205.02	Routing No. 280883076, Account No. 15625059
+182	Steven	Taylor	570-86-5036	Accountant	$13,022.01	Routing No. 050273188, Account No. 563843345906
+183	Robert	Davis	668-88-0357	Team leader	$4,701.34	Routing No. 090545478, Account No. 91677492
+184	Alexander	Jones	667-56-6338	Junior associate	$6,115.60	Routing No. 319227134, Account No. 78424901094
+185	Linda	Hernandez	077-09-4964	Executive assistant	$13,083.64	Routing No. 324718269, Account No. 8790541729
+186	Jacob	Cobb	619-24-6597	Driver	$4,861.07	Routing No. 325571955, Account No. 57700768878
+187	Patricia	Miller	502-12-1641	Warehouse operative	$6,822.50	Routing No. 283441253, Account No. 56644318
+188	Kyle	Hall	288-06-7570	Clerk	$8,737.48	Routing No. 016310001, Account No. 604924621943
+189	Kayla	Campbell	623-06-5030	Senior specialist	$13,701.07	Routing No. 062373694, Account No. 47108193017
+190	Brian	Nelson	734-85-4270	Health and safety officer	$7,424.29	Routing No. 235729855, Account No. 95150838646
+191	Kelly	Young	367-90-8721	Consultant	$6,442.17	Routing No. 032197871, Account No. 577746906
+192	Samantha	Hawkins	404-04-8561	IT administrator	$10,626.53	Routing No. 091951236, Account No. 91007811
+193	Andrew	Rodriguez	010-90-7531	HR administrator	$7,428.04	Routing No. 014442845, Account No. 55400700
+194	Hannah	Jenkins	744-22-1878	Accountant	$8,158.11	Routing No. 303447166, Account No. 14316238165
+195	Kayla	Peterson	045-11-6282	Team leader	$8,205.53	Routing No. 110604532, Account No. 956585207661
+196	Thomas	Rogers	435-50-6409	Junior associate	$9,224.17	Routing No. 290374902, Account No. 500325136
+197	Patricia	Robertson	537-69-5572	Executive assistant	$7,364.68	Routing No. 098810192, Account No. 455282793076
+198	Samuel	Kelly	293-51-1280	Driver	$12,889.59	Routing No. 100800278, Account No. 7086138165
+199	Joan	Williams	441-61-7200	Warehouse operative	$7,486.56	Routing No. 113174331, Account No. 63652090
+200	Amy	Morgan	299-55-5238	Clerk	$8,611.98	Routing No. 304681675, Account No. 9517458926
+201	Frances	Newman	632-62-9881	Senior specialist	$5,138.66	Routing No. 281030899, Account No. 660326508
+202	Austin	Moss	538-50-1137	Health and safety officer	$11,728.02	Routing No. 309589853, Account No. 17971336
+203	Scott	Ryan	470-58-2790	Consultant	$12,056.75	Routing No. 225694424, Account No. 45508114192
+204	Gary	Davis	330-54-5341	IT administrator	$8,527.29	Routing No. 323675947, Account No. 7201359468
+205	Harold	Ray	370-04-2585	HR administrator	$11,970.43	Routing No. 105202127, Account No. 935289563
+206	Robert	Banks	440-61-8472	Accountant	$7,003.10	Routing No. 010788040, Account No. 9024861143
+207	Sharon	Coleman	326-06-6975	Team leader	$12,801.77	Routing No. 019251824, Account No. 22026421523
+208	Karen	Hall	336-51-1512	Junior associate	$12,375.78	Routing No. 037143231, Account No. 92029425795
+209	Diana	Kelley	082-71-1524	Executive assistant	$12,491.41	Routing No. 091136048, Account No. 93147281
+210	Debra	Ortiz	713-38-9403	Driver	$5,187.98	Routing No. 085240966, Account No. 79906673792
+211	Justin	Warner	597-72-2592	Warehouse operative	$8,822.79	Routing No. 263267127, Account No. 567084438
+212	Keith	Brown	505-53-7474	Clerk	$11,943.77	Routing No. 263441095, Account No. 742386031837
+Item	Amount
+Total gross wages	$1,864,070.21
+Employer and employee payroll taxes (Social Security and Medicare)	$381,761.58
+Federal income tax withheld	$205,047.72
+Payroll taxes have been calculated under the Internal Revenue Code and deposited under the semiweekly schedule; Forms 941 are filed quarterly.
+Wage garnishments and child-support withholdings received before the close of the pay period are reflected in the individual pay statements.
+This register contains confidential employee information and must be retained for at least four years under IRS record-keeping requirements.
+Prepared by: James Fox, Payroll, tel. +15755550144
+Checked by: Eric Roberson
+Approved for payment: Lucy Howard
+James Fox
+Lucy Howard
+Atlas Inc. | 4773 Windsor Court, Phoenix, AZ 85015 | tel. +1 623-555-0145 | info@atlas.example.com
+Author: James Fox
+Subject: Payroll register

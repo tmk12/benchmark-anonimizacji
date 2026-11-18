@@ -1,0 +1,183 @@
+Madrid|28
+Barcelona|08
+Valencia|46
+Sevilla|41
+Zaragoza|50
+Málaga|29
+Murcia|30
+Palma|07
+Las Palmas de Gran Canaria|35
+Bilbao|48
+Alicante|03
+Córdoba|14
+Valladolid|47
+Vigo|36
+Gijón|33
+Hospitalet de Llobregat|08
+La Coruña|15
+Vitoria-Gasteiz|01
+Granada|18
+Elche|03
+Oviedo|33
+Badalona|08
+Cartagena|30
+Terrassa|08
+Jerez de la Frontera|11
+Sabadell|08
+Móstoles|28
+Santa Cruz de Tenerife|38
+Pamplona|31
+Almería|04
+Alcalá de Henares|28
+Fuenlabrada|28
+San Sebastián|20
+Leganés|28
+Getafe|28
+Burgos|09
+Albacete|02
+Santander|39
+Castellón de la Plana|12
+Alcorcón|28
+San Cristóbal de La Laguna|38
+Logroño|26
+Badajoz|06
+Salamanca|37
+Huelva|21
+Marbella|29
+Lérida|25
+Tarragona|43
+León|24
+Cádiz|11
+Jaén|23
+Ourense|32
+Mataró|08
+Algeciras|11
+Torrejón de Ardoz|28
+Parla|28
+Alcobendas|28
+Reus|43
+Telde|35
+Barakaldo|48
+Santiago de Compostela|15
+Lugo|27
+Roquetas de Mar|04
+Girona|17
+Cáceres|10
+Guadalajara|19
+Toledo|45
+Pontevedra|36
+Palencia|34
+Ciudad Real|13
+Zamora|49
+Ávila|05
+Cuenca|16
+Huesca|22
+Segovia|40
+Teruel|44
+Soria|42
+Ceuta|51
+Melilla|52
+Sant Cugat del Vallès|08
+Rubí|08
+Manresa|08
+Granollers|08
+Vilanova i la Geltrú|08
+Sitges|08
+Figueres|17
+Lloret de Mar|17
+Blanes|17
+Salou|43
+Tortosa|43
+Benidorm|03
+Torrevieja|03
+Orihuela|03
+Dénia|03
+Gandía|46
+Sagunto|46
+Torrent|46
+Paterna|46
+Alzira|46
+Elda|03
+Villarreal|12
+Vinaròs|12
+Cieza|30
+Lorca|30
+Molina de Segura|30
+Águilas|30
+Ponferrada|24
+Astorga|24
+Aranda de Duero|09
+Miranda de Ebro|09
+Medina del Campo|47
+Ciudad Rodrigo|37
+Béjar|37
+Plasencia|10
+Mérida|06
+Don Benito|06
+Almendralejo|06
+Talavera de la Reina|45
+Puertollano|13
+Alcázar de San Juan|13
+Valdepeñas|13
+Tomelloso|13
+Linares|23
+Úbeda|23
+Andújar|23
+Motril|18
+Guadix|18
+Antequera|29
+Ronda|29
+Fuengirola|29
+Torremolinos|29
+Estepona|29
+Vélez-Málaga|29
+El Ejido|04
+Níjar|04
+Dos Hermanas|41
+Alcalá de Guadaíra|41
+Écija|41
+Utrera|41
+Chiclana de la Frontera|11
+San Fernando|11
+El Puerto de Santa María|11
+Sanlúcar de Barrameda|11
+Lucena|14
+Priego de Córdoba|14
+Puente Genil|14
+Arrecife|35
+Puerto del Rosario|35
+Arona|38
+Adeje|38
+Los Realejos|38
+Ferrol|15
+Betanzos|15
+Carballo|15
+Ribeira|15
+Monforte de Lemos|27
+Verín|32
+Tui|36
+Cangas|36
+Redondela|36
+Avilés|33
+Mieres|33
+Langreo|33
+Torrelavega|39
+Castro-Urdiales|39
+Irún|20
+Eibar|20
+Getxo|48
+Portugalete|48
+Barañáin|31
+Tudela|31
+Calahorra|26
+Arnedo|26
+Majadahonda|28
+Pozuelo de Alarcón|28
+Las Rozas|28
+Rivas-Vaciamadrid|28
+Collado Villalba|28
+Aranjuez|28
+San Sebastián de los Reyes|28
+Coslada|28
+Valdemoro|28
+Arganda del Rey|28

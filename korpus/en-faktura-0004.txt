@@ -1,0 +1,27 @@
+Harbour LP
+2429 Ridge Road, Seattle, WA 98128 | EIN 85-4617456
+INVOICE
+Invoice date: 07/20/2021
+Date of supply: 07/16/2021
+Bill from	Bill to
+Harbour LP	Fairbridge Inc.
+2429 Ridge Road, Seattle, WA 98128	6998 Cedar Blvd, Seattle, WA 98186
+EIN 85-4617456	EIN 44-9043921
+Phone +1 360-555-0172	Phone +1 253-555-0125
+Item	Service	Unit	Qty	Amount	Tax
+1	Services under engagement dated 04/17/2020	flat fee	1	$4,703.12	8.25%
+2	Preparation and negotiation of documents	flat fee	1	$4,984.46	8.25%
+3	Attendance at board meetings	flat fee	1	$631.92	8.25%
+Subtotal	Sales tax 8.25%	Total due
+$10,319.50	$851.36	$11,170.86
+Payment due by 08/19/2021. Please pay by bank transfer to Routing No. 093105967, Account No. 96681529008, quoting the invoice date as the reference.
+Queries about this invoice: enquiries@harbour.example.org, tel. +1 360-555-0172.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Amber Martinez, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Rachel Jackson.
+Rachel Jackson
+Harbour LP | 2429 Ridge Road, Seattle, WA 98128 | EIN 85-4617456 | tel. +1 360-555-0172
+Author: Rachel Jackson
+Subject: Invoice for legal services

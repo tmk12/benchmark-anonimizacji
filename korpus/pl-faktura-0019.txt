@@ -1,0 +1,45 @@
+Gamma sp. z o.o.
+ul. Świętojańska 137, 85-883 Bydgoszcz | NIP 9344068168
+FAKTURA VAT
+Data wystawienia: 01.09.2022 r.
+Data sprzedaży: 26.08.2022 r.
+Sprzedawca: Gamma sp. z o.o.
+Nabywca: Eko-Serwis sp.k.
+Sprzedawca: ul. Świętojańska 137, 85-883 Bydgoszcz
+Nabywca: ul. Stefana Czarnieckiego 91/74, 95-455 Pabianice
+Sprzedawca: NIP: 9344068168
+Nabywca: NIP: 2885654336
+Sprzedawca: REGON: 026901007
+Nabywca: REGON: 106203304
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 26.01.2022 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 18 070,49 zł
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 1 537,88 zł
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 667,36 zł
+Stawka VAT: 23%
+Razem netto: 20 275,73 zł
+Podatek VAT 23%: 4 663,42 zł
+Razem do zapłaty (brutto): 24 939,15 zł
+Termin płatności: 19.09.2022 r. Sposób zapłaty: przelew na rachunek PL31215297248674985310724534.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@gamma.test, tel. 000 643 753.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Halinie Kurek – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Sebastian Woźniak.
+Sebastian Woźniak
+Gamma sp. z o.o. | ul. Świętojańska 137, 85-883 Bydgoszcz | NIP 9344068168 | KRS 0000063540 | tel. 000 643 753
+Autor: Sebastian Woźniak
+Temat: Faktura VAT

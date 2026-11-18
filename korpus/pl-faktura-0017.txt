@@ -1,0 +1,27 @@
+Alfa Trans sp. z o.o.
+ul. Wyspiańskiego 29, 44-029 Wodzisław Śląski | NIP 4191403017
+FAKTURA VAT
+Data wystawienia: 10.05.2024 r.
+Data sprzedaży: 10.05.2024 r.
+Sprzedawca	Nabywca
+Alfa Trans sp. z o.o.	Agro-Ład S.A.
+ul. Wyspiańskiego 29, 44-029 Wodzisław Śląski	ul. Krótka 125B/34, 22-779 Chełm
+NIP: 4191403017	NIP: 6392323898
+REGON: 446778760	REGON: 256926058
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 17.02.2023 r.	ryczałt	1	4 455,00 PLN	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	8 648,77 PLN	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	11 830,84 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+24 934,61 PLN	5 734,96 PLN	30 669,57 PLN
+Termin płatności: 27.05.2024 r. Sposób zapłaty: przelew na rachunek PL04105209098282031516941260.
+Adres e-mail do przesyłania potwierdzeń płatności: info@alfatrans.example.net, tel. +48 000 713 528.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Joannie Wilk – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Marzena Kamińska.
+Marzena Kamińska
+Alfa Trans sp. z o.o. | ul. Wyspiańskiego 29, 44-029 Wodzisław Śląski | NIP 4191403017 | KRS 0001050278 | tel. +48 000 713 528
+Autor: Marzena Kamińska
+Temat: Faktura VAT

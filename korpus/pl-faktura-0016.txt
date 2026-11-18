@@ -1,0 +1,45 @@
+Hortus sp. z o.o.
+ul. Traugutta 38/43, 90-183 Łódź | NIP 1810338346
+FAKTURA VAT
+Data wystawienia: 18 kwietnia 2025 r.
+Data sprzedaży: 11 kwietnia 2025 r.
+Sprzedawca: Hortus sp. z o.o.
+Nabywca: Quantum sp. z o.o.
+Sprzedawca: ul. Traugutta 38/43, 90-183 Łódź
+Nabywca: ul. Krakowskie Przedmieście 111, 87-119 Aleksandrów Kujawski
+Sprzedawca: NIP: 1810338346
+Nabywca: NIP: 5115154852
+Sprzedawca: REGON: 208340189
+Nabywca: REGON: 202671815
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 16 listopada 2023 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 14 741,64 PLN
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 13 329,60 PLN
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 2 709,55 PLN
+Stawka VAT: 23%
+Razem netto: 30 780,79 PLN
+Podatek VAT 23%: 7 079,58 PLN
+Razem do zapłaty (brutto): 37 860,37 PLN
+Termin płatności: 12 maja 2025 r. Sposób zapłaty: przelew na rachunek PL74175800308141420885563071.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.hortus@example.com, tel. +48 000 764 402.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Krystynie Hajduk – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Anna Maliszewska.
+Anna Maliszewska
+Hortus sp. z o.o. | ul. Traugutta 38/43, 90-183 Łódź | NIP 1810338346 | KRS 0000662476 | tel. +48 000 764 402
+Autor: Anna Maliszewska
+Temat: Faktura VAT

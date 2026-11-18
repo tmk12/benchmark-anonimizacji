@@ -1,0 +1,53 @@
+J45.0 Astma oskrzelowa z przewagą mechanizmu alergicznego
+I10 Samoistne nadciśnienie tętnicze
+E11.9 Cukrzyca typu 2 bez powikłań
+E10.9 Cukrzyca typu 1 bez powikłań
+I25.1 Miażdżycowa choroba serca
+I50.0 Niewydolność serca zastoinowa
+I48 Migotanie i trzepotanie przedsionków
+J44.9 Przewlekła obturacyjna choroba płuc
+F32.1 Epizod depresyjny umiarkowany
+F41.1 Zaburzenia lękowe uogólnione
+F43.1 Zaburzenie stresowe pourazowe
+G43.9 Migrena nieokreślona
+G40.9 Padaczka nieokreślona
+M54.5 Ból krzyża
+M51.1 Uszkodzenie krążka międzykręgowego z rwą kulszową
+M17.9 Choroba zwyrodnieniowa stawu kolanowego
+M05.9 Reumatoidalne zapalenie stawów seropozytywne
+M81.9 Osteoporoza nieokreślona
+N18.3 Przewlekła choroba nerek stadium 3
+N20.0 Kamica nerkowa
+N40 Rozrost gruczołu krokowego
+K21.0 Choroba refluksowa przełyku z zapaleniem
+K29.5 Przewlekłe zapalenie żołądka
+K50.9 Choroba Leśniowskiego-Crohna
+K51.9 Wrzodziejące zapalenie jelita grubego
+K80.2 Kamica żółciowa
+K74.6 Marskość wątroby
+E03.9 Niedoczynność tarczycy
+E05.9 Nadczynność tarczycy
+E66.9 Otyłość nieokreślona
+D50.9 Niedokrwistość z niedoboru żelaza
+C50.9 Nowotwór złośliwy piersi
+C61 Nowotwór złośliwy gruczołu krokowego
+C34.9 Nowotwór złośliwy oskrzela lub płuca
+C18.9 Nowotwór złośliwy okrężnicy
+C91.0 Ostra białaczka limfoblastyczna
+I63.9 Zawał mózgu
+I21.9 Ostry zawał serca
+G20 Choroba Parkinsona
+G35 Stwardnienie rozsiane
+F20.9 Schizofrenia nieokreślona
+F31.9 Choroba afektywna dwubiegunowa
+L40.0 Łuszczyca zwykła
+L20.9 Atopowe zapalenie skóry
+B20 Choroba wywołana wirusem HIV
+B18.2 Przewlekłe wirusowe zapalenie wątroby typu C
+U07.1 COVID-19
+H25.9 Zaćma starcza
+H40.9 Jaskra nieokreślona
+S72.0 Złamanie szyjki kości udowej
+S82.6 Złamanie kostki bocznej
+O24.4 Cukrzyca ciążowa
+G47.3 Bezdech senny

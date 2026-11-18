@@ -1,0 +1,28 @@
+Schneider Rechtsanwälte PartG mbB
+Marktplatz 117, 85751 Ingolstadt | Steuernummer 854/4786/6127 | USt-IdNr. DE136058126
+RECHNUNG Nr. R-500
+Rechnungsdatum: 2. September 2025
+Leistungszeitpunkt: 25. August 2025
+Rechnungsaussteller	Rechnungsempfänger
+Schneider Rechtsanwälte PartG mbB	Friedrich Maier OHG
+Marktplatz 117, 85751 Ingolstadt	Alte Straße 49, 85718 Ingolstadt
+USt-IdNr. DE136058126	USt-IdNr. DE947365012
+Tel. +49 176 04069065	Tel. +49 1525 4599371
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	14.077,27 €	14.077,27 €	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	8.801,15 €	8.801,15 €	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	1.681,41 €	1.681,41 €	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+24.559,83 €	4.666,37 €	29.226,20 €
+Zahlbar bis zum 22. September 2025 ohne Abzug durch Überweisung auf das Konto DE92700700106030747534 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an buero@schneiderrechtsanwalte.example.org, Tel. +49 176 04069065.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Marco Schmitz als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Maximilian Berger.
+Maximilian Berger
+Schneider Rechtsanwälte PartG mbB | Marktplatz 117, 85751 Ingolstadt | USt-IdNr. DE136058126 | Tel. +49 176 04069065
+Autor: Benutzer
+Betreff: Rechnung für Rechtsberatung

@@ -1,0 +1,27 @@
+Riverside Inc.
+7467 Sycamore Blvd, Jackson, MS 39288 | EIN 57-6873933
+INVOICE
+Invoice date: April 1, 2022
+Date of supply: March 25, 2022
+Bill from	Bill to
+Riverside Inc.	Ironbridge Inc.
+7467 Sycamore Blvd, Jackson, MS 39288	6016 Highland Avenue, Jackson, MS 39239
+EIN 57-6873933	EIN 41-4838101
+Phone +1 228-555-0151	Phone +1 601-555-0160
+Item	Service	Unit	Qty	Amount	Tax
+1	Services under engagement dated July 1, 2021	flat fee	1	$9,777.93	8.25%
+2	Preparation and negotiation of documents	flat fee	1	$543.68	8.25%
+3	Attendance at board meetings	flat fee	1	$1,206.07	8.25%
+Subtotal	Sales tax 8.25%	Total due
+$11,527.68	$951.03	$12,478.71
+Payment due by April 18, 2022. Please pay by bank transfer to Routing No. 094397473, Account No. 79946783, quoting the invoice date as the reference.
+Queries about this invoice: office@riverside.test, tel. +1 228-555-0151.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Bruce Martin, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Jean Ray.
+Jean Ray
+Riverside Inc. | 7467 Sycamore Blvd, Jackson, MS 39288 | EIN 57-6873933 | tel. +1 228-555-0151
+Author: User
+Subject: Invoice for legal services

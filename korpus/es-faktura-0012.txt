@@ -1,0 +1,28 @@
+Servicios Financieros Plus Abogados y Asesores, S.L.P.
+Calle de los Naranjos, 196, 3º C, 30166 Lorca | CIF B25531328 | NIF-IVA ESB25531328
+FACTURA N.º A-417
+Fecha de expedición: 30/10/2025
+Fecha de la operación: 30/10/2025
+Emisor	Destinatario
+Servicios Financieros Plus Abogados y Asesores, S.L.P.	Eolo, S.L.
+Calle de los Naranjos, 196, 3º C, 30166 Lorca	Calle de València, 185, 30066 Lorca
+CIF B25531328	CIF B25837337
+Tel. +34000106408	Tel. 000 326 087
+N.º	Servicio	Unidad	Cantidad	Base imponible	Tipo de IVA
+1	Servicios según contrato de fecha 21/02/2025	a tanto alzado	1	1.033,19 EUR	21 %
+2	Redacción y negociación de documentos	a tanto alzado	1	505,05 EUR	21 %
+3	Asistencia a consejos de administración	a tanto alzado	1	5.104,09 EUR	21 %
+Base imponible	IVA 21 %	Total factura
+6.642,33 EUR	1.394,89 EUR	8.037,22 EUR
+Vencimiento: 20/11/2025. Forma de pago: transferencia bancaria a la cuenta ES6821001565239374008027, indicando el número de factura como concepto.
+Consultas sobre esta factura: administracion@serviciosfinancierosplus.example.org, tel. +34000106408.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Aurelio Vega López, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Leo Domínguez Saavedra.
+Leo Domínguez Saavedra
+Servicios Financieros Plus Abogados y Asesores, S.L.P. | Calle de los Naranjos, 196, 3º C, 30166 Lorca | CIF B25531328 | tel. +34000106408
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

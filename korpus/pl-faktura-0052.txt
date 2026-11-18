@@ -1,0 +1,27 @@
+Rewit sp. z o.o.
+ul. Piękna 25/30, 05-568 Pruszków | NIP 9957539715
+FAKTURA VAT
+Data wystawienia: 24.02.2023 r.
+Data sprzedaży: 15.02.2023 r.
+Sprzedawca	Nabywca
+Rewit sp. z o.o.	Fabryka Mebli Orion sp.k.
+ul. Piękna 25/30, 05-568 Pruszków	ul. Zwycięstwa 88/21, 59-868 Legnica
+NIP: 9957539715	NIP: 8506398732
+REGON: 284441340	REGON: 409653702
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 04.05.2021 r.	ryczałt	1	1 608,08 PLN	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	4 878,96 PLN	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	1 835,55 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+8 322,59 PLN	1 914,20 PLN	10 236,79 PLN
+Termin płatności: 14.03.2023 r. Sposób zapłaty: przelew na rachunek PL81212746246268045856367675.
+Adres e-mail do przesyłania potwierdzeń płatności: office@rewit.example.org, tel. 000 396 145.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Barbarze Kalecie – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Dominik Wiśniewski.
+Dominik Wiśniewski
+Rewit sp. z o.o. | ul. Piękna 25/30, 05-568 Pruszków | NIP 9957539715 | KRS 0000537840 | tel. 000 396 145
+Autor: Dominik Wiśniewski
+Temat: Faktura VAT

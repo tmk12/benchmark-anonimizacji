@@ -1,0 +1,30 @@
+SELARL Le Goff Avocats
+111 rue Monet, 45138 Orléans | SIREN 975946419 | TVA intracommunautaire FR96975946419
+FACTURE N° F-170
+Date d'émission : 3 novembre 2021
+Date de la prestation : 25 octobre 2021
+Émetteur	Client
+SELARL Le Goff Avocats	Armor SASU
+111 rue Monet, 45138 Orléans	77 rue de Turbigo, 45861 Orléans
+SIREN 975946419	SIREN 807988373
+TVA intracommunautaire FR96975946419	TVA intracommunautaire FR24807988373
+Tél. 02 61 91 95 72	Tél. 02 61 91 35 07
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 7 décembre 2020	forfait	1	4 531,04 €	20 %
+2	Rédaction et négociation d'actes	forfait	1	11 450,52 €	20 %
+3	Assistance à des assemblées d'associés	forfait	1	1 570,09 €	20 %
+Total HT	TVA 20 %	Total TTC
+17 551,65 €	3 510,33 €	21 061,98 €
+Échéance de paiement : 2 décembre 2021, par virement sur le compte FR7640618080483042691263917 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : contact@legoffavocats.test, tél. 02 61 91 95 72.
+Mentions légales : SELARL Le Goff Avocats, société d'exercice libéral à responsabilité limitée au capital de 2 320,00 €, RCS Orléans 975946419, TVA intracommunautaire FR96975946419.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Françoise Boyer, habilitée à recevoir les documents comptables du client.
+Établie et vérifiée par Françoise Girard.
+Françoise Girard
+SELARL Le Goff Avocats | 111 rue Monet, 45138 Orléans | SIREN 975946419 | TVA intracommunautaire FR96975946419 | Tél. 02 61 91 95 72
+Auteur: Françoise Girard
+Objet: Facture d'honoraires

@@ -1,0 +1,27 @@
+Biuro Rachunkowe Księga sp. z o.o.
+ul. Curie-Skłodowskiej 51, 20-174 Lublin | NIP 3927376582
+FAKTURA VAT
+Data wystawienia: 30 maja 2023 r.
+Data sprzedaży: 26 maja 2023 r.
+Sprzedawca	Nabywca
+Biuro Rachunkowe Księga sp. z o.o.	Rewit sp. z o.o.
+ul. Curie-Skłodowskiej 51, 20-174 Lublin	ul. Reymonta 85/97, 39-339 Mielec
+NIP: 3927376582	NIP: 3413784463
+REGON: 109374414	REGON: 325153829
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	9 773,47 PLN	9 773,47 PLN	23%
+2	Opinia prawna w sprawie umowy najmu	1	14 237,91 PLN	14 237,91 PLN	23%
+3	Reprezentacja przed organem administracji	1	3 086,50 PLN	3 086,50 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+27 097,88 PLN	6 232,51 PLN	33 330,39 PLN
+Termin płatności: 15 czerwca 2023 r. Sposób zapłaty: przelew na rachunek PL28160616268610781267100724.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.biurorachunkoweksiega@example.com, tel. +48 000 907 237.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Izabeli Wysockiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Rafał Mucha.
+Rafał Mucha
+Biuro Rachunkowe Księga sp. z o.o. | ul. Curie-Skłodowskiej 51, 20-174 Lublin | NIP 3927376582 | KRS 0000201361 | tel. +48 000 907 237
+Autor: Rafał Mucha
+Temat: Faktura VAT

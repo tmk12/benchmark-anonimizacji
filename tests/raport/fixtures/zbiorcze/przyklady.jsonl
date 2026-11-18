@@ -1,0 +1,2 @@
+{"uczestnik": "privatizer-tekst", "id": "pl-t-0001", "jezyk": "pl", "przed": "Jan Przykładowy mieszka w Testowie.", "po": "[OSOBA] mieszka w [MIEJSCE].", "wyciek": false}
+{"uczestnik": "beta", "id": "pl-t-0001", "jezyk": "pl", "przed": "Jan Przykładowy mieszka w Testowie.", "po": "Jan [OSOBA] mieszka w Testowie.", "wyciek": true}

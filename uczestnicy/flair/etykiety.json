@@ -1,0 +1,5 @@
+{
+  "PER": ["OSOBA"],
+  "LOC": ["MIEJSCOWOSC", "REGION", "KRAJ", "MIEJSCE_UR"],
+  "ORG": ["ORGANIZACJA"]
+}

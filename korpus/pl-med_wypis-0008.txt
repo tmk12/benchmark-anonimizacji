@@ -1,0 +1,27 @@
+Szpital Powiatowy Inter-Med S.A.
+ul. Norwida 77/88, 23-263 Kraśnik | REGON 482931587 | tel. 000 242 609
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjentka: Henryka Makowska, PESEL 69072838180, data urodzenia 28 lipca 1969 r.
+Adres zamieszkania: ul. 1 Maja 6, 21-290 Biała Podlaska, tel. +48000271938
+Data przyjęcia: 18 sierpnia 2023 r. Data wypisu: 23 sierpnia 2023 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: N18.3 Przewlekła choroba nerek stadium 3
+Rozpoznania współistniejące: I25.1 Miażdżycowa choroba serca; I35.0 Zwężenie zastawki aortalnej
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: losartan 100 mg – według schematu ustalonego w poradni; amlodypina 5 mg – raz dziennie rano; atorwastatyna 10 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 31 sierpnia 2023 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 6 września 2023 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Henryce Makowskiej w dniu wypisu; za zgodą pacjentki informacje o stanie zdrowia mogą być udzielane Wojciechowi Kurowskiemu, tel. +48 000 840 080.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjentka została pouczona o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Krystyna Siwiec, nr PWZ 8966026
+Ordynator oddziału: Aleksandra Krawczyk, nr PWZ 5810571
+Krystyna Siwiec
+Aleksandra Krawczyk
+Szpital Powiatowy Inter-Med S.A. | ul. Norwida 77/88, 23-263 Kraśnik | tel. 000 242 609 | office@intermed.example.org
+Autor: Krystyna Siwiec
+Temat: Karta informacyjna leczenia szpitalnego

@@ -1,0 +1,219 @@
+Calle Mayor
+Calle Real
+Calle Nueva
+Calle Ancha
+Calle Larga
+Calle del Pozo
+Calle de la Iglesia
+Calle de la Paz
+Calle del Sol
+Calle de la Luna
+Calle del Carmen
+Calle de San Antonio
+Calle de San José
+Calle de San Pedro
+Calle de San Juan
+Calle de Santa María
+Calle de la Constitución
+Calle de la Libertad
+Calle de la Estación
+Calle del Castillo
+Calle del Río
+Calle de la Fuente
+Calle del Prado
+Calle de las Flores
+Calle de los Olivos
+Calle de los Naranjos
+Calle del Olmo
+Calle de los Pinos
+Calle de la Rosa
+Calle del Clavel
+Calle del Mar
+Calle de la Playa
+Calle del Puerto
+Calle de la Virgen
+Calle de Alcalá
+Calle de Atocha
+Calle de Fuencarral
+Calle de Serrano
+Calle de Goya
+Calle de Velázquez
+Calle de Ortega y Gasset
+Calle de Alberto Aguilera
+Calle de Princesa
+Calle de Toledo
+Calle de Segovia
+Calle de Embajadores
+Calle de Bravo Murillo
+Calle de Hortaleza
+Calle de Preciados
+Calle de Arenal
+Calle de Cervantes
+Calle de Lope de Vega
+Calle de Góngora
+Calle de Quevedo
+Calle de Calderón de la Barca
+Calle de Zurbarán
+Calle de Murillo
+Calle de Picasso
+Calle de Miguel Ángel
+Calle de Santa Engracia
+Calle de Génova
+Calle de Almagro
+Calle de Zurbano
+Calle de Orense
+Calle de Alcántara
+Calle de Villanueva
+Calle de Padilla
+Calle de Sagasta
+Calle de Cea Bermúdez
+Calle de Ponzano
+Calle de Modesto Lafuente
+Calle de Bretón de los Herreros
+Calle de Narváez
+Calle de O'Donnell
+Calle de Doctor Esquerdo
+Calle de Alfonso XII
+Calle de Alfonso XIII
+Calle de Jaime I
+Calle de Fernando el Católico
+Calle de Isabel la Católica
+Calle de Reyes Católicos
+Calle de Felipe II
+Calle de Carlos III
+Calle del Generalísimo
+Calle de Gran Vía
+Calle de Colón
+Calle de Cristóbal Colón
+Calle de Hernán Cortés
+Calle de Pizarro
+Calle de Juan de Austria
+Calle de Cardenal Cisneros
+Calle de Mártires
+Calle de la Rambla
+Calle de Aragón
+Calle de Balmes
+Calle de Muntaner
+Calle de Villarroel
+Calle de Enric Granados
+Calle de Rosselló
+Calle de Provença
+Calle de Mallorca
+Calle de València
+Calle de Diputació
+Calle de Consell de Cent
+Calle de Aribau
+Calle de Casanova
+Calle de Urgell
+Calle de Tamarit
+Calle de Floridablanca
+Calle de Sepúlveda
+Calle de Entença
+Calle de Roger de Llúria
+Calle de Pau Claris
+Calle de Bailén
+Calle de Girona
+Calle de Sants
+Calle de Gran de Gràcia
+Calle de Verdi
+Calle de Torrijos
+Calle de Mozart
+Calle de Calabria
+Avenida de la Constitución
+Avenida de España
+Avenida de Andalucía
+Avenida de Madrid
+Avenida de Barcelona
+Avenida de Valencia
+Avenida de Europa
+Avenida de América
+Avenida de la Libertad
+Avenida de la Paz
+Avenida del Mediterráneo
+Avenida de los Reyes Católicos
+Avenida de la Estación
+Avenida de la Ciudad de Barcelona
+Avenida de Portugal
+Avenida de Burgos
+Avenida del Doctor Fleming
+Avenida de Cantabria
+Avenida de Aragón
+Avenida de Cataluña
+Avenida de Galicia
+Avenida de Extremadura
+Avenida de Castilla
+Avenida de la Albufera
+Avenida del Cid
+Avenida de Séneca
+Avenida Diagonal
+Avenida Meridiana
+Avenida del Paralelo
+Avenida de Mistral
+Avenida de la República Argentina
+Avenida Menéndez Pelayo
+Avenida Reina Victoria
+Paseo de la Castellana
+Paseo del Prado
+Paseo de Recoletos
+Paseo de la Habana
+Paseo de Gracia
+Paseo de San Juan
+Paseo Marítimo
+Paseo de la Alameda
+Paseo de los Olmos
+Paseo de Zorrilla
+Paseo de Pereda
+Paseo de la Independencia
+Paseo de Colón
+Paseo del Espolón
+Plaza Mayor
+Plaza de España
+Plaza de la Constitución
+Plaza del Ayuntamiento
+Plaza de la Villa
+Plaza de Cataluña
+Plaza de Castilla
+Plaza de la Independencia
+Plaza de San Francisco
+Plaza del Pilar
+Plaza de la Virgen
+Plaza Nueva
+Plaza del Carmen
+Plaza de Colón
+Plaza de Toros
+Plaza de Santa Ana
+Plaza del Sol
+Plaza Real
+Plaza de la Reina
+Plaza de Zocodover
+Ronda de Toledo
+Ronda de Atocha
+Ronda de Segovia
+Ronda de Valencia
+Ronda de Sant Pere
+Ronda del Mig
+Ronda Universitat
+Travesía de San Mateo
+Travesía del Horno
+Camino Viejo
+Camino de la Fuente
+Camino Real
+Carretera de Castilla
+Carretera de Andalucía
+Carretera de Valencia
+Urbanización Los Almendros
+Urbanización El Pinar
+Urbanización La Zagaleta
+Calle de los Remedios
+Calle de las Cruces
+Calle de las Eras
+Calle del Horno
+Calle del Molino
+Calle del Rosario
+Calle del Pilar
+Calle de la Cruz
+Calle de la Victoria
+Calle de la Esperanza
+Calle del Ángel
+Calle de las Palmas
+Calle de los Arcos

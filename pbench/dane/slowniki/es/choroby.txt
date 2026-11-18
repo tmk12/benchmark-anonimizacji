@@ -1,0 +1,53 @@
+J45.0 Asma predominantemente alérgica
+I10 Hipertensión esencial (primaria)
+E11.9 Diabetes mellitus tipo 2 sin complicaciones
+E10.9 Diabetes mellitus tipo 1 sin complicaciones
+I25.1 Enfermedad aterosclerótica del corazón
+I50.0 Insuficiencia cardíaca congestiva
+I48 Fibrilación y aleteo auricular
+J44.9 Enfermedad pulmonar obstructiva crónica no especificada
+F32.1 Episodio depresivo moderado
+F41.1 Trastorno de ansiedad generalizada
+F43.1 Trastorno de estrés postraumático
+G43.9 Migraña no especificada
+G40.9 Epilepsia no especificada
+M54.5 Lumbalgia
+M51.1 Trastorno de disco lumbar con radiculopatía
+M17.9 Gonartrosis no especificada
+M05.9 Artritis reumatoide seropositiva
+M81.9 Osteoporosis no especificada
+N18.3 Enfermedad renal crónica en estadio 3
+N20.0 Cálculo del riñón
+N40 Hiperplasia de la próstata
+K21.0 Enfermedad por reflujo gastroesofágico con esofagitis
+K29.5 Gastritis crónica no especificada
+K50.9 Enfermedad de Crohn no especificada
+K51.9 Colitis ulcerosa no especificada
+K80.2 Cálculo de la vesícula biliar
+K74.6 Cirrosis hepática
+E03.9 Hipotiroidismo no especificado
+E05.9 Tirotoxicosis no especificada
+E66.9 Obesidad no especificada
+D50.9 Anemia por deficiencia de hierro
+C50.9 Tumor maligno de la mama
+C61 Tumor maligno de la próstata
+C34.9 Tumor maligno de bronquio o pulmón
+C18.9 Tumor maligno del colon
+C91.0 Leucemia linfoblástica aguda
+I63.9 Infarto cerebral no especificado
+I21.9 Infarto agudo de miocardio
+G20 Enfermedad de Parkinson
+G35 Esclerosis múltiple
+F20.9 Esquizofrenia no especificada
+F31.9 Trastorno afectivo bipolar
+L40.0 Psoriasis vulgar
+L20.9 Dermatitis atópica
+B20 Enfermedad por VIH
+B18.2 Hepatitis viral crónica C
+U07.1 COVID-19
+H25.9 Catarata senil
+H40.9 Glaucoma no especificado
+S72.0 Fractura del cuello del fémur
+S82.6 Fractura del maléolo externo
+O24.4 Diabetes mellitus gestacional
+G47.3 Apnea del sueño

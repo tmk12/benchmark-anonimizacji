@@ -1,0 +1,27 @@
+Cardinal Inc.
+7664 Derby Avenue, Wilmington, DE 19831 | EIN 64-9019426
+INVOICE
+Invoice date: 09/09/2025
+Date of supply: 09/05/2025
+Bill from	Bill to
+Cardinal Inc.	Stonebridge Insurance LLC
+7664 Derby Avenue, Wilmington, DE 19831	5572 Hawthorn Way, Wilmington, DE 19826
+EIN 64-9019426	EIN 72-8607087
+Phone +13025550118	Phone (302) 555-0122
+Item	Description	Qty	Rate	Amount	Tax
+1	Monthly retainer for general legal counsel	1	$3,122.99	$3,122.99	8.25%
+2	Review of commercial lease	1	$1,600.14	$1,600.14	8.25%
+3	Regulatory filing and attendance	1	$4,474.73	$4,474.73	8.25%
+Subtotal	Sales tax 8.25%	Total due
+$9,197.86	$758.82	$9,956.68
+Payment due by 09/29/2025. Please pay by bank transfer to Routing No. 303564913, Account No. 55794740463, quoting the invoice date as the reference.
+Queries about this invoice: office@cardinal.test, tel. +13025550118.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Andrew Lawson, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by David Curtis.
+David Curtis
+Cardinal Inc. | 7664 Derby Avenue, Wilmington, DE 19831 | EIN 64-9019426 | tel. +13025550118
+Author: User
+Subject: Invoice for legal services

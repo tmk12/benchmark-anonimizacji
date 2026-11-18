@@ -1,0 +1,29 @@
+SELARL Perrin, Boyer & Associés Avocats
+158 rue des Violettes, 13419 Aix-en-Provence | SIREN 572278430 | TVA intracommunautaire FR01572278430
+FACTURE N° F-356
+Date d'émission : 05/08/2022
+Date de la prestation : 28/07/2022
+Émetteur	Client
+SELARL Perrin, Boyer & Associés Avocats	Anjou SAS
+158 rue des Violettes, 13419 Aix-en-Provence	149 rue Nationale, 13523 Aix-en-Provence
+SIREN 572278430	SIREN 489998070
+TVA intracommunautaire FR01572278430	TVA intracommunautaire FR59489998070
+Tél. +33 4 65 71 54 66	Tél. +33 4 65 71 39 22
+Réf.	Désignation	Quantité	Prix unitaire HT	Total HT	TVA
+1	Forfait de conseil juridique récurrent	1	4 935,17 €	4 935,17 €	20 %
+2	Revue d'un bail commercial	1	13 110,02 €	13 110,02 €	20 %
+3	Assistance à une réunion avec l'administration	1	1 315,23 €	1 315,23 €	20 %
+Total HT	TVA 20 %	Total TTC
+19 360,42 €	3 872,08 €	23 232,50 €
+Échéance de paiement : 22/08/2022, par virement sur le compte FR7630027326671800325193754 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : info.perrinboyerassocies@example.com, tél. +33 4 65 71 54 66.
+Mentions légales : SELARL Perrin, Boyer & Associés Avocats, société d'exercice libéral à responsabilité limitée au capital de 8 500,00 €, RCS Aix-en-Provence 572278430, TVA intracommunautaire FR01572278430.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Marie Michel, habilitée à recevoir les documents comptables du client.
+Établie et vérifiée par Philippe Guérin.
+Philippe Guérin
+SELARL Perrin, Boyer & Associés Avocats | 158 rue des Violettes, 13419 Aix-en-Provence | SIREN 572278430 | TVA intracommunautaire FR01572278430 | Tél. +33 4 65 71 54 66
+Auteur: Utilisateur
+Objet: Facture d'honoraires

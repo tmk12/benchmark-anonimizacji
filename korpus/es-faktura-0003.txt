@@ -1,0 +1,45 @@
+Mendoza Taboada Abogados, S.L.P.
+Calle de Hortaleza, 166, 08556 Sabadell | CIF B24163990 | NIF-IVA ESB24163990
+FACTURA N.º A-501
+Fecha de expedición: 3 de enero de 2024
+Fecha de la operación: 2 de enero de 2024
+Emisor: Mendoza Taboada Abogados, S.L.P.
+Destinatario: Nueva Castilla, S.L.
+Emisor: Calle de Hortaleza, 166, 08556 Sabadell
+Destinatario: Calle de San Juan, 59, 08751 Mataró
+Emisor: CIF B24163990
+Destinatario: CIF B02449973
+Emisor: Tel. 000 017 938
+Destinatario: Tel. +34 000 05 08 23
+N.º: 1
+Concepto: Cuota mensual de asesoramiento jurídico general
+Cantidad: 1
+Precio unitario: 3.938,12 €
+Base imponible: 3.938,12 €
+Tipo de IVA: 21 %
+N.º: 2
+Concepto: Informe sobre contrato de arrendamiento de local
+Cantidad: 1
+Precio unitario: 15.570,68 €
+Base imponible: 15.570,68 €
+Tipo de IVA: 21 %
+N.º: 3
+Concepto: Asistencia a reunión con la Administración
+Cantidad: 1
+Precio unitario: 4.024,37 €
+Base imponible: 4.024,37 €
+Tipo de IVA: 21 %
+Base imponible: 23.533,17 €
+IVA 21 %: 4.941,97 €
+Total factura: 28.475,14 €
+Vencimiento: 25 de enero de 2024. Forma de pago: transferencia bancaria a la cuenta ES4501387928323518622901, indicando el número de factura como concepto.
+Consultas sobre esta factura: contacto@mendozataboadaabogados.example.com, tel. 000 017 938.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Lourdes Cisneros Puig, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Leo García Rueda.
+Leo García Rueda
+Mendoza Taboada Abogados, S.L.P. | Calle de Hortaleza, 166, 08556 Sabadell | CIF B24163990 | tel. 000 017 938
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

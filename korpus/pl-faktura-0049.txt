@@ -1,0 +1,27 @@
+Aurum sp. z o.o.
+ul. Jana Pawła II 138, 25-835 Kielce | NIP 5891191612
+FAKTURA VAT
+Data wystawienia: 30 kwietnia 2021 r.
+Data sprzedaży: 23 kwietnia 2021 r.
+Sprzedawca	Nabywca
+Aurum sp. z o.o.	Nova sp. z o.o.
+ul. Jana Pawła II 138, 25-835 Kielce	ul. Moniuszki 54A/98, 40-074 Katowice
+NIP: 5891191612	NIP: 9592501515
+REGON: 342739772	REGON: 434537066
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	2 847,06 zł	2 847,06 zł	23%
+2	Opinia prawna w sprawie umowy najmu	1	632,57 zł	632,57 zł	23%
+3	Reprezentacja przed organem administracji	1	4 892,34 zł	4 892,34 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+8 371,97 zł	1 925,55 zł	10 297,52 zł
+Termin płatności: 24 maja 2021 r. Sposób zapłaty: przelew na rachunek PL86109122707526039449302520.
+Adres e-mail do przesyłania potwierdzeń płatności: info@aurum.example.net, tel. +48 000 740 154.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Józefowi Dąbrowskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Sebastian Nowak.
+Sebastian Nowak
+Aurum sp. z o.o. | ul. Jana Pawła II 138, 25-835 Kielce | NIP 5891191612 | KRS 0000702031 | tel. +48 000 740 154
+Autor: Sebastian Nowak
+Temat: Faktura VAT

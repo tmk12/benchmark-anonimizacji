@@ -1,0 +1,27 @@
+Argon sp. z o.o. sp.k.
+ul. Curie-Skłodowskiej 76/113, 60-272 Poznań | NIP 3563982242
+FAKTURA VAT
+Data wystawienia: 9 września 2022 r.
+Data sprzedaży: 2 września 2022 r.
+Sprzedawca	Nabywca
+Argon sp. z o.o. sp.k.	Darex sp. z o.o.
+ul. Curie-Skłodowskiej 76/113, 60-272 Poznań	ul. Hoża 81/43, 70-167 Szczecin
+NIP: 3563982242	NIP: 1018822347
+REGON: 272331996	REGON: 220915120
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 22 lutego 2022 r.	ryczałt	1	6 451,54 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	541,35 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	942,36 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+7 935,25 zł	1 825,11 zł	9 760,36 zł
+Termin płatności: 3 października 2022 r. Sposób zapłaty: przelew na rachunek PL57215057157209684819591946.
+Adres e-mail do przesyłania potwierdzeń płatności: info@argon.example.net, tel. +48 000 149 063.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Markowi Stępniowi – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Sebastian Kita.
+Sebastian Kita
+Argon sp. z o.o. sp.k. | ul. Curie-Skłodowskiej 76/113, 60-272 Poznań | NIP 3563982242 | KRS 0001037165 | tel. +48 000 149 063
+Autor: Użytkownik
+Temat: Faktura VAT

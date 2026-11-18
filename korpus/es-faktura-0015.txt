@@ -1,0 +1,28 @@
+Despacho Torres Abogados, S.L.P.
+Plaza de la Virgen, 150, 12703 Vinaròs | CIF B47404116 | NIF-IVA ESB47404116
+FACTURA N.º A-135
+Fecha de expedición: 8 de mayo de 2026
+Fecha de la operación: 8 de mayo de 2026
+Emisor	Destinatario
+Despacho Torres Abogados, S.L.P.	Zarzuela, S.L.
+Plaza de la Virgen, 150, 12703 Vinaròs	Plaza del Pilar, 15, 9º D, 12721 Castellón de la Plana
+CIF B47404116	CIF B02869469
+Tel. +34 000 05 54 56	Tel. +34 000 26 45 24
+N.º	Servicio	Unidad	Cantidad	Base imponible	Tipo de IVA
+1	Servicios según contrato de fecha 28 de marzo de 2025	a tanto alzado	1	721,14 EUR	21 %
+2	Redacción y negociación de documentos	a tanto alzado	1	1.089,17 EUR	21 %
+3	Asistencia a consejos de administración	a tanto alzado	1	12.844,74 EUR	21 %
+Base imponible	IVA 21 %	Total factura
+14.655,05 EUR	3.077,56 EUR	17.732,61 EUR
+Vencimiento: 25 de mayo de 2026. Forma de pago: transferencia bancaria a la cuenta ES3000758824126263887539, indicando el número de factura como concepto.
+Consultas sobre esta factura: contacto@despachotorresabogados.example.com, tel. +34 000 05 54 56.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a José Antonio Núñez Castillo, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Arturo López Casanova.
+Arturo López Casanova
+Despacho Torres Abogados, S.L.P. | Plaza de la Virgen, 150, 12703 Vinaròs | CIF B47404116 | tel. +34 000 05 54 56
+Asunto: Factura por servicios jurídicos
+Autor: Arturo López Casanova

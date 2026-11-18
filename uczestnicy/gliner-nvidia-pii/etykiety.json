@@ -1,0 +1,129 @@
+{
+  "first_name": [
+    "OSOBA"
+  ],
+  "last_name": [
+    "OSOBA"
+  ],
+  "company_name": [
+    "ORGANIZACJA"
+  ],
+  "street_address": [
+    "ADRES"
+  ],
+  "city": [
+    "MIEJSCOWOSC",
+    "MIEJSCE_UR"
+  ],
+  "county": [
+    "REGION"
+  ],
+  "state": [
+    "REGION"
+  ],
+  "country": [
+    "KRAJ"
+  ],
+  "postcode": [
+    "KOD_POCZTOWY"
+  ],
+  "email": [
+    "EMAIL"
+  ],
+  "phone_number": [
+    "TELEFON"
+  ],
+  "fax_number": [
+    "TELEFON"
+  ],
+  "date_of_birth": [
+    "DATA_UR"
+  ],
+  "date": [
+    "DATA"
+  ],
+  "url": [
+    "URL"
+  ],
+  "ipv4": [
+    "IP"
+  ],
+  "ipv6": [
+    "IP"
+  ],
+  "mac_address": [
+    "MAC"
+  ],
+  "user_name": [
+    "LOGIN"
+  ],
+  "ssn": [
+    "SSN",
+    "SVNR",
+    "NUSS",
+    "NINO",
+    "NIR"
+  ],
+  "tax_id": [
+    "NIP",
+    "NR_PODATKOWY",
+    "VAT",
+    "CIF",
+    "EIN",
+    "SIREN"
+  ],
+  "account_number": [
+    "RACHUNEK"
+  ],
+  "bank_routing_number": [
+    "RACHUNEK"
+  ],
+  "swift_bic": [
+    "RACHUNEK"
+  ],
+  "credit_debit_card": [
+    "KARTA"
+  ],
+  "password": [
+    "SEKRET"
+  ],
+  "api_key": [
+    "SEKRET"
+  ],
+  "pin": [
+    "SEKRET"
+  ],
+  "license_plate": [
+    "NR_REJESTRACYJNY"
+  ],
+  "vehicle_identifier": [
+    "NR_REJESTRACYJNY"
+  ],
+  "medical_record_number": [
+    "IDENTYFIKATOR"
+  ],
+  "health_plan_beneficiary_number": [
+    "KVNR",
+    "MBI",
+    "NHS"
+  ],
+  "certificate_license_number": [
+    "IDENTYFIKATOR",
+    "NR_ID"
+  ],
+  "customer_id": [
+    "IDENTYFIKATOR"
+  ],
+  "employee_id": [
+    "IDENTYFIKATOR"
+  ],
+  "unique_id": [
+    "IDENTYFIKATOR"
+  ],
+  "device_identifier": [
+    "IDENTYFIKATOR"
+  ],
+  "blood_type": [
+    "ZDROWIE"
+  ]
+}

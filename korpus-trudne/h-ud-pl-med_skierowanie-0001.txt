@@ -1,0 +1,22 @@
+Szpital Powiatowy Piekarnia Rodzinna sp. z o.o.
+ul. Spacerowa 20, 58-440 Dzierżoniów | tel. +48 000 670 712 | REGON 236076463
+Dzierżoniów, dnia 07.08.2026 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 19.08.2026 r.
+Dane pacjentki: Sylwia Mucha, PESEL 83101076781, data urodzenia 10.10.1983 r.
+Adres: ul. Wschodnia 86/52, 05-050 Mińsk Mazowiecki, tel. 000 333 417
+Skierowuję Sylwię Muchę do szpitala: Delta Centrum Medyczne S.A., ul. Żelazna 28/109, 16-134 Suwałki, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): K80.2 Kamica żółciowa
+Rozpoznanie dodatkowe: E03.9 Niedoczynność tarczycy
+Dotychczasowe leczenie: cetyryzyna 10 mg – bez wystarczającej poprawy; amlodypina 5 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjentka powinna zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 184 691, e-mail info@delta.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjentka została poinformowana o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Helena Grabowska, nr PWZ 3662723
+Miejsce pieczęci imiennej i podpisu
+Helena Grabowska
+Szpital Powiatowy Piekarnia Rodzinna sp. z o.o. | ul. Spacerowa 20, 58-440 Dzierżoniów | tel. +48 000 670 712 | biuro@piekarniarodzinna.test
+Autor: Helena Grabowska
+Temat: Skierowanie na leczenie szpitalne

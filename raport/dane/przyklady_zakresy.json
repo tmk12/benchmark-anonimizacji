@@ -1,0 +1,77 @@
+{
+ "de-cv-0001|arbeitgeber1.nazwa#1": {
+  "do": 109,
+  "od": 80,
+  "tekst": "Atlas UG (haftungsbeschränkt)"
+ },
+ "de-cv-0001|ctx.cv_od1#1": {
+  "do": 93,
+  "od": 80,
+  "tekst": "21. Juli 2020"
+ },
+ "de-cv-0001|kandidat.data_ur#1": {
+  "do": 56,
+  "od": 38,
+  "tekst": "17. September 1954"
+ },
+ "de-cv-0001|kandidat.pelne#1": {
+  "do": 26,
+  "od": 11,
+  "tekst": "Susanne Schäfer"
+ },
+ "de-cv-0001|seite.url#1": {
+  "do": 115,
+  "od": 80,
+  "tekst": "https://extranet.textilfranken.test"
+ },
+ "de-cv-0002|arbeitgeber1.nazwa#1": {
+  "do": 105,
+  "od": 80,
+  "tekst": "Gastronomie Altstadt GmbH"
+ },
+ "de-cv-0002|kandidat.adres#1": {
+  "do": 104,
+  "od": 80,
+  "tekst": "Am Markt 147c, 89454 Ulm"
+ },
+ "de-cv-0002|kandidat.data_ur#1": {
+  "do": 45,
+  "od": 35,
+  "tekst": "17.01.1959"
+ },
+ "de-cv-0002|kandidat.pelne#1": {
+  "do": 23,
+  "od": 11,
+  "tekst": "Barbara Voss"
+ },
+ "de-cv-0002|seite.url#1": {
+  "do": 125,
+  "od": 80,
+  "tekst": "https://portal.teutonia.example.org/case/6323"
+ },
+ "de-cv-0004|arbeitgeber2.nazwa#1": {
+  "do": 111,
+  "od": 80,
+  "tekst": "Versicherungsmakler Fischer OHG"
+ },
+ "de-cv-0006|arbeitgeber2.nazwa#1": {
+  "do": 112,
+  "od": 80,
+  "tekst": "Versicherungsmakler Fischer GmbH"
+ },
+ "de-cv-0006|ctx.cv_od1#1": {
+  "do": 97,
+  "od": 80,
+  "tekst": "1. September 2020"
+ },
+ "de-cv-0006|seite.url#1": {
+  "do": 125,
+  "od": 80,
+  "tekst": "https://portal.fortuna.example.org/docs/74944"
+ },
+ "de-email-0002|ctx.zaliczka_kosztow#1": {
+  "do": 90,
+  "od": 80,
+  "tekst": "3.279,00 €"
+ }
+}

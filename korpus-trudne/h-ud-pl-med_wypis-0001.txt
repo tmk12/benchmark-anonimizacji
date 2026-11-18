@@ -1,0 +1,27 @@
+Specjalistyczne Centrum Medyczne Stal-Bud S.A.
+ul. Francuska 21/108, 37-145 Jarosław | REGON 462058473 | tel. +48 000 369 228
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjent: Antoni Pietrzak, PESEL 54082738951, data urodzenia 27 sierpnia 1954 r.
+Adres zamieszkania: ul. Solidarności 39/97, 34-393 Zakopane, tel. +48000999816
+Data przyjęcia: 3 stycznia 2025 r. Data wypisu: 17 stycznia 2025 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: E11.9 Cukrzyca typu 2 bez powikłań
+Rozpoznania współistniejące: I50.1 Niewydolność lewokomorowa; I11.0 Nadciśnieniowa choroba serca z niewydolnością serca
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: warfaryna 3 mg – według schematu ustalonego w poradni; ramipryl 10 mg – raz dziennie rano; bisoprolol 2,5 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 27 stycznia 2025 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 3 lutego 2025 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Antoniemu Pietrzakowi w dniu wypisu; za zgodą pacjenta informacje o stanie zdrowia mogą być udzielane Dawidowi Kozłowskiemu, tel. +48 000 862 081.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjent został pouczony o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Magdalena Jankowska, nr PWZ 3629498
+Ordynator oddziału: Jolanta Krawczyk, nr PWZ 7971510
+Magdalena Jankowska
+Jolanta Krawczyk
+Specjalistyczne Centrum Medyczne Stal-Bud S.A. | ul. Francuska 21/108, 37-145 Jarosław | tel. +48 000 369 228 | kontakt.stalbud@example.com
+Autor: Magdalena Jankowska
+Temat: Karta informacyjna leczenia szpitalnego

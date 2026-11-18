@@ -1,0 +1,167 @@
+London|GB|SW
+Birmingham|GB|B
+Manchester|GB|M
+Leeds|GB|LS
+Glasgow|GB|G
+Liverpool|GB|L
+Newcastle upon Tyne|GB|NE
+Sheffield|GB|S
+Bristol|GB|BS
+Edinburgh|GB|EH
+Leicester|GB|LE
+Coventry|GB|CV
+Bradford|GB|BD
+Cardiff|GB|CF
+Belfast|GB|BT
+Nottingham|GB|NG
+Kingston upon Hull|GB|HU
+Stoke-on-Trent|GB|ST
+Wolverhampton|GB|WV
+Plymouth|GB|PL
+Derby|GB|DE
+Southampton|GB|SO
+Swansea|GB|SA
+Aberdeen|GB|AB
+Reading|GB|RG
+Norwich|GB|NR
+Oxford|GB|OX
+Cambridge|GB|CB
+Brighton|GB|BN
+York|GB|YO
+Exeter|GB|EX
+Bath|GB|BA
+Portsmouth|GB|PO
+Milton Keynes|GB|MK
+Northampton|GB|NN
+Luton|GB|LU
+Peterborough|GB|PE
+Ipswich|GB|IP
+Bournemouth|GB|BH
+Preston|GB|PR
+Blackpool|GB|FY
+Dundee|GB|DD
+Inverness|GB|IV
+Gloucester|GB|GL
+Worcester|GB|WR
+Lincoln|GB|LN
+Canterbury|GB|CT
+Chelmsford|GB|CM
+Guildford|GB|GU
+Watford|GB|WD
+Slough|GB|SL
+Cheltenham|GB|GL
+Harrogate|GB|HG
+Durham|GB|DH
+Carlisle|GB|CA
+Chester|GB|CH
+Telford|GB|TF
+Swindon|GB|SN
+Salisbury|GB|SP
+Truro|GB|TR
+Stirling|GB|FK
+Newport|GB|NP
+Wrexham|GB|LL
+Londonderry|GB|BT
+New York|US|NY|100
+Los Angeles|US|CA|900
+Chicago|US|IL|606
+Houston|US|TX|770
+Phoenix|US|AZ|850
+Philadelphia|US|PA|191
+San Antonio|US|TX|782
+San Diego|US|CA|921
+Dallas|US|TX|752
+San Jose|US|CA|951
+Austin|US|TX|787
+Jacksonville|US|FL|322
+Fort Worth|US|TX|761
+Columbus|US|OH|432
+Charlotte|US|NC|282
+San Francisco|US|CA|941
+Indianapolis|US|IN|462
+Seattle|US|WA|981
+Denver|US|CO|802
+Washington|US|DC|200
+Boston|US|MA|021
+El Paso|US|TX|799
+Nashville|US|TN|372
+Detroit|US|MI|482
+Oklahoma City|US|OK|731
+Portland|US|OR|972
+Las Vegas|US|NV|891
+Memphis|US|TN|381
+Louisville|US|KY|402
+Baltimore|US|MD|212
+Milwaukee|US|WI|532
+Albuquerque|US|NM|871
+Tucson|US|AZ|857
+Fresno|US|CA|937
+Sacramento|US|CA|958
+Kansas City|US|MO|641
+Atlanta|US|GA|303
+Omaha|US|NE|681
+Raleigh|US|NC|276
+Miami|US|FL|331
+Cleveland|US|OH|441
+Tulsa|US|OK|741
+Minneapolis|US|MN|554
+Tampa|US|FL|336
+New Orleans|US|LA|701
+Honolulu|US|HI|968
+Pittsburgh|US|PA|152
+Cincinnati|US|OH|452
+St. Louis|US|MO|631
+Orlando|US|FL|328
+Salt Lake City|US|UT|841
+Richmond|US|VA|232
+Buffalo|US|NY|142
+Rochester|US|NY|146
+Hartford|US|CT|061
+Providence|US|RI|029
+Boise|US|ID|837
+Spokane|US|WA|992
+Madison|US|WI|537
+Des Moines|US|IA|503
+Birmingham|US|AL|352
+Charleston|US|SC|294
+Savannah|US|GA|314
+Anchorage|US|AK|995
+Little Rock|US|AR|722
+Jackson|US|MS|392
+Wichita|US|KS|672
+Lexington|US|KY|405
+Columbia|US|SC|292
+Albany|US|NY|122
+Burlington|US|VT|054
+Portland|US|ME|041
+Manchester|US|NH|031
+Newark|US|NJ|071
+Wilmington|US|DE|198
+Fargo|US|ND|581
+Billings|US|MT|591
+Cheyenne|US|WY|820
+Santa Fe|US|NM|875
+Dover|GB|CT
+Lancaster|GB|LA
+Lichfield|GB|WS
+Maidstone|GB|ME
+Taunton|GB|TA
+Colchester|GB|CO
+Basingstoke|GB|RG
+Crawley|GB|RH
+Stockport|GB|SK
+Bolton|GB|BL
+Sunderland|GB|SR
+Middlesbrough|GB|TS
+Paisley|GB|PA
+Dumfries|GB|DG
+Perth|GB|PH
+Kilmarnock|GB|KA
+Columbus|US|GA|319
+Pasadena|US|CA|911
+Scottsdale|US|AZ|852
+Arlington|US|VA|222
+Plano|US|TX|750
+Reno|US|NV|895
+Eugene|US|OR|974
+Tacoma|US|WA|984

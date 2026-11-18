@@ -1,0 +1,14 @@
+Wykaz osób uprawnionych do kontaktu
+Podmiot: Inter-Med sp. z o.o.
+Wykaz sporządzono w dniu 17 grudnia 2025 r. Osoby wymienione poniżej są uprawnione do odbioru korespondencji.
+Lp.	Nazwisko i imię	PESEL	Funkcja
+1	KACZOR Ilona	53111977321	prokurent
+2	ZAJĄC Marcin	–	członek zarządu
+3	GÓRSKA Małgorzata	56043067508	pełnomocniczka
+4	Witkowski Grzegorz	67122200178	członek zarządu
+5	NOWAKOWSKA Grażyna	69051700543	pełnomocniczka
+6	Pawłowska Genowefa	–	prokurent
+7	BARANOWSKA Joanna	–	kierowniczka projektu
+8	Gołąb Beata	–	członkini zarządu
+9	KOWALSKI Mirosław	–	księgowy
+Wykaz zatwierdził Marcin Zając.

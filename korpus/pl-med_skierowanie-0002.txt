@@ -1,0 +1,23 @@
+Rewit Centrum Medyczne sp. z o.o.
+ul. Kartuska 129/83, 43-963 Tychy | tel. +48000197622 | REGON 339101135
+Tychy, dnia 3 października 2025 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 16 października 2025 r.
+Dane pacjenta: Fryderyk Sroka, PESEL 53091447674, data urodzenia 14 września 1953 r.
+Adres: ul. Piękna 15/84, 63-338 Ostrów Wielkopolski, tel. 000 491 955
+Skierowuję Fryderyka Srokę do szpitala: Fabryka Mebli Orion Centrum Medyczne sp. z o.o., ul. Wilcza 93B/34, 62-372 Gniezno, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): D50.9 Niedokrwistość z niedoboru żelaza
+Rozpoznanie dodatkowe: I10 Samoistne nadciśnienie tętnicze
+Dotychczasowe leczenie: atorwastatyna 40 mg – bez wystarczającej poprawy; ramipryl 10 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 729 298, e-mail biuro@fabrykamebliorion.test; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Rewit Centrum Medyczne sp. z o.o. oraz osobie wskazanej przez pacjenta: Magdalenie Wróblewskiej.
+Lekarz kierujący: Henryka Jabłońska, nr PWZ 5550940
+Miejsce pieczęci imiennej i podpisu
+Henryka Jabłońska
+Rewit Centrum Medyczne sp. z o.o. | ul. Kartuska 129/83, 43-963 Tychy | tel. +48000197622 | office@rewit.example.org
+Autor: Henryka Jabłońska
+Temat: Skierowanie na leczenie szpitalne

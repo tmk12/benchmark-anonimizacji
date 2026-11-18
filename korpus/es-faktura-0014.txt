@@ -1,0 +1,28 @@
+Hidalgo Soto Abogados, S.L.P.
+Calle de las Eras, 176, 5º A, 11772 Chiclana de la Frontera | CIF B40462004 | NIF-IVA ESB40462004
+FACTURA N.º A-529
+Fecha de expedición: 4 de junio de 2025
+Fecha de la operación: 28 de mayo de 2025
+Emisor	Destinatario
+Hidalgo Soto Abogados, S.L.P.	Unión Ibérica, S.A.
+Calle de las Eras, 176, 5º A, 11772 Chiclana de la Frontera	Calle del Carmen, 156, 11904 Cádiz
+CIF B40462004	CIF A50028802
+Tel. +34 000 89 46 98	Tel. +34 000 94 22 56
+N.º	Servicio	Unidad	Cantidad	Base imponible	Tipo de IVA
+1	Servicios según contrato de fecha 3 de mayo de 2024	a tanto alzado	1	2.890,53 EUR	21 %
+2	Redacción y negociación de documentos	a tanto alzado	1	1.949,70 EUR	21 %
+3	Asistencia a consejos de administración	a tanto alzado	1	6.416,48 EUR	21 %
+Base imponible	IVA 21 %	Total factura
+11.256,71 EUR	2.363,91 EUR	13.620,62 EUR
+Vencimiento: 2 de julio de 2025. Forma de pago: transferencia bancaria a la cuenta ES7100735253870859529872, indicando el número de factura como concepto.
+Consultas sobre esta factura: contacto@hidalgosotoabogados.example.com, tel. +34 000 89 46 98.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Jon Alonso Esteban, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Agustín Ramón Rodrigo.
+Agustín Ramón Rodrigo
+Hidalgo Soto Abogados, S.L.P. | Calle de las Eras, 176, 5º A, 11772 Chiclana de la Frontera | CIF B40462004 | tel. +34 000 89 46 98
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

@@ -1,0 +1,53 @@
+J45.0 Vorwiegend allergisches Asthma bronchiale
+I10 Essentielle (primäre) Hypertonie
+E11.9 Diabetes mellitus Typ 2 ohne Komplikationen
+E10.9 Diabetes mellitus Typ 1 ohne Komplikationen
+I25.1 Atherosklerotische Herzkrankheit
+I50.0 Rechtsherzinsuffizienz
+I48 Vorhofflimmern und Vorhofflattern
+J44.9 Chronische obstruktive Lungenkrankheit nicht näher bezeichnet
+F32.1 Mittelgradige depressive Episode
+F41.1 Generalisierte Angststörung
+F43.1 Posttraumatische Belastungsstörung
+G43.9 Migräne nicht näher bezeichnet
+G40.9 Epilepsie nicht näher bezeichnet
+M54.5 Kreuzschmerz
+M51.1 Lumbale Bandscheibenschäden mit Radikulopathie
+M17.9 Gonarthrose nicht näher bezeichnet
+M05.9 Seropositive chronische Polyarthritis
+M81.9 Osteoporose nicht näher bezeichnet
+N18.3 Chronische Nierenkrankheit Stadium 3
+N20.0 Nierenstein
+N40 Prostatahyperplasie
+K21.0 Gastroösophageale Refluxkrankheit mit Ösophagitis
+K29.5 Chronische Gastritis nicht näher bezeichnet
+K50.9 Crohn-Krankheit nicht näher bezeichnet
+K51.9 Colitis ulcerosa nicht näher bezeichnet
+K80.2 Gallenblasenstein
+K74.6 Leberzirrhose
+E03.9 Hypothyreose nicht näher bezeichnet
+E05.9 Hyperthyreose nicht näher bezeichnet
+E66.9 Adipositas nicht näher bezeichnet
+D50.9 Eisenmangelanämie
+C50.9 Bösartige Neubildung der Brustdrüse
+C61 Bösartige Neubildung der Prostata
+C34.9 Bösartige Neubildung der Bronchien oder der Lunge
+C18.9 Bösartige Neubildung des Kolons
+C91.0 Akute lymphatische Leukämie
+I63.9 Hirninfarkt nicht näher bezeichnet
+I21.9 Akuter Myokardinfarkt
+G20 Primäres Parkinson-Syndrom
+G35 Multiple Sklerose
+F20.9 Schizophrenie nicht näher bezeichnet
+F31.9 Bipolare affektive Störung
+L40.0 Psoriasis vulgaris
+L20.9 Atopisches Ekzem
+B20 HIV-Krankheit
+B18.2 Chronische Virushepatitis C
+U07.1 COVID-19
+H25.9 Senile Katarakt
+H40.9 Glaukom nicht näher bezeichnet
+S72.0 Schenkelhalsfraktur
+S82.6 Fraktur des Außenknöchels
+O24.4 Gestationsdiabetes
+G47.3 Schlafapnoe

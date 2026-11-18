@@ -1,0 +1,45 @@
+Sigma sp. z o.o.
+ul. Grójecka 146/59, 87-898 Włocławek | NIP 4333992906
+FAKTURA VAT
+Data wystawienia: 14 stycznia 2022 r.
+Data sprzedaży: 5 stycznia 2022 r.
+Sprzedawca: Sigma sp. z o.o.
+Nabywca: Uniwersal sp.k.
+Sprzedawca: ul. Grójecka 146/59, 87-898 Włocławek
+Nabywca: ul. Piłsudskiego 143/6, 05-249 Piaseczno
+Sprzedawca: NIP: 4333992906
+Nabywca: NIP: 9612294121
+Sprzedawca: REGON: 254339010
+Nabywca: REGON: 325865524
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 6 marca 2020 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 6 657,41 zł
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 19 007,02 zł
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 3 489,22 zł
+Stawka VAT: 23%
+Razem netto: 29 153,65 zł
+Podatek VAT 23%: 6 705,34 zł
+Razem do zapłaty (brutto): 35 858,99 zł
+Termin płatności: 10 lutego 2022 r. Sposób zapłaty: przelew na rachunek PL78154598714871331162868664.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@sigma.test, tel. +48 000 517 402.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Wacławowi Gołębiowskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Jolanta Rybak.
+Jolanta Rybak
+Sigma sp. z o.o. | ul. Grójecka 146/59, 87-898 Włocławek | NIP 4333992906 | KRS 0001038378 | tel. +48 000 517 402
+Autor: Jolanta Rybak
+Temat: Faktura VAT

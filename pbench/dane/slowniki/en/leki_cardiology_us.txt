@@ -1,0 +1,11 @@
+carvedilol|3.125;6.25;12.5;25
+metoprolol|25;50;100
+lisinopril|5;10;20;40
+losartan|50;100
+amlodipine|5;10
+furosemide|20;40
+spironolactone|25;50
+atorvastatin|10;20;40;80
+clopidogrel|75
+warfarin|3;5
+apixaban|2.5;5

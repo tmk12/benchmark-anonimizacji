@@ -1,0 +1,29 @@
+SELARL Thomas, Jacquot & Associés Avocats
+132 allée des Platanes, 73423 Chambéry | SIREN 921210498 | TVA intracommunautaire FR44921210498
+FACTURE N° F-336
+Date d'émission : 17 février 2025
+Date de la prestation : 14 février 2025
+Émetteur	Client
+SELARL Thomas, Jacquot & Associés Avocats	Maçonnerie Bonnet SA
+132 allée des Platanes, 73423 Chambéry	196 rue Danton, 73219 Chambéry
+SIREN 921210498	SIREN 803241124
+TVA intracommunautaire FR44921210498	TVA intracommunautaire FR11803241124
+Tél. 04 65 71 73 42	Tél. 04 65 71 95 96
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 28 juillet 2023	forfait	1	1 241,58 EUR	20 %
+2	Rédaction et négociation d'actes	forfait	1	829,26 EUR	20 %
+3	Assistance à des assemblées d'associés	forfait	1	1 616,21 EUR	20 %
+Total HT	TVA 20 %	Total TTC
+3 687,05 EUR	737,41 EUR	4 424,46 EUR
+Échéance de paiement : 13 mars 2025, par virement sur le compte FR7640618653207106761678449 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : accueil@thomasjacquotassocies.example.net, tél. 04 65 71 73 42.
+Mentions légales : SELARL Thomas, Jacquot & Associés Avocats, société d'exercice libéral à responsabilité limitée au capital de 6 430,00 EUR, RCS Chambéry 921210498, TVA intracommunautaire FR44921210498.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+La facture a été envoyée par courriel à Roger Simon, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Thérèse Dubois.
+Thérèse Dubois
+SELARL Thomas, Jacquot & Associés Avocats | 132 allée des Platanes, 73423 Chambéry | SIREN 921210498 | TVA intracommunautaire FR44921210498 | Tél. 04 65 71 73 42
+Auteur: Thérèse Dubois
+Objet: Facture d'honoraires

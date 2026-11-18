@@ -1,0 +1,23 @@
+Specjalistyczne Centrum Medyczne Mazovia S.A.
+ul. Krakowskie Przedmieście 35, 84-700 Wejherowo | tel. +48 000 111 946 | REGON 464517175
+Wejherowo, dnia 12 czerwca 2026 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 9 lipca 2026 r.
+Dane pacjenta: Stanisław Kaźmierczak, PESEL 86091010999, data urodzenia 10 września 1986 r.
+Adres: ul. Mostowa 75/63, 64-281 Szamotuły, tel. +48000809088
+Skierowuję Stanisława Kaźmierczaka do szpitala: Specjalistyczne Centrum Medyczne Europol sp. z o.o., ul. Mokotowska 8, 76-632 Słupsk, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): J44.9 Przewlekła obturacyjna choroba płuc
+Rozpoznanie dodatkowe: K29.5 Przewlekłe zapalenie żołądka
+Dotychczasowe leczenie: prednizon 10 mg – bez wystarczającej poprawy; pantoprazol 20 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: +48 000 180 516, e-mail info@europol.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Specjalistyczne Centrum Medyczne Mazovia S.A. oraz osobie wskazanej przez pacjenta: Jolancie Marciniak.
+Lekarz kierujący: Jan Wasiak, nr PWZ 7087657
+Miejsce pieczęci imiennej i podpisu
+Jan Wasiak
+Specjalistyczne Centrum Medyczne Mazovia S.A. | ul. Krakowskie Przedmieście 35, 84-700 Wejherowo | tel. +48 000 111 946 | info@mazovia.example.net
+Autor: Jan Wasiak
+Temat: Skierowanie na leczenie szpitalne

@@ -1,0 +1,52 @@
+Wykaz osób uprawnionych do kontaktu
+Podmiot: Fabryka Mebli Orion sp. z o.o.
+Wykaz sporządzono w dniu 31 maja 2021 r. Osoby wymienione poniżej są uprawnione do odbioru korespondencji.
+Lp.: 1
+Nazwisko i imię: DUDA Katarzyna
+PESEL: –
+Funkcja: prokurent
+Lp.: 2
+Nazwisko i imię: Wiśniewski Jacek
+PESEL: –
+Funkcja: prokurent
+Lp.: 3
+Nazwisko i imię: MAJ Renata
+PESEL: 50022658604
+Funkcja: doradczyni
+Lp.: 4
+Nazwisko i imię: MRÓZ Oskar
+PESEL: 55061377875
+Funkcja: pełnomocnik
+Lp.: 5
+Nazwisko i imię: MICHALAK Ryszard
+PESEL: 84021096370
+Funkcja: prokurent
+Lp.: 6
+Nazwisko i imię: WOJCIECHOWSKI Kazimierz
+PESEL: 54040793198
+Funkcja: członek zarządu
+Lp.: 7
+Nazwisko i imię: SIKORA Roksana
+PESEL: 60111518140
+Funkcja: kierowniczka projektu
+Lp.: 8
+Nazwisko i imię: Olejnik Remigiusz
+PESEL: 67101966835
+Funkcja: księgowy
+Lp.: 9
+Nazwisko i imię: SOWA Grzegorz
+PESEL: 52070641575
+Funkcja: kierownik projektu
+Lp.: 10
+Nazwisko i imię: Cegielski Bartosz
+PESEL: –
+Funkcja: kierownik projektu
+Lp.: 11
+Nazwisko i imię: MICHALSKI Gabriel
+PESEL: –
+Funkcja: księgowy
+Lp.: 12
+Nazwisko i imię: Domański Rafał
+PESEL: 46071193995
+Funkcja: doradca
+Wykaz zatwierdził Bartosz Cegielski.

@@ -1,0 +1,30 @@
+SELARL Poulain & Jacob Avocats
+138 rue de Lille, 14897 Caen | SIREN 803807932 | TVA intracommunautaire FR25803807932
+FACTURE N° F-291
+Date d'émission : 19 mai 2026
+Date de la prestation : 8 mai 2026
+Émetteur	Client
+SELARL Poulain & Jacob Avocats	Étoile SARL
+138 rue de Lille, 14897 Caen	32 rue Molière, 14563 Caen
+SIREN 803807932	SIREN 504342619
+TVA intracommunautaire FR25803807932	TVA intracommunautaire FR44504342619
+Tél. 02 61 91 43 59	Tél. +33261913908
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 29 octobre 2025	forfait	1	19 133,60 EUR	20 %
+2	Rédaction et négociation d'actes	forfait	1	865,85 EUR	20 %
+3	Assistance à des assemblées d'associés	forfait	1	5 065,06 EUR	20 %
+Total HT	TVA 20 %	Total TTC
+25 064,51 EUR	5 012,90 EUR	30 077,41 EUR
+Échéance de paiement : 5 juin 2026, par virement sur le compte FR7612548032874448048532155 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : info.poulainjacobavocats@example.com, tél. 02 61 91 43 59.
+Mentions légales : SELARL Poulain & Jacob Avocats, société d'exercice libéral à responsabilité limitée au capital de 5 330,00 EUR, RCS Caen 803807932, TVA intracommunautaire FR25803807932.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Patrick Bourgeois, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Justine Marie.
+Justine Marie
+SELARL Poulain & Jacob Avocats | 138 rue de Lille, 14897 Caen | SIREN 803807932 | TVA intracommunautaire FR25803807932 | Tél. 02 61 91 43 59
+Auteur: Justine Marie
+Objet: Facture d'honoraires

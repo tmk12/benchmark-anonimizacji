@@ -1,0 +1,7 @@
+{
+  "PER": ["OSOBA"],
+  "ORG": ["ORGANIZACJA"],
+  "LOC": ["MIEJSCOWOSC", "KRAJ", "REGION", "MIEJSCE_UR"],
+  "DATE": {"pl": ["DATA", "DATA_UR"], "en": ["DATA", "DATA_UR"]},
+  "MONEY": {"en": ["KWOTA"]}
+}

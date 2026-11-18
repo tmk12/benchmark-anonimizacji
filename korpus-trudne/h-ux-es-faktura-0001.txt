@@ -1,0 +1,28 @@
+Bufete Moreno y Asociados, S.L.P.
+Calle de Orense, 67, 9º A, 35373 Arrecife | CIF B50258466 | NIF-IVA ESB50258466
+FACTURA N.º A-463
+Fecha de expedición: 20/10/2021
+Fecha de la operación: 20/10/2021
+Emisor	Destinatario
+Bufete Moreno y Asociados, S.L.P.	Ingeniería Ebro, S.L.
+Calle de Orense, 67, 9º A, 35373 Arrecife	Calle de Góngora, 44, 6º C, 01828 Vitoria-Gasteiz
+CIF B50258466	CIF B51788891
+Tel. +34000546973	Tel. +34 000 32 76 20
+N.º	Concepto	Cantidad	Precio unitario	Base imponible	Tipo de IVA
+1	Cuota mensual de asesoramiento jurídico general	1	9.717,05 €	9.717,05 €	21 %
+2	Informe sobre contrato de arrendamiento de local	1	2.557,78 €	2.557,78 €	21 %
+3	Asistencia a reunión con la Administración	1	593,41 €	593,41 €	21 %
+Base imponible	IVA 21 %	Total factura
+12.868,24 €	2.702,33 €	15.570,57 €
+Vencimiento: 17/11/2021. Forma de pago: transferencia bancaria a la cuenta ES5200815787191402716826, indicando el número de factura como concepto.
+Consultas sobre esta factura: administracion@bufetemorenoyasociados.example.org, tel. +34000546973.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a María Teresa Fernández Ramos, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Héctor Marín Campos.
+Héctor Marín Campos
+Bufete Moreno y Asociados, S.L.P. | Calle de Orense, 67, 9º A, 35373 Arrecife | CIF B50258466 | tel. +34000546973
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

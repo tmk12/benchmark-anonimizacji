@@ -1,0 +1,11 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). Ruling R37: każdy uczestnik biegnie na wszystkich 5 językach.
+# Wariant krzyżowy (aneks, poza rankingami): potok tekstowy Privatizera (serwer, POST /api/jobs/text) z detektorem GLiNER
+# nvidia/gliner-PII zamiast modelu LGP; poziom tekst. Języki oficjalne – karty modelu (GLiNER: en), nie potoku.
+aneks = true
+poziomy = ["tekst"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["en"]
+formaty = []
+procesy = 2
+timeout_s = 5400                # pomiar: 5 najdłuższych dokumentów dev (tekst) 1143-2123 s (maszyna obciążona) – limit ≥ 2,5x maks.
+start_timeout_s = 900          # start aplikacji i ładowanie modelu

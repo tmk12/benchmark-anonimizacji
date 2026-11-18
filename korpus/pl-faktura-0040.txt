@@ -1,0 +1,27 @@
+Optima sp. z o.o. sp.k.
+pl. Trzech Krzyży 109/115, 87-422 Lipno | NIP 6063746669
+FAKTURA VAT
+Data wystawienia: 28.08.2025 r.
+Data sprzedaży: 25.08.2025 r.
+Sprzedawca	Nabywca
+Optima sp. z o.o. sp.k.	Globe sp. z o.o.
+pl. Trzech Krzyży 109/115, 87-422 Lipno	ul. Marszałkowska 3/82, 84-730 Hel
+NIP: 6063746669	NIP: 4832695003
+REGON: 218040752	REGON: 377970367
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 27.06.2024 r.	ryczałt	1	11 187,56 PLN	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	11 992,31 PLN	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	1 555,62 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+24 735,49 PLN	5 689,16 PLN	30 424,65 PLN
+Termin płatności: 29.09.2025 r. Sposób zapłaty: przelew na rachunek PL64105111675721307267011164.
+Adres e-mail do przesyłania potwierdzeń płatności: office@optima.example.org, tel. +48 000 992 575.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Sandrze Sadowskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Maria Cieślak.
+Maria Cieślak
+Optima sp. z o.o. sp.k. | pl. Trzech Krzyży 109/115, 87-422 Lipno | NIP 6063746669 | KRS 0000643937 | tel. +48 000 992 575
+Autor: Maria Cieślak
+Temat: Faktura VAT

@@ -1,0 +1,27 @@
+Unitech sp. z o.o.
+ul. Prusa 82/76, 44-218 Gliwice | NIP 2158149721
+FAKTURA VAT
+Data wystawienia: 06.02.2026 r.
+Data sprzedaży: 02.02.2026 r.
+Sprzedawca	Nabywca
+Unitech sp. z o.o.	Bałtyk sp.k.
+ul. Prusa 82/76, 44-218 Gliwice	ul. Szkolna 133/19, 58-148 Jelenia Góra
+NIP: 2158149721	NIP: 9906082134
+REGON: 140045988	REGON: 387920775
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	12 113,88 PLN	12 113,88 PLN	23%
+2	Opinia prawna w sprawie umowy najmu	1	15 772,20 PLN	15 772,20 PLN	23%
+3	Reprezentacja przed organem administracji	1	1 850,10 PLN	1 850,10 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+29 736,18 PLN	6 839,32 PLN	36 575,50 PLN
+Termin płatności: 02.03.2026 r. Sposób zapłaty: przelew na rachunek PL60113729902120926067634359.
+Adres e-mail do przesyłania potwierdzeń płatności: info@unitech.example.net, tel. +48000595395.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Joannie Michalskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Agnieszka Dziubek.
+Agnieszka Dziubek
+Unitech sp. z o.o. | ul. Prusa 82/76, 44-218 Gliwice | NIP 2158149721 | KRS 0000873356 | tel. +48000595395
+Autor: Agnieszka Dziubek
+Temat: Faktura VAT

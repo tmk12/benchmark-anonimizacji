@@ -1,0 +1,27 @@
+Unitech sp.k.
+ul. Nowogrodzka 116, 45-251 Opole | NIP 9528088376
+FAKTURA VAT
+Data wystawienia: 12 maja 2021 r.
+Data sprzedaży: 7 maja 2021 r.
+Sprzedawca	Nabywca
+Unitech sp.k.	Jantar S.A.
+ul. Nowogrodzka 116, 45-251 Opole	ul. Piłsudskiego 23, 41-554 Dąbrowa Górnicza
+NIP: 9528088376	NIP: 6308080313
+REGON: 224579831	REGON: 448206513
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	2 728,21 zł	2 728,21 zł	23%
+2	Opinia prawna w sprawie umowy najmu	1	3 159,09 zł	3 159,09 zł	23%
+3	Reprezentacja przed organem administracji	1	13 956,78 zł	13 956,78 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+19 844,08 zł	4 564,14 zł	24 408,22 zł
+Termin płatności: 31 maja 2021 r. Sposób zapłaty: przelew na rachunek PL70124000690287114411116609.
+Adres e-mail do przesyłania potwierdzeń płatności: info@unitech.example.net, tel. 000 307 050.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Janowi Kowalczykowi – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Maja Ozimek.
+Maja Ozimek
+Unitech sp.k. | ul. Nowogrodzka 116, 45-251 Opole | NIP 9528088376 | KRS 0000221942 | tel. 000 307 050
+Autor: Maja Ozimek
+Temat: Faktura VAT

@@ -1,0 +1,27 @@
+Szpital Powiatowy Rewit S.A.
+ul. Nowy Świat 42/119, 97-473 Bełchatów | REGON 475093166 | tel. +48000207768
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjentka: Agnieszka Kowalczyk, PESEL 78022153103, data urodzenia 21 lutego 1978 r.
+Adres zamieszkania: ul. Bohaterów Getta 145, 41-856 Sosnowiec, tel. +48 000 187 723
+Data przyjęcia: 14 sierpnia 2026 r. Data wypisu: 26 sierpnia 2026 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: I11.0 Nadciśnieniowa choroba serca z niewydolnością serca
+Rozpoznania współistniejące: N18.3 Przewlekła choroba nerek stadium 3; I35.0 Zwężenie zastawki aortalnej
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: atorwastatyna 10 mg – według schematu ustalonego w poradni; warfaryna 5 mg – raz dziennie rano; amlodypina 10 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 24 września 2026 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 4 września 2026 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Agnieszkiej Kowalczyk w dniu wypisu; za zgodą pacjentki informacje o stanie zdrowia mogą być udzielane Milenie Fijałkowskiej, tel. +48 000 822 592.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjentka została pouczona o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Marian Szczęsny, nr PWZ 9528989
+Ordynator oddziału: Grzegorz Jarosz, nr PWZ 6534488
+Marian Szczęsny
+Grzegorz Jarosz
+Szpital Powiatowy Rewit S.A. | ul. Nowy Świat 42/119, 97-473 Bełchatów | tel. +48000207768 | office@rewit.example.org
+Autor: Marian Szczęsny
+Temat: Karta informacyjna leczenia szpitalnego

@@ -1,0 +1,23 @@
+Szpital Powiatowy Agro-Ład sp. z o.o.
+ul. Brzozowa 119, 96-776 Rawa Mazowiecka | tel. 000 787 410 | REGON 146742955
+Rawa Mazowiecka, dnia 22 października 2021 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 4 listopada 2021 r.
+Dane pacjenta: Marek Olszewski, PESEL 48051976754, data urodzenia 19 maja 1948 r.
+Adres: ul. Nadbrzeżna 92/66, 84-525 Lębork, tel. 000 955 311
+Skierowuję Marka Olszewskiego do szpitala: Specjalistyczne Centrum Medyczne Meble Wawrzyniak sp. z o.o., ul. Słowackiego 98, 41-339 Sosnowiec, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): K80.2 Kamica żółciowa
+Rozpoznanie dodatkowe: J44.9 Przewlekła obturacyjna choroba płuc
+Dotychczasowe leczenie: omeprazol 20 mg – bez wystarczającej poprawy; atorwastatyna 40 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: +48 000 707 683, e-mail kontakt.meblewawrzyniak@example.com; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Szpital Powiatowy Agro-Ład sp. z o.o. oraz osobie wskazanej przez pacjenta: Monice Nowak.
+Lekarz kierujący: Adrianna Walczak, nr PWZ 7669766
+Miejsce pieczęci imiennej i podpisu
+Adrianna Walczak
+Szpital Powiatowy Agro-Ład sp. z o.o. | ul. Brzozowa 119, 96-776 Rawa Mazowiecka | tel. 000 787 410 | kontakt.agrolad@example.com
+Autor: Adrianna Walczak
+Temat: Skierowanie na leczenie szpitalne

@@ -1,0 +1,27 @@
+Mazovia sp. z o.o.
+ul. 11 Listopada 124/64, 25-442 Kielce | NIP 9217059361
+FAKTURA VAT
+Data wystawienia: 22 lipca 2024 r.
+Data sprzedaży: 19 lipca 2024 r.
+Sprzedawca	Nabywca
+Mazovia sp. z o.o.	Fabryka Mebli Orion S.A.
+ul. 11 Listopada 124/64, 25-442 Kielce	ul. Jagiellońska 51/113, 96-356 Rawa Mazowiecka
+NIP: 9217059361	NIP: 6209756262
+REGON: 419652072	REGON: 366763680
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 16 grudnia 2022 r.	ryczałt	1	16 130,34 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	10 786,77 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	16 939,71 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+43 856,82 zł	10 087,07 zł	53 943,89 zł
+Termin płatności: 12 sierpnia 2024 r. Sposób zapłaty: przelew na rachunek PL62203196430905772819383162.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@mazovia.test, tel. +48000822254.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Dianie Zając – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Grażyna Ratajczak.
+Grażyna Ratajczak
+Mazovia sp. z o.o. | ul. 11 Listopada 124/64, 25-442 Kielce | NIP 9217059361 | KRS 0000068442 | tel. +48000822254
+Autor: Grażyna Ratajczak
+Temat: Faktura VAT

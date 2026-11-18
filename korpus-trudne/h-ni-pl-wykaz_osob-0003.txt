@@ -1,0 +1,14 @@
+Wykaz osób uprawnionych do kontaktu
+Podmiot: Farmex sp. z o.o.
+Wykaz sporządzono w dniu 22 grudnia 2023 r. Osoby wymienione poniżej są uprawnione do odbioru korespondencji.
+Lp.	Nazwisko i imię	PESEL	Funkcja
+1	GAWRON Stanisława	82012141623	doradczyni
+2	MACHOWSKA Iwona	–	doradczyni
+3	Gajewska Agnieszka	74121524246	kierowniczka projektu
+4	SADOWSKI Henryk	–	prokurent
+5	DĄBROWSKI Bogdan	–	księgowy
+6	OSTROWSKA Izabela	–	kierowniczka projektu
+7	SZCZEPAŃSKA Jadwiga	47121576988	doradczyni
+8	ZAJĄC Małgorzata	73051461289	księgowa
+9	JASIŃSKI Artur	–	pełnomocnik
+Wykaz zatwierdził Iwona Machowska.

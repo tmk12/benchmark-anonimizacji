@@ -1,0 +1,27 @@
+Elektro-Bud sp.k.
+ul. Armii Krajowej 150/89, 81-269 Gdynia | NIP 1036114158
+FAKTURA VAT
+Data wystawienia: 04.09.2026 r.
+Data sprzedaży: 03.09.2026 r.
+Sprzedawca	Nabywca
+Elektro-Bud sp.k.	Piekarnia Rodzinna sp. z o.o. sp.k.
+ul. Armii Krajowej 150/89, 81-269 Gdynia	ul. Narutowicza 58, 15-153 Białystok
+NIP: 1036114158	NIP: 3317620457
+REGON: 402899127	REGON: 257767389
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	2 504,23 PLN	2 504,23 PLN	23%
+2	Opinia prawna w sprawie umowy najmu	1	15 273,23 PLN	15 273,23 PLN	23%
+3	Reprezentacja przed organem administracji	1	5 968,73 PLN	5 968,73 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+23 746,19 PLN	5 461,62 PLN	29 207,81 PLN
+Termin płatności: 01.10.2026 r. Sposób zapłaty: przelew na rachunek PL44194687505445011609013697.
+Adres e-mail do przesyłania potwierdzeń płatności: info@elektrobud.example.net, tel. +48 000 463 202.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Marii Michalskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Bartosz Mazur.
+Bartosz Mazur
+Elektro-Bud sp.k. | ul. Armii Krajowej 150/89, 81-269 Gdynia | NIP 1036114158 | KRS 0001021341 | tel. +48 000 463 202
+Autor: Bartosz Mazur
+Temat: Faktura VAT

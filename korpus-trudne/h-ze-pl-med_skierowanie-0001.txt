@@ -1,0 +1,22 @@
+Specjalistyczne Centrum Medyczne Nova S.A.
+ul. Krótka 106/20, 59-964 Legnica | tel. +48 000 579 846 | REGON 460912064
+Legnica, dnia 13 lutego 2026 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 25 lutego 2026 r.
+Dane pacjenta: Ludwik Bednarek, PESEL 72112049130, data urodzenia 20 listopada 1972 r.
+Adres: ul. Puławska 12, 84-172 Hel, tel. 000 600 574
+Skierowuję Ludwika Bednarka do szpitala: Aurum Centrum Medyczne sp. z o.o., ul. Grójecka 87, 64-460 Piła, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): K21.0 Choroba refluksowa przełyku z zapaleniem
+Rozpoznanie dodatkowe: I10 Samoistne nadciśnienie tętnicze
+Dotychczasowe leczenie: cetyryzyna 10 mg – bez wystarczającej poprawy; amlodypina 10 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 537 565, e-mail kontakt.aurum@example.com; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Marian Czarnecki, nr PWZ 8211642
+Miejsce pieczęci imiennej i podpisu
+Marian Czarnecki
+Specjalistyczne Centrum Medyczne Nova S.A. | ul. Krótka 106/20, 59-964 Legnica | tel. +48 000 579 846 | biuro@nova.test
+Autor: Marian Czarnecki
+Temat: Skierowanie na leczenie szpitalne

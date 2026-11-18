@@ -1,0 +1,16 @@
+Bisoprolol|1,25;2,5;5;10
+Ramipril|2,5;5;10
+Candesartan|8;16;32
+Amlodipin|5;10
+Torasemid|5;10;20
+Spironolacton|25;50
+Eplerenon|25;50
+Atorvastatin|10;20;40;80
+Acetylsalicylsäure|100
+Apixaban|2,5;5
+Rivaroxaban|15;20
+Ticagrelor|60;90
+Clopidogrel|75
+Amiodaron|200
+Dapagliflozin|10
+Metoprololsuccinat|47,5;95;190

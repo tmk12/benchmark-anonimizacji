@@ -1,0 +1,27 @@
+Szpital Specjalistyczny Skanska Projekt S.A.
+ul. Wiśniowa 145B, 80-207 Gdańsk | REGON 312796322 | tel. 000 743 104
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjent: Stanisław Wiśniewski, PESEL 66091294696, data urodzenia 12 września 1966 r.
+Adres zamieszkania: ul. Długie Ogrody 89, 28-003 Busko-Zdrój, tel. +48 000 705 040
+Data przyjęcia: 29 stycznia 2021 r. Data wypisu: 12 lutego 2021 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: I20.0 Dławica piersiowa niestabilna
+Rozpoznania współistniejące: I11.0 Nadciśnieniowa choroba serca z niewydolnością serca; I50.0 Niewydolność serca zastoinowa
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: atorwastatyna 40 mg – według schematu ustalonego w poradni; amlodypina 5 mg – raz dziennie rano; furosemid 20 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 8 marca 2021 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 19 lutego 2021 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Stanisławowi Wiśniewskiemu w dniu wypisu; za zgodą pacjenta informacje o stanie zdrowia mogą być udzielane Michałowi Kamińskiemu, tel. +48 000 515 262.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjent został pouczony o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Władysława Zając, nr PWZ 8635521
+Ordynator oddziału: Błażej Sadowski, nr PWZ 9274841
+Władysława Zając
+Błażej Sadowski
+Szpital Specjalistyczny Skanska Projekt S.A. | ul. Wiśniowa 145B, 80-207 Gdańsk | tel. 000 743 104 | office@skanskaprojekt.example.org
+Autor: Władysława Zając
+Temat: Karta informacyjna leczenia szpitalnego

@@ -1,0 +1,23 @@
+Szpital Powiatowy Optima sp. z o.o.
+ul. Nowy Świat 8/39, 63-263 Krotoszyn | tel. +48 000 286 377 | REGON 104813033
+Krotoszyn, dnia 02.09.2022 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 09.09.2022 r.
+Dane pacjenta: Hubert Zając, PESEL 59041325218, data urodzenia 13.04.1959 r.
+Adres: ul. Prosta 144, 41-714 Zabrze, tel. 000 137 244
+Skierowuję Huberta Zająca do szpitala: Szpital Specjalistyczny Fabryka Mebli Orion sp. z o.o., ul. Rybacka 139, 47-231 Kędzierzyn-Koźle, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): J44.9 Przewlekła obturacyjna choroba płuc
+Rozpoznanie dodatkowe: I10 Samoistne nadciśnienie tętnicze
+Dotychczasowe leczenie: pantoprazol 40 mg – bez wystarczającej poprawy; omeprazol 20 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 666 719, e-mail info@fabrykamebliorion.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Szpital Powiatowy Optima sp. z o.o. oraz osobie wskazanej przez pacjenta: Barbarze Sikorskiej.
+Lekarz kierujący: Zuzanna Marciniak, nr PWZ 4421464
+Miejsce pieczęci imiennej i podpisu
+Zuzanna Marciniak
+Szpital Powiatowy Optima sp. z o.o. | ul. Nowy Świat 8/39, 63-263 Krotoszyn | tel. +48 000 286 377 | biuro@optima.test
+Autor: Zuzanna Marciniak
+Temat: Skierowanie na leczenie szpitalne

@@ -1,0 +1,25 @@
+I10 Hipertensión esencial (primaria)
+I11.0 Cardiopatía hipertensiva con insuficiencia cardíaca
+I20.0 Angina inestable
+I20.9 Angina de pecho no especificada
+I21.4 Infarto agudo de miocardio sin elevación del ST
+I21.9 Infarto agudo de miocardio no especificado
+I25.1 Enfermedad aterosclerótica del corazón
+I25.5 Miocardiopatía isquémica
+I34.0 Insuficiencia mitral no reumática
+I35.0 Estenosis aórtica no reumática
+I42.0 Miocardiopatía dilatada
+I44.2 Bloqueo auriculoventricular completo
+I47.1 Taquicardia supraventricular
+I48 Fibrilación y aleteo auricular
+I49.5 Síndrome del seno enfermo
+I50.0 Insuficiencia cardíaca congestiva
+I50.9 Insuficiencia cardíaca no especificada
+I51.7 Cardiomegalia
+I26.9 Embolia pulmonar sin mención de cor pulmonale agudo
+I70.2 Aterosclerosis de las arterias de las extremidades
+E78.0 Hipercolesterolemia pura
+E78.5 Hiperlipidemia no especificada
+E11.9 Diabetes mellitus tipo 2 sin complicaciones
+N18.3 Enfermedad renal crónica en estadio 3
+G47.3 Apnea del sueño

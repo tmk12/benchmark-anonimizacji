@@ -1,0 +1,46 @@
+Despacho Paredes Abogados, S.L.P.
+Calle de Doctor Esquerdo, 198, 2º D, 07280 Palma | CIF B09999434 | NIF-IVA ESB09999434
+FACTURA N.º A-382
+Fecha de expedición: 29/08/2025
+Fecha de la operación: 22/08/2025
+Emisor: Despacho Paredes Abogados, S.L.P.
+Destinatario: Grupo Meridiano, S.L.
+Emisor: Calle de Doctor Esquerdo, 198, 2º D, 07280 Palma
+Destinatario: Calle de Preciados, 20, 3º C, 07638 Palma
+Emisor: CIF B09999434
+Destinatario: CIF B45764156
+Emisor: Tel. +34 000 66 38 58
+Destinatario: Tel. +34000200405
+N.º: 1
+Concepto: Cuota mensual de asesoramiento jurídico general
+Cantidad: 1
+Precio unitario: 2.133,73 EUR
+Base imponible: 2.133,73 EUR
+Tipo de IVA: 21 %
+N.º: 2
+Concepto: Informe sobre contrato de arrendamiento de local
+Cantidad: 1
+Precio unitario: 804,96 EUR
+Base imponible: 804,96 EUR
+Tipo de IVA: 21 %
+N.º: 3
+Concepto: Asistencia a reunión con la Administración
+Cantidad: 1
+Precio unitario: 4.010,86 EUR
+Base imponible: 4.010,86 EUR
+Tipo de IVA: 21 %
+Base imponible: 6.949,55 EUR
+IVA 21 %: 1.459,41 EUR
+Total factura: 8.408,96 EUR
+Vencimiento: 26/09/2025. Forma de pago: transferencia bancaria a la cuenta ES2414650552988332073149, indicando el número de factura como concepto.
+Consultas sobre esta factura: secretaria@despachoparedesabogados.example.net, tel. +34 000 66 38 58.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Manuel Torres Espinosa, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Iván Rodríguez Guijarro.
+Iván Rodríguez Guijarro
+Despacho Paredes Abogados, S.L.P. | Calle de Doctor Esquerdo, 198, 2º D, 07280 Palma | CIF B09999434 | tel. +34 000 66 38 58
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

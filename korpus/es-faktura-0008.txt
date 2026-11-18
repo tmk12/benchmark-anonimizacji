@@ -1,0 +1,27 @@
+Valle Verde Abogados y Asesores, S.L.P.
+Calle de Santa Engracia, 43, 7º C, 31679 Tudela | CIF B05766415 | NIF-IVA ESB05766415
+FACTURA N.º A-585
+Fecha de expedición: 12/12/2024
+Fecha de la operación: 11/12/2024
+Emisor	Destinatario
+Valle Verde Abogados y Asesores, S.L.P.	Servicios Financieros Plus, S.L.
+Calle de Santa Engracia, 43, 7º C, 31679 Tudela	Calle de la Playa, 81, 1º B, 31505 Barañáin
+CIF B05766415	CIF B31567878
+Tel. 000 521 157	Tel. +34000138455
+N.º	Concepto	Cantidad	Precio unitario	Base imponible	Tipo de IVA
+1	Cuota mensual de asesoramiento jurídico general	1	18.831,27 €	18.831,27 €	21 %
+2	Informe sobre contrato de arrendamiento de local	1	16.278,77 €	16.278,77 €	21 %
+3	Asistencia a reunión con la Administración	1	3.302,45 €	3.302,45 €	21 %
+Base imponible	IVA 21 %	Total factura
+38.412,49 €	8.066,62 €	46.479,11 €
+Vencimiento: 08/01/2025. Forma de pago: transferencia bancaria a la cuenta ES1400492373184404045508, indicando el número de factura como concepto.
+Consultas sobre esta factura: despacho@valleverdeabogadosy.test, tel. 000 521 157.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a María Carmen Checa Nieto, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por Antonio Rivas Velasco.
+Antonio Rivas Velasco
+Valle Verde Abogados y Asesores, S.L.P. | Calle de Santa Engracia, 43, 7º C, 31679 Tudela | CIF B05766415 | tel. 000 521 157
+Asunto: Factura por servicios jurídicos
+Autor: Usuario

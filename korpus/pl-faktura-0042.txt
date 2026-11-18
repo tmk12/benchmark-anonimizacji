@@ -1,0 +1,27 @@
+Delta sp. z o.o.
+ul. Wyspiańskiego 55/119, 27-295 Starachowice | NIP 1181496613
+FAKTURA VAT
+Data wystawienia: 20 grudnia 2023 r.
+Data sprzedaży: 8 grudnia 2023 r.
+Sprzedawca	Nabywca
+Delta sp. z o.o.	Aurum sp. z o.o.
+ul. Wyspiańskiego 55/119, 27-295 Starachowice	ul. Prosta 80, 11-422 Mrągowo
+NIP: 1181496613	NIP: 1121778213
+REGON: 089478005	REGON: 409586213
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	1 896,02 zł	1 896,02 zł	23%
+2	Opinia prawna w sprawie umowy najmu	1	2 187,96 zł	2 187,96 zł	23%
+3	Reprezentacja przed organem administracji	1	9 766,67 zł	9 766,67 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+13 850,65 zł	3 185,65 zł	17 036,30 zł
+Termin płatności: 12 stycznia 2024 r. Sposób zapłaty: przelew na rachunek PL92106818737979492395864508.
+Adres e-mail do przesyłania potwierdzeń płatności: office@delta.example.org, tel. 000 098 793.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Bożenie Rogowskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Aleksandra Kaleta.
+Aleksandra Kaleta
+Delta sp. z o.o. | ul. Wyspiańskiego 55/119, 27-295 Starachowice | NIP 1181496613 | KRS 0000381842 | tel. 000 098 793
+Autor: Użytkownik
+Temat: Faktura VAT

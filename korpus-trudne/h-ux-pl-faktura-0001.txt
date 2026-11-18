@@ -1,0 +1,27 @@
+Unitech sp. z o.o.
+ul. Bytomska 27A/37, 43-447 Tychy | NIP 9691659745
+FAKTURA VAT
+Data wystawienia: 9 marca 2023 r.
+Data sprzedaży: 8 marca 2023 r.
+Sprzedawca	Nabywca
+Unitech sp. z o.o.	Biuro Rachunkowe Księga sp.k.
+ul. Bytomska 27A/37, 43-447 Tychy	ul. Wały Jagiellońskie 50, 06-460 Ciechanów
+NIP: 9691659745	NIP: 9357661371
+REGON: 344078234	REGON: 184749382
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 16 września 2021 r.	ryczałt	1	10 157,51 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	1 076,88 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	630,33 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+11 864,72 zł	2 728,89 zł	14 593,61 zł
+Termin płatności: 30 marca 2023 r. Sposób zapłaty: przelew na rachunek PL42212399715294020685847534.
+Adres e-mail do przesyłania potwierdzeń płatności: info@unitech.example.net, tel. 000 799 572.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Jolancie Szulc – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Krystyna Rzepka.
+Krystyna Rzepka
+Unitech sp. z o.o. | ul. Bytomska 27A/37, 43-447 Tychy | NIP 9691659745 | KRS 0001070549 | tel. 000 799 572
+Autor: Użytkownik
+Temat: Faktura VAT

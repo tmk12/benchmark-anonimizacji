@@ -1,0 +1,23 @@
+Farmex Centrum Medyczne sp. z o.o.
+pl. Zbawiciela 59/114, 38-187 Jasło | tel. +48 000 614 500 | REGON 297397300
+Jasło, dnia 01.03.2024 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 25.03.2024 r.
+Dane pacjenta: Przemysław Witkowski, PESEL 73050621831, data urodzenia 06.05.1973 r.
+Adres: ul. Sądowa 34/119, 41-288 Dąbrowa Górnicza, tel. +48 000 988 696
+Skierowuję Przemysława Witkowskiego do szpitala: Dom Maklerski Capital Centrum Medyczne sp. z o.o., ul. Wyspiańskiego 81, 84-764 Reda, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): K80.2 Kamica żółciowa
+Rozpoznanie dodatkowe: N18.3 Przewlekła choroba nerek stadium 3
+Dotychczasowe leczenie: prednizon 5 mg – bez wystarczającej poprawy; omeprazol 20 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 261 454, e-mail info@dommaklerskicapital.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Farmex Centrum Medyczne sp. z o.o. oraz osobie wskazanej przez pacjenta: Mateuszowi Marciniakowi.
+Lekarz kierujący: Elżbieta Sobczak, nr PWZ 5642286
+Miejsce pieczęci imiennej i podpisu
+Elżbieta Sobczak
+Farmex Centrum Medyczne sp. z o.o. | pl. Zbawiciela 59/114, 38-187 Jasło | tel. +48 000 614 500 | info@farmex.example.net
+Autor: Elżbieta Sobczak
+Temat: Skierowanie na leczenie szpitalne

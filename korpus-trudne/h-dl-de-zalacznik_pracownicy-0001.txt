@@ -1,0 +1,152 @@
+Anlage 1 – vom Tarifvertrag erfasste Beschäftigte
+Dieses Dokument wurde am 9. Mai 2025 für Nordsee GmbH erstellt.
+Nr.	Beschäftigter	Steuer-ID	Position	Anschrift
+1	Lutz Schröder	–	Fachkraft	–
+2	Simone Kessler	68271943540	Lageristin	Lange Straße 6, 41904 Neuss
+3	Maria Koch	–	Schichtleiterin	–
+4	Emil Feldmann	99268354706	Buchhalter	Bergstraße 15, 14661 Potsdam
+5	Tobias Bauer	–	Lagerist	–
+6	Horst Klein	82173904646	Buchhalter	–
+7	Anke Klein	30562869476	Buchhalterin	–
+8	Matthias Albrecht	–	Lagerist	–
+9	Klaus Gruber	–	Schichtleiter	–
+10	Johanna Pohl	76389914501	Schichtleiterin	Schillerstraße 162, 18995 Rostock
+11	Beate Meyer	58954103266	Schichtleiterin	–
+12	Anja Hofmann	–	Technikerin	–
+13	Karin Schwab	–	Sachbearbeiterin	–
+14	Helga Lehmann	25796983418	Lageristin	Kirchplatz 187, 24776 Flensburg
+15	Michael König	91843750277	Lagerist	Abendstraße 194, 26579 Emden
+16	Wolfgang Huber	–	Fachkraft	Käthe-Kollwitz-Straße 15c, 28924 Bremen
+17	Gerd Schmidt	–	Techniker	An der Linde 73, 63757 Hanau
+18	Bruno Dietrich	–	Lagerist	Rostocker Straße 40, 06387 Wittenberg
+19	Brigitte Hein	–	Fachkraft	–
+20	Markus Erdmann	–	Buchhalter	–
+21	Helga Schmidt	–	Buchhalterin	–
+22	Jessica Brandes	84170253644	Fachkraft	Josefstraße 144b, 59650 Hamm
+23	Marion Tietz	67170853241	Schichtleiterin	–
+24	Susanne Scholz	–	Lageristin	–
+25	Otto Müller	83604692173	Schichtleiter	–
+26	Thorsten Günther	86249107734	Lagerist	–
+27	Bernd Franke	–	Techniker	Lindenstraße 181, 44361 Dortmund
+28	Uwe Heller	30144259470	Lagerist	Lindenallee 59, 80052 München
+29	Simon Schulz	53749051829	Fachkraft	–
+30	Helmut Müller	–	Lagerist	–
+31	Christian Thiele	74630459485	Schichtleiter	–
+32	Anke Schröder	–	Technikerin	Münchner Straße 131, 04258 Leipzig
+33	Elisabeth Wimmer	–	Schichtleiterin	–
+34	Sabrina Hoppe	62127358097	Schichtleiterin	Bahnhofstraße 161, 38614 Braunschweig
+35	Harald Hoffmann	–	Lagerist	–
+36	Ingrid Bender	23317958468	Buchhalterin	Ahornweg 155, 45526 Essen
+37	Marion Schmitt	–	Lageristin	An der Kirche 25, 89247 Ulm
+38	Luca Schäfer	–	Buchhalter	–
+39	Konrad Haupt	–	Schichtleiter	Marienstraße 110, 53837 Bonn
+40	Helmut Schneider	–	Lagerist	–
+41	Andrea Nowak	–	Technikerin	–
+42	Tim Lauer	–	Schichtleiter	–
+43	Kerstin Zimmermann	–	Sachbearbeiterin	–
+44	Reinhard Pfaff	–	Buchhalter	Maxstraße 52, 99872 Erfurt
+45	Luisa Schindler	–	Buchhalterin	–
+46	Johanna Rupp	68045217551	Buchhalterin	–
+47	Cornelia Baumann	–	Sachbearbeiterin	–
+48	Theresa Winkler	36817298045	Fachkraft	–
+49	Amelie Schmid	–	Technikerin	–
+50	Vincent Hagemann	–	Fachkraft	–
+51	Nicole Meyer	76211984309	Schichtleiterin	–
+52	Siegfried Zeller	54170169820	Buchhalter	–
+53	Detlef Peter	–	Lagerist	–
+54	Amelie Hoffmann	–	Sachbearbeiterin	–
+55	Uwe Feldmann	45290648431	Sachbearbeiter	–
+56	Karin Bartsch	13658472917	Fachkraft	–
+57	Brigitte Schenk	26431809872	Lageristin	–
+58	Günter Mayer	21363980743	Fachkraft	–
+59	Leon Kuhn	69481013572	Techniker	Dorfstraße 61, 54090 Trier
+60	Jessica Klein	–	Fachkraft	–
+61	Michael Ullrich	–	Lagerist	–
+62	Julian Fischer	–	Buchhalter	–
+63	Dennis Beyer	–	Techniker	–
+64	Monika Gross	–	Sachbearbeiterin	–
+65	Horst Ziegler	80629453144	Techniker	Am Berg 65, 66596 Saarbrücken
+66	Barbara Müller	–	Schichtleiterin	–
+67	Helga Jung	44941763023	Schichtleiterin	Nordstraße 23, 20958 Hamburg
+68	Florian Schulte	–	Schichtleiter	Karlstraße 26, 38058 Braunschweig
+69	Thorsten Koch	–	Fachkraft	–
+70	Heinrich Müller	76893252123	Lagerist	Karlstraße 188, 10918 Berlin
+71	Silke Weber	55681073427	Sachbearbeiterin	Lange Straße 15, 30104 Hannover
+72	Jürgen Lang	17356682902	Lagerist	–
+73	Otto Schumacher	61970935925	Fachkraft	–
+74	Alexandra Bieber	–	Buchhalterin	Schulstraße 19, 52626 Aachen
+75	Mia Groß	–	Fachkraft	–
+76	Beate Friedrich	17862049056	Buchhalterin	–
+77	Matthias Gerlach	–	Fachkraft	–
+78	Georg König	–	Techniker	–
+79	Nadine Schröder	–	Fachkraft	–
+80	Holger Weidner	–	Techniker	Bergstraße 192, 76669 Karlsruhe
+81	Katrin Berger	–	Lageristin	–
+82	Anna Lehmann	79560422187	Technikerin	Vorstadt 30, 24153 Flensburg
+83	Paul Schwab	–	Fachkraft	–
+84	Stefanie Bauer	45370976120	Technikerin	An der Mühle 191, 88772 Lindau
+85	Erika Schneider	–	Buchhalterin	–
+86	Sebastian Zimmermann	–	Sachbearbeiter	Metzgerstraße 162, 29768 Celle
+87	Siegfried Dörr	31789624007	Schichtleiter	–
+88	Tobias Voss	–	Fachkraft	–
+89	Heike Richter	14607683528	Technikerin	–
+90	Florian Schuster	79052324616	Sachbearbeiter	Nelkenweg 1, 45115 Gelsenkirchen
+91	Stefanie Weidner	–	Technikerin	–
+92	Oliver Thomas	34916807564	Fachkraft	–
+93	Simone Braun	–	Sachbearbeiterin	–
+94	Lukas Dietrich	–	Lagerist	–
+95	Siegfried Schmidt	–	Fachkraft	–
+96	Alois Heinrich	–	Buchhalter	–
+97	Eberhard Fischer	30826645717	Sachbearbeiter	–
+98	Miriam Busch	–	Technikerin	–
+99	Rainer Wagner	94836275063	Fachkraft	–
+100	Uwe Lindner	–	Sachbearbeiter	–
+101	Beate Ackermann	79406852195	Technikerin	–
+102	Erich Thomas	–	Lagerist	Birkenweg 100, 01527 Meißen
+103	Holger Schäfer	51309682572	Buchhalter	Schulstraße 68, 74500 Heilbronn
+104	Holger Müller	–	Buchhalter	–
+105	Klaus Jacobs	29563870494	Fachkraft	–
+106	Anja Haustein	71403846524	Schichtleiterin	–
+107	Katharina Möller	–	Technikerin	Marienstraße 142, 99649 Erfurt
+108	Johann Kramer	12860934768	Fachkraft	–
+109	Viktor Heine	21945086237	Sachbearbeiter	–
+110	Andreas Keller	90105238762	Schichtleiter	–
+111	Michael Kaiser	19037052648	Techniker	–
+112	Monika Winkler	–	Schichtleiterin	–
+113	Frieda Becker	–	Buchhalterin	–
+114	Marco Roth	10649873456	Buchhalter	–
+115	Siegfried Schmitz	–	Buchhalter	–
+116	Dieter Weber	11460735293	Schichtleiter	–
+117	Gisela Mohr	–	Lageristin	–
+118	Monika Thiel	43096781024	Sachbearbeiterin	An der Kirche 148, 44440 Dortmund
+119	Franziska Thomas	–	Sachbearbeiterin	–
+120	Elias Hein	–	Fachkraft	Clara-Zetkin-Straße 141, 90880 Fürth
+121	Dieter Henning	–	Lagerist	–
+122	Walter Hahn	99526139471	Sachbearbeiter	–
+123	Anja Schmitz	–	Lageristin	Viehmarkt 81, 02992 Bautzen
+124	Stefan Stark	86071238453	Fachkraft	Turnstraße 107, 53163 Bonn
+125	Horst Schneider	32849017950	Techniker	–
+126	Traudl Maier	95740362863	Sachbearbeiterin	–
+127	Jan Dietrich	–	Sachbearbeiter	Hegelstraße 57, 95529 Bayreuth
+128	Gabriele Schmidt	–	Lageristin	–
+129	Daniela Wenzel	50924168355	Fachkraft	–
+130	Mara Nowak	–	Lageristin	–
+131	Frieda Schneider	–	Sachbearbeiterin	–
+132	Sigrid Seifert	56779418026	Buchhalterin	–
+133	Jörg Stein	38932471055	Sachbearbeiter	Brückenstraße 56, 19177 Schwerin
+134	Hans Pfister	80759496217	Sachbearbeiter	–
+135	Kerstin Brandes	60589871348	Schichtleiterin	–
+136	Jens Eckert	–	Schichtleiter	–
+137	Frank Ernst	–	Schichtleiter	–
+138	Dirk Kluge	21290546283	Lagerist	–
+139	Kerstin Otto	83224109565	Technikerin	–
+140	Nicole Becker	28415863097	Schichtleiterin	Daimlerstraße 103, 34263 Kassel
+141	Bettina Schmidt	–	Fachkraft	Seestraße 83, 44118 Dortmund
+142	Heike Reiter	–	Sachbearbeiterin	–
+143	Birgit Möller	34542197084	Fachkraft	–
+144	Laura Klein	71319062485	Sachbearbeiterin	–
+145	Verena Koch	51827890341	Schichtleiterin	Poststraße 91, 47073 Duisburg
+146	Florian Kirsch	–	Lagerist	Poststraße 82, 42954 Solingen
+147	Leonie Graf	–	Technikerin	–
+148	Tobias Kraft	–	Buchhalter	–
+Die Liste wurde von Helmut Müller erstellt und genehmigt.

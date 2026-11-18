@@ -1,0 +1,40 @@
+Kancelaria Prawna Handel-Pol sp. z o.o.
+pl. Defilad 101/84, 46-147 Namysłów | NIP 6576961284 | KRS 0000161354
+UMOWA O STAŁĄ OBSŁUGĘ PRAWNĄ
+zawarta w dniu 2 stycznia 2026 r. (miejsce zawarcia: Namysłów) pomiędzy:
+Kancelaria Prawna Handel-Pol sp. z o.o. z siedzibą: pl. Defilad 101/84, 46-147 Namysłów, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS 0000161354, NIP 6576961284, REGON 433881181, reprezentowaną przez Reginę Zych – wspólnika, zwaną dalej „Kancelarią”,
+a
+Farmex S.A. z siedzibą: ul. Nowy Świat 129/56, 10-351 Olsztyn, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS 0000317647, NIP 7437505034, REGON 292852538, reprezentowaną przez Izabelę Kowalską – Prezesa Zarządu, zwaną dalej „Klientem”,
+zwanymi dalej łącznie „Stronami”, a każda z osobna „Stroną”, o następującej treści:
+§ 1. Przedmiot umowy
+1. Kancelaria zobowiązuje się do świadczenia na rzecz Klienta stałej obsługi prawnej w zakresie prawa cywilnego i handlowego, prawa pracy oraz ochrony danych osobowych, w szczególności do sporządzania i opiniowania projektów umów, przygotowywania opinii prawnych oraz udziału w negocjacjach prowadzonych przez Klienta.
+2. Obsługa nie obejmuje zastępstwa procesowego przed sądami powszechnymi, sądami administracyjnymi i organami administracji publicznej; w takim przypadku Strony ustalą odrębnie zakres pełnomocnictwa i wynagrodzenie.
+3. Opiekunem Klienta ze strony Kancelarii jest Sebastian Rutkowski, a w razie jego nieobecności zastępstwo przejmuje Lena Zdunek. Zmiana opiekuna nie wymaga aneksu do umowy.
+4. Uwagi do sposobu wykonywania umowy Klient kieruje do Sebastiana Rutkowskiego, a w sprawach spornych do Reginy Zych jako wspólnika odpowiedzialnego za relację z Klientem.
+§ 2. Sposób wykonywania umowy
+1. Kancelaria wykonuje umowę z należytą starannością, uwzględniając zawodowy charakter swojej działalności, w terminach uzgodnionych z Klientem, a w sprawach pilnych – w ciągu dwóch dni roboczych od otrzymania kompletu dokumentów.
+2. Klient przekazuje Kancelarii informacje i dokumenty niezbędne do wykonania zlecenia za pośrednictwem osoby wskazanej przez Zarząd, którą jest Helena Duszyńska (tel. 000 531 769, e-mail: hduszynska@example.com).
+3. Opinie prawne i projekty dokumentów są przekazywane w formie elektronicznej, chyba że Klient zażąda formy pisemnej.
+§ 3. Wynagrodzenie
+1. Z tytułu obsługi Klient zapłaci Kancelarii miesięczne wynagrodzenie ryczałtowe w wysokości 13 492,00 PLN netto, powiększone o podatek od towarów i usług według stawki obowiązującej w dniu wystawienia faktury.
+2. Ryczałt obejmuje do 20 godzin pracy prawników w miesiącu. Czas pracy ponad ten limit rozlicza się według stawki godzinowej, a łączna wartość czynności ponad limit w danym miesiącu nie może przekroczyć 3 005,80 PLN bez uprzedniej zgody Klienta.
+3. Wynagrodzenie płatne jest z dołu, w terminie 14 dni od doręczenia faktury, przelewem na rachunek Kancelarii nr PL63160966995592626585750449.
+§ 4. Czas obowiązywania i wypowiedzenie
+1. Umowa wchodzi w życie z dniem 12 stycznia 2026 r. i zostaje zawarta na czas nieokreślony.
+2. Każda ze Stron może wypowiedzieć umowę z zachowaniem trzymiesięcznego okresu wypowiedzenia ze skutkiem na koniec miesiąca kalendarzowego. Wypowiedzenie wymaga formy pisemnej pod rygorem nieważności.
+§ 5. Poufność. 1. Kancelaria zachowuje w tajemnicy wszelkie informacje uzyskane w związku ze świadczeniem obsługi, zgodnie z obowiązkami wynikającymi z ustawy z dnia 6 lipca 1982 r. o radcach prawnych oraz ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze. Obowiązek ten trwa także po rozwiązaniu umowy.
+2. Za naruszenie obowiązku poufności Strona zapłaci drugiej Stronie karę umowną w wysokości 25 185,89 PLN, bez uszczerbku dla prawa dochodzenia odszkodowania przewyższającego karę na zasadach ogólnych (art. 484 § 1 Kodeksu cywilnego).
+§ 6. Ochrona danych osobowych. Kancelaria przetwarza dane osobowe powierzone przez Klienta wyłącznie w celu wykonania umowy i zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO). Strony zawrą odrębną umowę powierzenia przetwarzania, o której mowa w art. 28 RODO, jeżeli przedmiot zlecenia będzie tego wymagał.
+§ 7. Odpowiedzialność. Odpowiedzialność Kancelarii jest objęta obowiązkowym ubezpieczeniem odpowiedzialności cywilnej, a jej wysokość ogranicza się do sumy gwarancyjnej wynikającej z tego ubezpieczenia, z wyłączeniem szkód wyrządzonych umyślnie. Kancelaria nie odpowiada za skutki decyzji biznesowych Klienta podjętych wbrew jej pisemnym zastrzeżeniom.
+§ 8. Doręczenia
+Korespondencję do Klienta doręcza się na adres ul. Nowy Świat 129/56, 10-351 Olsztyn lub na adres poczty elektronicznej info@farmex.example.net, a do Kancelarii – na adres pl. Defilad 101/84, 46-147 Namysłów lub biuro@handelpol.test. Zmiana adresu wymaga pisemnego powiadomienia drugiej Strony.
+§ 9. Postanowienia końcowe
+1. Zmiany umowy wymagają formy pisemnej pod rygorem nieważności.
+2. W sprawach nieuregulowanych umową stosuje się przepisy Kodeksu cywilnego, w tym przepisy o zleceniu. Spory wynikające z umowy rozstrzyga sąd powszechny właściwy dla siedziby Kancelarii.
+3. Umowę sporządzono w dwóch jednobrzmiących egzemplarzach, po jednym dla każdej ze Stron.
+Za Kancelarię:                                                  Za Klienta:
+Regina Zych
+Izabela Kowalska
+Kancelaria Prawna Handel-Pol sp. z o.o., pl. Defilad 101/84, 46-147 Namysłów | tel. 000 436 888 | biuro@handelpol.test | NIP 6576961284
+Autor: Sebastian Rutkowski
+Tytul: Umowa o stałą obsługę prawną

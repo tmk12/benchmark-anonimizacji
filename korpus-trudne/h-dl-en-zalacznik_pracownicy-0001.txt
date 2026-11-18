@@ -1,0 +1,126 @@
+Schedule 1 – employees covered by the agreement
+This document was prepared on 23 January 2024 for Cedar Point Ltd.
+No.	Employee	National Insurance no.	Position	Address
+1	Melissa Baker	YH550240B	accountant	–
+2	Charlie Graham	–	accountant	–
+3	Elizabeth Sanders	–	shift supervisor	185 Manor Grove, Taunton TA3 2TT
+4	Michael Knight	CR633346D	storekeeper	174 Fishers Crescent, Birmingham B3 7DX
+5	Michael Thompson	WN085724A	accountant	142 Green Terrace, Watford WD4 2YW
+6	Susan Anderson	KA066766B	accountant	–
+7	Hannah Nguyen	–	specialist	–
+8	Oscar Mason	NM970432B	technician	121 Washington Grove, Sheffield S5 8DW
+9	Natalie Johnson	RB879048B	accountant	–
+10	Elizabeth Brown	–	accountant	–
+11	Michael Wright	XC972295C	specialist	39 Spring Road, Durham DH5 3EQ
+12	Stephanie Williams	AG302062A	specialist	–
+13	Michelle Johnson	–	technician	–
+14	Donald Klein	–	storekeeper	–
+15	Betty Tran	WL928327B	storekeeper	–
+16	Elizabeth James	ZB979279A	storekeeper	152 Meadow Avenue, Plymouth PL3 2AQ
+17	Lawrence Daniels	–	storekeeper	–
+18	William Vargas	XZ263618C	accountant	87 Sussex Terrace, Gloucester GL3 2YH
+19	Paul Allen	–	accountant	–
+20	Jeremy Robinson	OX768959B	accountant	–
+21	Christopher Ramirez	–	accountant	144 Birch Drive, Southampton SO4 3SF
+22	Christopher George	–	specialist	81 Main Place, Worcester WR5 5NN
+23	Christopher Garner	SX503903C	accountant	–
+24	Willie Robinson	–	shift supervisor	–
+25	Tyler Brady	–	technician	–
+26	Joseph Caldwell	BZ135448D	accountant	–
+27	Charles Davis	EL316186B	specialist	–
+28	Michelle Reyes	OG824995B	accountant	–
+29	David Garcia	–	storekeeper	–
+30	Danielle Harris	GX741697D	technician	–
+31	Mary Patel	RS941712C	technician	216 Church Grove, Brighton BN3 2GX
+32	Laura Myers	–	technician	–
+33	Jeffrey Davis	OR886964C	technician	–
+34	Ronald Morales	–	technician	129 Highfield Lane, Cambridge CB1 2EY
+35	Timothy Herrera	–	clerk	–
+36	Christina Johnson	NS023737A	accountant	–
+37	Amy Lee	RP330299B	shift supervisor	46 Richmond Terrace, London SW1 1NE
+38	Ronald Olson	–	specialist	227 Balmoral Lane, Blackpool FY2 3YN
+39	Isabella Jimenez	–	technician	212 Ashfield Street, London SW4 5BQ
+40	Bobby Dunn	–	accountant	32 Sherman Avenue, Stoke-on-Trent ST2 8FG
+41	Dennis Jones	MK468952C	shift supervisor	–
+42	Scott Simmons	GY896890D	clerk	–
+43	Russell Ortega	–	technician	–
+44	Daniel Welch	–	shift supervisor	36 Green Gardens, Birmingham B5 5TE
+45	Sara Miller	–	shift supervisor	–
+46	Kenneth Barnes	NY097444C	technician	–
+47	Donna Briggs	MB467787B	specialist	–
+48	Richard Gardner	–	accountant	–
+49	Jennifer Gross	–	storekeeper	154 Market Gardens, Preston PR3 6YS
+50	Benjamin Cooper	JM675221D	specialist	21 Jefferson Street, Leicester LE1 5FX
+51	Kelly Roberts	–	specialist	–
+52	Betty Smith	–	technician	–
+53	Samuel Simon	CG927053A	shift supervisor	–
+54	Madison Clarke	RB190890D	specialist	–
+55	Samuel Caldwell	GP562172D	specialist	–
+56	Christine Moore	MN220149B	shift supervisor	229 Clifton Place, Kingston upon Hull HU3 6SF
+57	Andrew Ortiz	–	clerk	–
+58	Kayla Watts	–	technician	–
+59	Nicholas Hansen	–	specialist	228 Brookfield Way, Oxford OX1 3BT
+60	Richard Williams	CK670460C	technician	–
+61	Samuel Green	–	accountant	–
+62	Barbara Lucas	–	technician	–
+63	Vincent Copeland	–	storekeeper	–
+64	Georgia Jensen	YY590625A	accountant	–
+65	Dorothy Anderson	–	technician	–
+66	Cynthia Garcia	RS453168C	clerk	–
+67	Madison Smith	PT646884D	accountant	–
+68	Patricia Lopez	EL217050D	clerk	189 Sussex Drive, Canterbury CT4 1NN
+69	James Smith	–	specialist	38 Heather Grove, Kingston upon Hull HU5 1TE
+70	Nathan Robinson	–	clerk	162 Leicester Gardens, Manchester M3 3QF
+71	Debra Ortiz	SK857280D	clerk	144 Station Gardens, Manchester M2 8UQ
+72	John Neal	WH499913D	shift supervisor	114 Main Close, Newcastle upon Tyne NE4 9SU
+73	Betty Thomas	MJ354831B	storekeeper	–
+74	Paul Garcia	–	storekeeper	–
+75	Shirley Brooks	–	shift supervisor	212 Garden Lane, Sheffield S4 2SF
+76	Denise Kennedy	PR559199C	technician	–
+77	Susan Brewer	–	shift supervisor	201 Lincoln Close, York YO2 1YX
+78	Holly Butler	–	shift supervisor	96 Victoria Place, Nottingham NG1 1RY
+79	Patricia Sanchez	–	storekeeper	–
+80	Sarah Martin	–	shift supervisor	–
+81	Andrew Baker	JY295642D	clerk	–
+82	Pamela Ramos	–	storekeeper	–
+83	Mark Brown	–	accountant	–
+84	Michelle Rodriguez	–	technician	164 Manor Place, Sheffield S2 2ND
+85	Linda Johnson	CG340740D	shift supervisor	92 Church Lane, Lichfield WS5 8EQ
+86	Amy Hall	ON104578C	accountant	–
+87	Benjamin Curtis	–	accountant	181 Park Close, Northampton NN4 2SH
+88	Linda Soto	–	storekeeper	–
+89	Thomas Green	–	accountant	–
+90	Billy Sanchez	–	shift supervisor	93 Crown Drive, London SW5 1BN
+91	Denise Robinson	YX808796D	accountant	–
+92	Alfie Williams	JL166420B	clerk	–
+93	Mary Wright	TE172805C	storekeeper	156 Brighton Place, Birmingham B3 9AJ
+94	Anna Snyder	–	technician	180 Surrey Crescent, Leicester LE5 3JB
+95	Stephen Newman	JL303681A	technician	–
+96	Dennis Morales	–	storekeeper	–
+97	Thomas Jenkins	JL284295B	clerk	–
+98	Carolyn Haynes	JB182394C	specialist	–
+99	Christopher Ortega	–	storekeeper	–
+100	Eric Sanchez	–	storekeeper	–
+101	Ronald Wilson	–	storekeeper	–
+102	Shirley Sandoval	SA821686A	technician	–
+103	Scott Elliott	–	technician	83 Beech Gardens, Brighton BN1 9UJ
+104	Betty Rodriguez	CP053616A	shift supervisor	–
+105	Debra Davis	NA515274D	shift supervisor	–
+106	Timothy Bailey	–	storekeeper	–
+107	Charles King	CL209562A	storekeeper	7 Norfolk Crescent, Manchester M5 6DN
+108	Kevin Lewis	–	accountant	–
+109	Emily Walker	KW717877A	shift supervisor	–
+110	Oliver Rose	–	clerk	–
+111	Archie Johnson	–	specialist	–
+112	Elizabeth Sanders	–	technician	–
+113	Brian Hernandez	RS222622B	accountant	3 Bedford Gardens, Sheffield S4 2YN
+114	Emily Garcia	JA047900B	shift supervisor	–
+115	Mary Sullivan	EG178141B	technician	–
+116	Jesse Richardson	–	accountant	48 Ash Avenue, Exeter EX3 8YF
+117	Catherine Daniels	–	clerk	183 East Way, Truro TR5 2NT
+118	Keith Weber	–	technician	74 Kent Street, Southampton SO2 8HR
+119	Emma Young	–	specialist	–
+120	Austin Wood	–	technician	–
+121	Alexander Tucker	–	accountant	–
+122	Gerald Collins	–	accountant	–
+The list was prepared and approved by Emma Young.

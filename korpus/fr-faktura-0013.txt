@@ -1,0 +1,29 @@
+SELARL Guyot Avocats
+157 rue de la Fontaine, 21489 Dijon | SIREN 455028878 | TVA intracommunautaire FR20455028878
+FACTURE N° F-216
+Date d'émission : 10 juillet 2026
+Date de la prestation : 8 juillet 2026
+Émetteur	Client
+SELARL Guyot Avocats	Rhône-Alpes SAS
+157 rue de la Fontaine, 21489 Dijon	32 rue Émile Zola, 21039 Dijon
+SIREN 455028878	SIREN 790968820
+TVA intracommunautaire FR20455028878	TVA intracommunautaire FR31790968820
+Tél. 03 53 01 03 68	Tél. +33 3 53 01 15 37
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 28 novembre 2025	forfait	1	1 196,45 EUR	20 %
+2	Rédaction et négociation d'actes	forfait	1	543,39 EUR	20 %
+3	Assistance à des assemblées d'associés	forfait	1	1 599,84 EUR	20 %
+Total HT	TVA 20 %	Total TTC
+3 339,68 EUR	667,94 EUR	4 007,62 EUR
+Échéance de paiement : 3 août 2026, par virement sur le compte FR7617515275875090067534541 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : contact@guyotavocats.test, tél. 03 53 01 03 68.
+Mentions légales : SELARL Guyot Avocats, société d'exercice libéral à responsabilité limitée au capital de 7 050,00 EUR, RCS Dijon 455028878, TVA intracommunautaire FR20455028878.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Marie-Claude Remy, habilitée à recevoir les documents comptables du client.
+Établie et vérifiée par Aurélie Robert.
+Aurélie Robert
+SELARL Guyot Avocats | 157 rue de la Fontaine, 21489 Dijon | SIREN 455028878 | TVA intracommunautaire FR20455028878 | Tél. 03 53 01 03 68
+Auteur: Aurélie Robert
+Objet: Facture d'honoraires

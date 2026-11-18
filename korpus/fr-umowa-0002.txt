@@ -1,0 +1,47 @@
+Savoie SARL
+78 rue de Ménilmontant, 38047 Grenoble | Tél. 04 65 71 18 44 | bureau@savoie.example.org
+SIREN 840946461 | TVA intracommunautaire FR54840946461
+CONTRAT DE PRESTATION DE SERVICES
+Assistance et maintenance du système d'information
+Fait à Grenoble, le 14/10/2022
+ENTRE LES SOUSSIGNÉS :
+La société Savoie SARL, société à responsabilité limitée au capital de 5 240,00 EUR, dont le siège social est situé 78 rue de Ménilmontant, 38047 Grenoble, inscrite au RCS Grenoble sous le numéro 840946461, représentée par son gérant, Monsieur Thomas Monnier, dûment habilité aux fins des présentes, ci-après dénommée « le Prestataire »,
+ET
+La société Sologne SARL, société à responsabilité limitée au capital de 7 090,00 EUR, dont le siège social est situé 117 bis boulevard Jean Jaurès, 38764 Grenoble, inscrite au RCS Grenoble sous le numéro 911991396, représentée par son gérant, Monsieur Daniel Morel, dûment habilité, ci-après dénommée « le Client »,
+Le Prestataire et le Client sont ci-après désignés ensemble « les Parties » et individuellement « la Partie ».
+PRÉAMBULE
+Le Client exerce une activité de services et dispose d'un parc informatique qu'il souhaite confier à un prestataire spécialisé pour sa maintenance. Le Prestataire déclare disposer de l'expérience et des moyens nécessaires. Les Parties sont convenues de ce qui suit :
+Article 1 – Objet du contrat
+1.1 Le Prestataire s'engage à fournir au Client des prestations d'assistance, de maintenance corrective et évolutive de son système d'information, ainsi que la conservation de sauvegardes (les « Prestations »).
+1.2 Les Prestations ne comprennent ni la fourniture de matériel ni le développement de nouveaux logiciels, qui feront l'objet de devis distincts.
+1.3 Le référent du Prestataire est Monsieur Adam Dumas ; en cas d'empêchement, Madame Martine Morel. Tout changement de référent est notifié au Client par courriel.
+1.4 Le Client désigne Monsieur Ludovic Blanc (tél. +33465712120, courriel l.blanc@messagerie.test) comme interlocuteur chargé de transmettre les informations nécessaires.
+Article 2 – Durée
+Le contrat prend effet le 02/11/2022 pour une durée initiale de douze mois. Il se renouvelle ensuite par tacite reconduction pour des périodes successives de douze mois, sauf dénonciation par l'une des Parties par lettre recommandée avec demande d'avis de réception adressée trois mois avant l'échéance.
+Article 3 – Prix et conditions de paiement
+3.1 En contrepartie des Prestations, le Client verse au Prestataire un forfait mensuel de 12 790,00 EUR hors taxes, majoré de la TVA au taux en vigueur, soit actuellement 20 %.
+3.2 Le forfait couvre jusqu'à vingt heures d'intervention par mois. Les heures supplémentaires sont facturées au tarif en vigueur du Prestataire, dans la limite de 3 436,91 EUR hors taxes par mois sans accord écrit préalable du Client.
+3.3 Les factures sont payables à trente jours à compter de leur date d'émission, par virement sur le compte du Prestataire FR7630006889502361242050793. Tout retard de paiement entraîne de plein droit des pénalités au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire de quarante euros pour frais de recouvrement.
+Article 4 – Confidentialité
+Chaque Partie s'engage à garder strictement confidentielles les informations de toute nature, techniques, commerciales ou financières, dont elle a connaissance à l'occasion du contrat, pendant sa durée et pendant cinq ans après son terme.
+Article 5 – Protection des données personnelles
+Lorsque le Prestataire accède à des données à caractère personnel du Client, il agit en qualité de sous-traitant au sens du règlement (UE) 2016/679 (RGPD) et de la loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Un accord de traitement conforme à l'article 28 du RGPD est annexé au contrat.
+Article 6 – Responsabilité
+6.1 Le Prestataire est tenu d'une obligation de moyens. Sa responsabilité ne peut être engagée qu'en cas de faute prouvée et est limitée, tous dommages confondus et par année contractuelle, à la somme de 20 125,19 EUR.
+6.2 Cette limitation ne s'applique ni en cas de faute lourde ou dolosive ni aux dommages corporels.
+Article 7 – Résiliation
+En cas de manquement grave de l'une des Parties à ses obligations, non réparé dans un délai de trente jours après une mise en demeure adressée par lettre recommandée avec demande d'avis de réception, l'autre Partie peut résilier le contrat de plein droit, sans préjudice de tous dommages et intérêts.
+Article 8 – Notifications
+Toute notification est valablement faite par lettre recommandée avec demande d'avis de réception adressée au siège de la Partie destinataire (117 bis boulevard Jean Jaurès, 38764 Grenoble pour le Client, 78 rue de Ménilmontant, 38047 Grenoble pour le Prestataire) ou par courriel avec accusé de réception.
+Article 9 – Dispositions générales
+9.1 Toute modification du contrat fait l'objet d'un avenant écrit signé des deux Parties.
+9.2 Si l'une des stipulations du contrat est déclarée nulle, les autres stipulations demeurent en vigueur.
+9.3 Le contrat est soumis au droit français. À défaut de règlement amiable, tout litige relève de la compétence exclusive du tribunal de commerce de Grenoble.
+Fait à Grenoble, le 14/10/2022, en deux exemplaires originaux.
+Pour le Prestataire : son gérant
+Pour le Client : son gérant
+Thomas Monnier
+Daniel Morel
+Savoie SARL | 78 rue de Ménilmontant, 38047 Grenoble | SIREN 840946461 | TVA intracommunautaire FR54840946461 | Tél. 04 65 71 18 44 | bureau@savoie.example.org
+Auteur: Thomas Monnier
+Objet: Contrat de prestation de services d'assistance et de maintenance informatique

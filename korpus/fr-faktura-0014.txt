@@ -1,0 +1,30 @@
+SELARL Garcia & Roux Avocats
+131 rue Jean Jaurès, 13783 Aix-en-Provence | SIREN 466544038 | TVA intracommunautaire FR17466544038
+FACTURE N° F-226
+Date d'émission : 28 janvier 2022
+Date de la prestation : 26 janvier 2022
+Émetteur	Client
+SELARL Garcia & Roux Avocats	Méditerranée SARL
+131 rue Jean Jaurès, 13783 Aix-en-Provence	85 rue Nationale, 13485 Aix-en-Provence
+SIREN 466544038	SIREN 637855875
+TVA intracommunautaire FR17466544038	TVA intracommunautaire FR40637855875
+Tél. 04 65 71 12 52	Tél. 04 65 71 97 56
+Réf.	Désignation	Unité	Quantité	Total HT	TVA
+1	Conseil selon la convention du 4 décembre 2020	forfait	1	990,11 €	20 %
+2	Rédaction et négociation d'actes	forfait	1	2 618,72 €	20 %
+3	Assistance à des assemblées d'associés	forfait	1	2 240,98 €	20 %
+Total HT	TVA 20 %	Total TTC
+5 849,81 €	1 169,96 €	7 019,77 €
+Échéance de paiement : 21 février 2022, par virement sur le compte FR7630004731915507785760923 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : info.garciarouxavocats@example.com, tél. 04 65 71 12 52.
+Mentions légales : SELARL Garcia & Roux Avocats, société d'exercice libéral à responsabilité limitée au capital de 5 250,00 €, RCS Aix-en-Provence 466544038, TVA intracommunautaire FR17466544038.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Bruno Lejeune, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Michèle Vincent.
+Michèle Vincent
+SELARL Garcia & Roux Avocats | 131 rue Jean Jaurès, 13783 Aix-en-Provence | SIREN 466544038 | TVA intracommunautaire FR17466544038 | Tél. 04 65 71 12 52
+Auteur: Utilisateur
+Objet: Facture d'honoraires

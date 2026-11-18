@@ -1,0 +1,10 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). Ruling R37: każdy uczestnik biegnie na wszystkich 5 językach.
+# Privatizer ma jeden model dla wszystkich języków dokumentów (profile językowe pl/en/es/de/fr), więc oficjalnie obsługuje wszystkie 5.
+# Privatizer end-to-end na plikach (serwer, POST /api/jobs → apply → pobranie); poziom plik.
+poziomy = ["plik"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["pl", "en", "es", "de", "fr"]
+formaty = ["docx", "pdf", "skan", "xlsx", "pptx", "eml", "msg", "doc"]
+procesy = 2
+timeout_s = 900
+start_timeout_s = 900

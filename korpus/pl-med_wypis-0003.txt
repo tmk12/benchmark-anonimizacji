@@ -1,0 +1,27 @@
+Quantum Centrum Medyczne S.A.
+ul. Stolarska 52, 05-144 Piaseczno | REGON 281741247 | tel. 000 581 955
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjentka: Olga Stasiak, PESEL 92011831988, data urodzenia 18.01.1992 r.
+Adres zamieszkania: ul. Jana Pawła II 80/39, 42-272 Będzin, tel. 000 797 465
+Data przyjęcia: 16.09.2025 r. Data wypisu: 25.09.2025 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: I50.1 Niewydolność lewokomorowa
+Rozpoznania współistniejące: E66.9 Otyłość nieokreślona; I25.1 Miażdżycowa choroba serca
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: amlodypina 5 mg – według schematu ustalonego w poradni; klopidogrel 75 mg – raz dziennie rano; atorwastatyna 20 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 10.10.2025 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 09.10.2025 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Oldze Stasiak w dniu wypisu; za zgodą pacjentki informacje o stanie zdrowia mogą być udzielane Wiesławowi Grochowskiemu, tel. 000 936 673.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjentka została pouczona o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Edyta Stępień, nr PWZ 7783174
+Ordynator oddziału: Katarzyna Wójcik, nr PWZ 5011103
+Edyta Stępień
+Katarzyna Wójcik
+Quantum Centrum Medyczne S.A. | ul. Stolarska 52, 05-144 Piaseczno | tel. 000 581 955 | info@quantum.example.net
+Autor: Edyta Stępień
+Temat: Karta informacyjna leczenia szpitalnego

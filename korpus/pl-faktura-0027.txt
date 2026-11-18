@@ -1,0 +1,27 @@
+Farmex sp.j.
+ul. Chłodna 18/95, 00-625 Warszawa | NIP 4281117321
+FAKTURA VAT
+Data wystawienia: 5 sierpnia 2025 r.
+Data sprzedaży: 29 lipca 2025 r.
+Sprzedawca	Nabywca
+Farmex sp.j.	Aurum sp. z o.o.
+ul. Chłodna 18/95, 00-625 Warszawa	ul. Świdnicka 97, 09-365 Płońsk
+NIP: 4281117321	NIP: 4037093796
+REGON: 028246564	REGON: 094889144
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	6 583,65 PLN	6 583,65 PLN	23%
+2	Opinia prawna w sprawie umowy najmu	1	1 577,82 PLN	1 577,82 PLN	23%
+3	Reprezentacja przed organem administracji	1	1 776,07 PLN	1 776,07 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+9 937,54 PLN	2 285,63 PLN	12 223,17 PLN
+Termin płatności: 4 września 2025 r. Sposób zapłaty: przelew na rachunek PL35203543129058865353270543.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.farmex@example.com, tel. 000 301 650.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Elżbiecie Nowak – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Eugeniusz Kita.
+Eugeniusz Kita
+Farmex sp.j. | ul. Chłodna 18/95, 00-625 Warszawa | NIP 4281117321 | KRS 0000758116 | tel. 000 301 650
+Autor: Użytkownik
+Temat: Faktura VAT

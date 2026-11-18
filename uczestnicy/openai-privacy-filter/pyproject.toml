@@ -1,0 +1,22 @@
+[project]
+name = "uczestnik-openai-privacy-filter"
+version = "0.1.0"
+description = "Uczestnik benchmarku: openai/privacy-filter (oficjalny pakiet opf, dekoder Viterbiego)"
+requires-python = "==3.12.*"
+dependencies = [
+    # Oficjalne repozytorium OpenAI (github.com/openai/privacy-filter), commit przypięty (HEAD main z 2026-10-30).
+    "opf @ git+https://github.com/openai/privacy-filter@f7f00ca7fb869683eb732c010299d901457f19c3",
+    "torch==2.15.0",
+    "numpy==2.5.4",
+    "safetensors==0.8.0",
+    "tiktoken==0.14.0",
+    "huggingface_hub==2.4.0",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

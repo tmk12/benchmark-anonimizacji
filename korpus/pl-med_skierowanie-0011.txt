@@ -1,0 +1,22 @@
+Niepubliczny Zakład Opieki Zdrowotnej Quantum sp. z o.o.
+ul. Złota 93, 44-148 Wodzisław Śląski | tel. +48 000 430 122 | REGON 240908920
+Wodzisław Śląski, dnia 16 marca 2022 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 1 kwietnia 2022 r.
+Dane pacjenta: Jan Nowak, PESEL 50122075318, data urodzenia 20 grudnia 1950 r.
+Adres: ul. Targowa 15, 78-505 Kołobrzeg, tel. +48000172638
+Skierowuję Jana Nowaka do szpitala: Szpital Powiatowy Lumen sp. z o.o., ul. Krakowska 70, 21-702 Biała Podlaska, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): D50.9 Niedokrwistość z niedoboru żelaza
+Rozpoznanie dodatkowe: K21.0 Choroba refluksowa przełyku z zapaleniem
+Dotychczasowe leczenie: prednizon 10 mg – bez wystarczającej poprawy; paracetamol 500 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 421 299, e-mail info@lumen.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Teresa Piotrowska, nr PWZ 1654858
+Miejsce pieczęci imiennej i podpisu
+Teresa Piotrowska
+Niepubliczny Zakład Opieki Zdrowotnej Quantum sp. z o.o. | ul. Złota 93, 44-148 Wodzisław Śląski | tel. +48 000 430 122 | kontakt.quantum@example.com
+Autor: Użytkownik
+Temat: Skierowanie na leczenie szpitalne

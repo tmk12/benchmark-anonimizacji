@@ -1,0 +1,27 @@
+Meridian Ltd
+120 Lily Road, Sheffield S2 6EJ | VAT Reg. No. GB984261005
+VAT INVOICE
+Invoice date: 03/10/2022
+Date of supply: 26/09/2022
+From	To
+Meridian Ltd	Ironbridge Ltd
+120 Lily Road, Sheffield S2 6EJ	103 Washington Avenue, Brighton BN2 4RD
+Company no. 07051316	Company no. 14541190
+VAT no. GB984261005	VAT no. GB434853832
+No.	Description	Qty	Unit price	Net amount	VAT rate
+1	Monthly retainer for general legal advice	1	£592.24	£592.24	20%
+2	Advice on commercial lease	1	£9,205.70	£9,205.70	20%
+3	Attendance at regulatory meeting	1	£18,210.31	£18,210.31	20%
+Total net	VAT at 20%	Total payable
+£28,008.25	£5,601.65	£33,609.90
+Payment due by 25/10/2022. Please pay by bank transfer to GB59BARC20191861110697, quoting the invoice date as the reference.
+Queries about this invoice: hello@meridian.test, tel. +44 151 496 0638.
+This invoice is issued in accordance with section 6 of the Value Added Tax Act 1994. The domestic reverse charge does not apply to these services.
+Late payment interest and a fixed recovery sum are claimable under the Late Payment of Commercial Debts (Interest) Act 1998.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Sandra Scott, the person authorised to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Albert Graves.
+Albert Graves
+Meridian Ltd | 120 Lily Road, Sheffield S2 6EJ | Company No. 07051316 | VAT No. GB984261005 | tel. +44 151 496 0638
+Author: Albert Graves
+Subject: Invoice for legal services

@@ -1,0 +1,27 @@
+Cedar Point LLC
+332 North Drive, Portland, ME 04150 | EIN 46-5989066
+INVOICE
+Invoice date: December 2, 2022
+Date of supply: November 24, 2022
+Bill from	Bill to
+Cedar Point LLC	Harbour LLC
+332 North Drive, Portland, ME 04150	7911 Windsor Drive, Philadelphia, PA 19139
+EIN 46-5989066	EIN 82-3144094
+Phone (207) 555-0198	Phone (878) 555-0176
+Item	Service	Unit	Qty	Amount	Tax
+1	Services under engagement dated June 8, 2022	flat fee	1	$1,145.71	8.25%
+2	Preparation and negotiation of documents	flat fee	1	$1,153.58	8.25%
+3	Attendance at board meetings	flat fee	1	$931.70	8.25%
+Subtotal	Sales tax 8.25%	Total due
+$3,230.99	$266.56	$3,497.55
+Payment due by December 30, 2022. Please pay by bank transfer to Routing No. 258652242, Account No. 253680078, quoting the invoice date as the reference.
+Queries about this invoice: enquiries@cedarpoint.example.org, tel. (207) 555-0198.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Patricia Rodriguez, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Sarah Fernandez.
+Sarah Fernandez
+Cedar Point LLC | 332 North Drive, Portland, ME 04150 | EIN 46-5989066 | tel. (207) 555-0198
+Author: User
+Subject: Invoice for legal services

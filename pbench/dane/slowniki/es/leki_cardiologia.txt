@@ -1,0 +1,12 @@
+bisoprolol|1,25;2,5;5;10
+enalapril|5;10;20
+amlodipino|5;10
+furosemida|20;40;80
+espironolactona|25;50;100
+atorvastatina|10;20;40;80
+ácido acetilsalicílico|100
+acenocumarol|1;4
+digoxina|0,125;0,25
+amiodarona|200
+ivabradina|5;7,5
+dapagliflozina|10

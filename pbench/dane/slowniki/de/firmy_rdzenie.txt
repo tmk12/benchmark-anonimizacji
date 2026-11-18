@@ -1,0 +1,62 @@
+Adler
+Alpha Bau
+Atlas
+Berger & Söhne
+Bergmann
+Brandenburg
+Concordia
+Deutsche Handelskontor
+Eichenhof
+Elbe
+Fortuna
+Friedrich Maier
+Germania
+Hansa
+Holzbau Weber
+Isar
+Jäger Logistik
+Kaiser Consulting
+Lindner Technik
+Main-Rhein
+Nordsee
+Neckar
+Optimus
+Pfalz
+Quelle
+Rheinland
+Saxonia
+Schwarzwald
+Teutonia
+Union
+Vierlande
+Weser
+Westfalia
+Zentral
+Allgäu Käse
+Bayerische Brauerei
+Hanseatische Reederei
+Müller Elektrotechnik
+Schmidt Sanitär
+Steuerberatung Hoffmann
+Kanzlei Lehmann
+Ingenieurbüro Krause
+Autohaus Becker
+Bäckerei Schulze
+Immobilien Wagner
+Versicherungsmakler Fischer
+Metallbau Schröder
+Gebäudereinigung Klein
+Softwarehaus Neumann
+Medizintechnik Braun
+Verlag Zimmermann
+Energie Nord
+Stadtwerke Süd
+Wohnbau Mitte
+Agrar Ost
+Fahrzeugteile West
+Maschinenbau Rhein-Neckar
+Pharma Elbtal
+Spedition Oberland
+Gastronomie Altstadt
+Textil Franken
+Recycling Ruhr

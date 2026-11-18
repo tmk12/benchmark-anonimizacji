@@ -1,0 +1,27 @@
+Rewit sp. z o.o.
+ul. Wyspiańskiego 148, 45-018 Opole | NIP 6943580965
+FAKTURA VAT
+Data wystawienia: 10.11.2021 r.
+Data sprzedaży: 05.11.2021 r.
+Sprzedawca	Nabywca
+Rewit sp. z o.o.	Oborniki sp. z o.o.
+ul. Wyspiańskiego 148, 45-018 Opole	ul. Żeromskiego 134/98, 90-888 Łódź
+NIP: 6943580965	NIP: 9138708977
+REGON: 377511197	REGON: 167140467
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	17 443,64 zł	17 443,64 zł	23%
+2	Opinia prawna w sprawie umowy najmu	1	4 057,21 zł	4 057,21 zł	23%
+3	Reprezentacja przed organem administracji	1	923,22 zł	923,22 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+22 424,07 zł	5 157,54 zł	27 581,61 zł
+Termin płatności: 02.12.2021 r. Sposób zapłaty: przelew na rachunek PL84106444328498386779357255.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@rewit.test, tel. +48000561423.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Janowi Leśniakowi – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Bożena Przybylska.
+Bożena Przybylska
+Rewit sp. z o.o. | ul. Wyspiańskiego 148, 45-018 Opole | NIP 6943580965 | KRS 0000572937 | tel. +48000561423
+Autor: Użytkownik
+Temat: Faktura VAT

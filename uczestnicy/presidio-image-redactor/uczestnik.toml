@@ -1,0 +1,10 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). Microsoft Presidio Image Redactor (grupa B): OCR Tesseract +
+# analizator w konfiguracji `presidio-pl-ner`, prostokąty na obrazie strony; poziom plik, tylko skany PDF.
+# Ruling R37: każdy uczestnik biegnie na wszystkich 5 językach; języki oficjalne jak w `presidio-pl-ner` (model NER per język, Tesseract pol/eng/spa/deu/fra).
+poziomy = ["plik"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["pl", "en", "es", "de", "fr"]
+formaty = ["skan"]
+procesy = 2
+timeout_s = 900       # OCR 300 dpi + analiza strony; skany mają 1–3 strony
+start_timeout_s = 900

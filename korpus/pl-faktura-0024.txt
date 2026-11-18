@@ -1,0 +1,27 @@
+Vistula S.A.
+ul. Jagiellońska 87, 32-270 Bochnia | NIP 4267585356
+FAKTURA VAT
+Data wystawienia: 20 kwietnia 2023 r.
+Data sprzedaży: 11 kwietnia 2023 r.
+Sprzedawca	Nabywca
+Vistula S.A.	Oborniki sp. z o.o.
+ul. Jagiellońska 87, 32-270 Bochnia	ul. Marszałkowska 60/87, 87-741 Włocławek
+NIP: 4267585356	NIP: 1377104899
+REGON: 264335960	REGON: 120412008
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 13 sierpnia 2021 r.	ryczałt	1	796,68 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	11 587,47 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	17 668,60 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+30 052,75 zł	6 912,13 zł	36 964,88 zł
+Termin płatności: 8 maja 2023 r. Sposób zapłaty: przelew na rachunek PL74215573107288478024665605.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@vistula.test, tel. +48 000 676 825.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Barbarze Wilk – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Rafał Dąbrowski.
+Rafał Dąbrowski
+Vistula S.A. | ul. Jagiellońska 87, 32-270 Bochnia | NIP 4267585356 | KRS 0000368748 | tel. +48 000 676 825
+Autor: Użytkownik
+Temat: Faktura VAT

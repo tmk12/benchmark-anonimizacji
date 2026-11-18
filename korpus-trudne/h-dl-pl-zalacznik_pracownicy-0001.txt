@@ -1,0 +1,142 @@
+Załącznik nr 1 – wykaz pracowników objętych układem
+Dokument sporządzono w dniu 8 grudnia 2025 r. dla podmiotu Stal-Bud S.A.
+Lp.	Pracownik	PESEL	Stanowisko	Adres
+1	Łukasz Jabłoński	83052360593	referent	ul. Targowa 81/13, 46-646 Kluczbork
+2	Grzegorz Przybylski	–	specjalista	–
+3	Agnieszka Pawłowska	–	referentka	–
+4	Zenon Brzeziński	–	specjalista	–
+5	Elżbieta Bąk	–	technik	–
+6	Julian Kwiatkowski	–	specjalista	ul. Wolności 89, 41-191 Zabrze
+7	Bożena Kubiś	–	referentka	–
+8	Hanna Kosińska	43041486749	magazynierka	–
+9	Małgorzata Janik	–	referentka	–
+10	Małgorzata Lewandowska	51032571680	specjalistka	–
+11	Janina Sawicka	41060276901	kierowniczka zmiany	–
+12	Marian Nowak	–	kierownik zmiany	–
+13	Paweł Kowalski	–	magazynier	ul. Wolska 101/58, 41-185 Bytom
+14	Damian Kos	–	referent	ul. Emilii Plater 50, 90-975 Łódź
+15	Edyta Baran	90020380206	technik	ul. Marszałkowska 79A, 05-913 Pruszków
+16	Krzysztof Domański	88112468875	kierownik zmiany	–
+17	Jakub Wójcik	95070576876	referent	–
+18	Mirosław Michalski	–	księgowy	–
+19	Julian Jankowski	–	kierownik zmiany	–
+20	Bernard Zakrzewski	–	księgowy	–
+21	Maria Baran	–	magazynierka	–
+22	Oliwia Mazur	–	kierowniczka zmiany	–
+23	Albert Szymczak	–	księgowy	ul. Reymonta 129, 41-180 Ruda Śląska
+24	Czesława Pietrzyk	–	księgowa	ul. Świętokrzyska 39/77, 86-455 Świecie
+25	Artur Szymański	73122794632	referent	ul. Koszykowa 131/25, 30-598 Kraków
+26	Zdzisława Marek	74071323021	specjalistka	–
+27	Dominika Kwiatkowska	79032107483	księgowa	–
+28	Roman Pęcherski	–	referent	–
+29	Sławomir Madej	93101022033	księgowy	ul. Targowa 115, 26-823 Radom
+30	Konrad Włodarczyk	44041906877	technik	–
+31	Elżbieta Lewandowska	–	magazynierka	ul. Piękna 133, 50-785 Wrocław
+32	Radosław Piasecki	66030341850	referent	pl. Bankowy 82, 08-368 Siedlce
+33	Anna Przybylska	–	technik	ul. Legionów 106/1, 64-707 Piła
+34	Piotr Urban	–	kierownik zmiany	–
+35	Irena Sadowska	–	kierowniczka zmiany	–
+36	Lucyna Wróbel	–	magazynierka	–
+37	Justyna Kowalska	–	księgowa	–
+38	Michał Wrona	80100840492	kierownik zmiany	ul. Górna 148, 98-350 Wieluń
+39	Małgorzata Wójcik	–	referentka	–
+40	Nina Maciejewska	64022159102	referentka	–
+41	Jarosław Stępień	55082788274	księgowy	ul. Garbary 9/61, 95-182 Pabianice
+42	Klaudia Kalinowska	–	księgowa	–
+43	Jolanta Nowakowska	–	księgowa	–
+44	Barbara Duda	–	magazynierka	ul. Ogrodowa 42, 60-001 Poznań
+45	Aleksandra Skowrońska	58022706266	technik	–
+46	Janusz Szymański	–	kierownik zmiany	–
+47	Lidia Michalska	78081665346	księgowa	–
+48	Helena Mikołajczyk	–	specjalistka	–
+49	Justyna Wasiak	–	referentka	–
+50	Gabriel Grabowski	73092749995	technik	–
+51	Wiktor Stępień	–	kierownik zmiany	ul. Jesionowa 45, 33-795 Nowy Sącz
+52	Łukasz Stasiak	–	technik	ul. Emilii Plater 101/42, 60-038 Poznań
+53	Mieczysław Jaworski	–	specjalista	ul. Francuska 135, 63-037 Śrem
+54	Roman Drozd	63101403817	księgowy	pl. Wolności 137/30, 26-216 Radom
+55	Maria Jędrzejewska	79020854102	specjalistka	ul. Okólnik 143/39, 84-244 Hel
+56	Rafał Michalak	–	magazynier	ul. Piękna 79, 41-345 Świętochłowice
+57	Katarzyna Mróz	61020286960	magazynierka	–
+58	Celina Tkaczyk	–	księgowa	–
+59	Michał Włodarczyk	–	kierownik zmiany	–
+60	Katarzyna Wolak	69062126666	magazynierka	os. Słoneczne 47/33, 73-008 Stargard
+61	Dawid Adamczyk	–	kierownik zmiany	ul. Kopernika 144/16, 41-168 Siemianowice Śląskie
+62	Alicja Jabłońska	91030340769	magazynierka	ul. Wólczańska 17/112, 66-613 Gorzów Wielkopolski
+63	Halina Leśniak	55062139825	technik	–
+64	Stanisława Kruk	–	magazynierka	–
+65	Hubert Zawadzki	87042305436	magazynier	ul. Sienkiewicza 52/26, 85-308 Bydgoszcz
+66	Monika Ciesielska	–	księgowa	–
+67	Małgorzata Rybak	–	referentka	ul. Różana 53C/16, 72-766 Police
+68	Jan Frąckowiak	66072724574	technik	–
+69	Maksymilian Pietruszka	86042849379	magazynier	–
+70	Maciej Pawłowski	54082806179	technik	–
+71	Wiesław Kozieł	74062578917	magazynier	ul. Wolska 82/103, 41-022 Chorzów
+72	Jerzy Wiącek	52091270330	technik	–
+73	Sylwester Zaręba	–	referent	–
+74	Kinga Kamińska	–	specjalistka	–
+75	Oliwia Mróz	62070128280	referentka	–
+76	Jan Kowalski	63071867552	magazynier	–
+77	Sabina Cieślik	49051421329	referentka	–
+78	Piotr Nowak	50081644512	kierownik zmiany	ul. Zygmunta Augusta 91, 27-930 Starachowice
+79	Edyta Dąbrowska	–	magazynierka	–
+80	Izabela Kowalska	–	referentka	–
+81	Robert Szostak	–	kierownik zmiany	–
+82	Barbara Maliszewska	–	specjalistka	–
+83	Kamil Górka	47111956910	technik	–
+84	Lucyna Madej	79121571106	magazynierka	–
+85	Oskar Piotrowski	70111759498	księgowy	–
+86	Bogusława Górna	–	referentka	–
+87	Sylwia Pająk	–	kierowniczka zmiany	–
+88	Rościsław Szymański	61011028432	kierownik zmiany	ul. Armii Krajowej 21/88, 70-382 Szczecin
+89	Tymoteusz Nowak	–	referent	–
+90	Janina Kania	–	kierowniczka zmiany	–
+91	Renata Kowalczyk	–	specjalistka	–
+92	Stanisław Lewicki	44081949616	księgowy	ul. Świdnicka 130B/99, 48-697 Prudnik
+93	Wojciech Zając	78092647830	referent	–
+94	Nikola Walczak	83030964063	księgowa	–
+95	Józefa Zalewska	48010856161	technik	–
+96	Hubert Szymański	93102147351	magazynier	–
+97	Elżbieta Dąbrowska	–	specjalistka	–
+98	Felicja Grabowska	70082501623	specjalistka	–
+99	Agnieszka Borkowska	56122202242	kierowniczka zmiany	ul. Brzozowa 129, 83-786 Tczew
+100	Eugeniusz Wesołowski	56022853957	referent	–
+101	Marek Zdunek	–	technik	ul. Łąkowa 145, 66-050 Gorzów Wielkopolski
+102	Ewa Konieczna	–	księgowa	–
+103	Regina Rutkowska	71091731649	księgowa	–
+104	Anna Michalczyk	–	magazynierka	–
+105	Elżbieta Zielińska	–	kierowniczka zmiany	–
+106	Leszek Tomaszewski	78120705053	specjalista	–
+107	Marcin Wiśniewski	–	referent	–
+108	Henryk Wójcik	–	kierownik zmiany	–
+109	Tomasz Szymański	–	kierownik zmiany	–
+110	Igor Dolny	43121837911	magazynier	–
+111	Jadwiga Pietrzak	50101384501	kierowniczka zmiany	–
+112	Tomasz Sawicki	96102609456	technik	al. Piastów 89, 44-571 Jastrzębie-Zdrój
+113	Kazimierz Górski	69032660619	kierownik zmiany	ul. Hoża 68, 20-511 Lublin
+114	Franciszek Baranowski	42091199957	specjalista	ul. Jana Pawła II 11/59, 41-247 Chorzów
+115	Robert Szymczak	–	specjalista	–
+116	Adrian Dudek	87051917039	technik	–
+117	Henryk Lis	–	magazynier	ul. Pokoju 19/78, 26-928 Skarżysko-Kamienna
+118	Tomasz Baran	96030180151	magazynier	ul. Puławska 98/75, 88-615 Inowrocław
+119	Ewa Sadowska	85012858760	magazynierka	–
+120	Jolanta Siwiec	75112473286	referentka	–
+121	Bogusława Lewandowska	–	technik	ul. Targowa 7/12, 64-931 Leszno
+122	Edward Czarnecki	82061228498	referent	ul. Wilcza 12/91, 41-846 Sosnowiec
+123	Stanisława Czaja	–	kierowniczka zmiany	ul. Żelazna 96, 41-755 Zabrze
+124	Lucyna Adamczyk	56081323868	referentka	–
+125	Leon Woźniak	52061549918	księgowy	–
+126	Zuzanna Michalak	–	specjalistka	–
+127	Maciej Filipek	–	kierownik zmiany	ul. Dłubniaka 65, 44-140 Jastrzębie-Zdrój
+128	Adam Lewandowski	46050455612	referent	–
+129	Felicja Wrona	95091432348	księgowa	–
+130	Irena Lis	–	referentka	–
+131	Maja Bogusz	–	specjalistka	ul. Norwida 47, 70-467 Szczecin
+132	Nikodem Rak	–	kierownik zmiany	–
+133	Elżbieta Milczarek	–	księgowa	–
+134	Marek Król	45052498656	referent	ul. Kościuszki 36A, 50-069 Wrocław
+135	Małgorzata Kozieł	52091229884	referentka	–
+136	Robert Kowalczyk	56041655439	specjalista	–
+137	Mateusz Lech	–	magazynier	–
+138	Małgorzata Witkowska	–	referentka	–
+Listę sporządził i zatwierdził Stanisława Czaja.

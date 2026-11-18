@@ -1,0 +1,27 @@
+Gamma sp. z o.o.
+al. Róż 10, 84-781 Wejherowo | NIP 7101676694
+FAKTURA VAT
+Data wystawienia: 11.03.2022 r.
+Data sprzedaży: 04.03.2022 r.
+Sprzedawca	Nabywca
+Gamma sp. z o.o.	Transport Express sp. z o.o.
+al. Róż 10, 84-781 Wejherowo	ul. Chopina 51/118, 32-292 Wieliczka
+NIP: 7101676694	NIP: 3995999255
+REGON: 409183573	REGON: 187109281
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 17.08.2021 r.	ryczałt	1	5 746,84 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	2 566,39 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	7 176,44 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+15 489,67 zł	3 562,62 zł	19 052,29 zł
+Termin płatności: 11.04.2022 r. Sposób zapłaty: przelew na rachunek PL46213934558742128267735330.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@gamma.test, tel. +48 000 901 386.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Markowi Czarneckiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Marta Król.
+Marta Król
+Gamma sp. z o.o. | al. Róż 10, 84-781 Wejherowo | NIP 7101676694 | KRS 0000441688 | tel. +48 000 901 386
+Autor: Marta Król
+Temat: Faktura VAT

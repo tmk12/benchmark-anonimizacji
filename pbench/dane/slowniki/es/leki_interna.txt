@@ -1,0 +1,16 @@
+metformina|500;850;1000
+gliclazida|30;60;80
+sitagliptina|50;100
+empagliflozina|10;25
+omeprazol|20;40
+paracetamol|500;650;1000
+ibuprofeno|400;600
+enalapril|5;10;20
+amlodipino|5;10
+atorvastatina|10;20;40;80
+alopurinol|100;300
+furosemida|20;40
+prednisona|5;10;30
+amoxicilina|500;875
+sertralina|50;100
+lorazepam|1;2,5

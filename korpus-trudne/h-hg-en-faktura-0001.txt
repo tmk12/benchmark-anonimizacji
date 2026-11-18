@@ -1,0 +1,45 @@
+Unity Corp.
+7432 East Drive, Albany, NY 12242 | EIN 95-9276884
+INVOICE
+Invoice date: January 30, 2025
+Date of supply: January 29, 2025
+Bill from: Unity Corp.
+Bill to: Sterling LLC
+Bill from: 7432 East Drive, Albany, NY 12242
+Bill to: 8498 Devon Lane, Rochester, NY 14696
+Bill from: EIN 95-9276884
+Bill to: EIN 33-1648124
+Bill from: Phone +1 585-555-0103
+Bill to: Phone +1 607-555-0157
+Item: 1
+Service: Services under engagement dated June 22, 2023
+Unit: flat fee
+Qty: 1
+Amount: $544.44
+Tax: 8.25%
+Item: 2
+Service: Preparation and negotiation of documents
+Unit: flat fee
+Qty: 1
+Amount: $522.75
+Tax: 8.25%
+Item: 3
+Service: Attendance at board meetings
+Unit: flat fee
+Qty: 1
+Amount: $1,422.08
+Tax: 8.25%
+Subtotal: $2,489.27
+Sales tax 8.25%: $205.36
+Total due: $2,694.63
+Payment due by February 21, 2025. Please pay by bank transfer to Routing No. 265760512, Account No. 70562231294, quoting the invoice date as the reference.
+Queries about this invoice: hello@unity.test, tel. +1 585-555-0103.
+Sales tax is charged where applicable under state law. Please retain this invoice for your records; a Form W-9 is available on request.
+Balances unpaid after thirty days accrue a late charge of 1.5% per month.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Julia Garner, the person authorized to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Denisе Nguуen.
+Denise Nguyen
+Unity Corp. | 7432 East Drive, Albany, NY 12242 | EIN 95-9276884 | tel. +1 585-555-0103
+Author: Denise Nguyen
+Subject: Invoice for legal services

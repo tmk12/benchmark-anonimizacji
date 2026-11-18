@@ -1,0 +1,27 @@
+Ehrlich & Haupt Rechtsanwälte PartG mbB
+Veilchenweg 102, 50990 Köln | Steuernummer 82/950/51380 | USt-IdNr. DE769804788
+RECHNUNG Nr. R-569
+Rechnungsdatum: 19.04.2023
+Leistungszeitpunkt: 13.04.2023
+Rechnungsaussteller	Rechnungsempfänger
+Ehrlich & Haupt Rechtsanwälte PartG mbB	Medizintechnik Braun KG
+Veilchenweg 102, 50990 Köln	Tannenweg 178a, 50433 Köln
+USt-IdNr. DE769804788	USt-IdNr. DE133455871
+Tel. 0221 4710068	Tel. +49 221 4710068
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	843,98 EUR	843,98 EUR	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	1.657,87 EUR	1.657,87 EUR	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	9.484,06 EUR	9.484,06 EUR	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+11.985,91 EUR	2.277,32 EUR	14.263,23 EUR
+Zahlbar bis zum 08.05.2023 ohne Abzug durch Überweisung auf das Konto DE77500105177984485618 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an buero@ehrlichhaupt.example.org, Tel. 0221 4710068.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Michael Schreiber als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Christina Fischer.
+Christina Fischer
+Ehrlich & Haupt Rechtsanwälte PartG mbB | Veilchenweg 102, 50990 Köln | USt-IdNr. DE769804788 | Tel. 0221 4710068
+Autor: Benutzer
+Betreff: Rechnung für Rechtsberatung

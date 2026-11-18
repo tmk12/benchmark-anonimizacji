@@ -1,0 +1,48 @@
+SELARL Martin-Berger Avocats
+57 rue du 11 Novembre, 49988 Angers | SIREN 947466488 | TVA intracommunautaire FR37947466488
+FACTURE N° F-301
+Date d'émission : 21/09/2026
+Date de la prestation : 18/09/2026
+Émetteur: SELARL Martin-Berger Avocats
+Client: Atlas SARL
+Émetteur: 57 rue du 11 Novembre, 49988 Angers
+Client: 117 rue de Passy, 49665 Angers
+Émetteur: SIREN 947466488
+Client: SIREN 997916630
+Émetteur: TVA intracommunautaire FR37947466488
+Client: TVA intracommunautaire FR05997916630
+Émetteur: Tél. +33 2 61 91 74 90
+Client: Tél. +33 2 61 91 12 91
+Réf.: 1
+Désignation: Conseil selon la convention du 04/04/2025
+Unité: forfait
+Quantité: 1
+Total HT: 4 053,92 €
+TVA: 20 %
+Réf.: 2
+Désignation: Rédaction et négociation d'actes
+Unité: forfait
+Quantité: 1
+Total HT: 9 601,74 €
+TVA: 20 %
+Réf.: 3
+Désignation: Assistance à des assemblées d'associés
+Unité: forfait
+Quantité: 1
+Total HT: 1 132,22 €
+TVA: 20 %
+Total HT: 14 787,88 €
+TVA 20 %: 2 957,58 €
+Total TTC: 17 745,46 €
+Échéance de paiement : 08/10/2026, par virement sur le compte FR7630027252730270431641815 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : info.martinbergeravocats@example.com, tél. +33 2 61 91 74 90.
+Mentions légales : SELARL Martin-Berger Avocats, société d'exercice libéral à responsabilité limitée au capital de 6 880,00 €, RCS Angers 947466488, TVA intracommunautaire FR37947466488.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Typhaine Bernard, habilitée à recevoir les documents comptables du client.
+Établie et vérifiée par Jean-Pierre Durand.
+Jean-Pierre Durand
+SELARL Martin-Berger Avocats | 57 rue du 11 Novembre, 49988 Angers | SIREN 947466488 | TVA intracommunautaire FR37947466488 | Tél. +33 2 61 91 74 90
+Auteur: Jean-Pierre Durand
+Objet: Facture d'honoraires

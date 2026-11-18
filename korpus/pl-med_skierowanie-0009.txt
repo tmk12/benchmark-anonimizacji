@@ -1,0 +1,22 @@
+Bałtyk Centrum Medyczne sp. z o.o.
+ul. Krakowskie Przedmieście 121/66, 40-299 Katowice | tel. +48 000 140 445 | REGON 088217834
+Katowice, dnia 05.10.2021 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 13.10.2021 r.
+Dane pacjentki: Zdzisława Zawadzka, PESEL 56110766387, data urodzenia 07.11.1956 r.
+Adres: ul. Generała Andersa 2B, 76-886 Słupsk, tel. +48 000 910 166
+Skierowuję Zdzisławę Zawadzką do szpitala: Szpital Powiatowy Hortus sp. z o.o., ul. Kwiatowa 131/74, 30-919 Kraków, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): N18.3 Przewlekła choroba nerek stadium 3
+Rozpoznanie dodatkowe: E66.9 Otyłość nieokreślona
+Dotychczasowe leczenie: omeprazol 40 mg – bez wystarczającej poprawy; prednizon 20 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjentka powinna zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 596 851, e-mail office@hortus.example.org; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjentka została poinformowana o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Marta Sobolewska, nr PWZ 1877920
+Miejsce pieczęci imiennej i podpisu
+Marta Sobolewska
+Bałtyk Centrum Medyczne sp. z o.o. | ul. Krakowskie Przedmieście 121/66, 40-299 Katowice | tel. +48 000 140 445 | biuro@baltyk.test
+Autor: Marta Sobolewska
+Temat: Skierowanie na leczenie szpitalne

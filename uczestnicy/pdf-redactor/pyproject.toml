@@ -1,0 +1,38 @@
+[project]
+name = "uczestnik-pdf-redactor"
+version = "0.1.0"
+description = "Uczestnik benchmarku: pdf-redactor (JoshData, warstwa tekstu PDF) z wyrażeniami regularnymi z wykryć presidio-pl-ner"
+requires-python = "==3.12.*"
+dependencies = [
+    "pdf-redactor",
+    "pdfrw==0.4",
+    "defusedxml==0.7.1",
+    "pikepdf==10.17.0",
+    "pypdfium2==5.14.0",
+    "presidio-analyzer==2.2.366",
+    "spacy==3.8.18",
+    "spacy-huggingface-pipelines==0.0.4",
+    "transformers==4.57.6",
+    "torch==2.15.0",
+    "sentencepiece==0.2.2",
+    "protobuf==7.36.2",
+    "pl_core_news_lg",
+    "en_core_web_lg",
+    "es_core_news_lg",
+    "de_core_news_lg",
+    "fr_core_news_lg",
+]
+
+[tool.uv.sources]
+pdf-redactor = { git = "https://github.com/JoshData/pdf-redactor", rev = "12ad5c68ab4174ccf579d43be005ac90b28d7d5f" }
+torch = { index = "pytorch-cpu" }
+pl_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/pl_core_news_lg-3.8.0/pl_core_news_lg-3.8.0-py3-none-any.whl" }
+en_core_web_lg = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl" }
+es_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.8.0/es_core_news_lg-3.8.0-py3-none-any.whl" }
+de_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.8.0/de_core_news_lg-3.8.0-py3-none-any.whl" }
+fr_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/fr_core_news_lg-3.8.0/fr_core_news_lg-3.8.0-py3-none-any.whl" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

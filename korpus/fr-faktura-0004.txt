@@ -1,0 +1,48 @@
+SELARL Dubois & Jean Avocats
+27 avenue de la Grande Armée, 73903 Chambéry | SIREN 355620535 | TVA intracommunautaire FR36355620535
+FACTURE N° F-69
+Date d'émission : 27/01/2023
+Date de la prestation : 24/01/2023
+Émetteur: SELARL Dubois & Jean Avocats
+Client: Gascogne SAS
+Émetteur: 27 avenue de la Grande Armée, 73903 Chambéry
+Client: 2 avenue de Provence, 73008 Chambéry
+Émetteur: SIREN 355620535
+Client: SIREN 969907187
+Émetteur: TVA intracommunautaire FR36355620535
+Client: TVA intracommunautaire FR60969907187
+Émetteur: Tél. +33465714109
+Client: Tél. 04 65 71 02 75
+Réf.: 1
+Désignation: Forfait de conseil juridique récurrent
+Quantité: 1
+Prix unitaire HT: 14 177,98 €
+Total HT: 14 177,98 €
+TVA: 20 %
+Réf.: 2
+Désignation: Revue d'un bail commercial
+Quantité: 1
+Prix unitaire HT: 647,29 €
+Total HT: 647,29 €
+TVA: 20 %
+Réf.: 3
+Désignation: Assistance à une réunion avec l'administration
+Quantité: 1
+Prix unitaire HT: 937,97 €
+Total HT: 937,97 €
+TVA: 20 %
+Total HT: 15 763,24 €
+TVA 20 %: 3 152,65 €
+Total TTC: 18 915,89 €
+Échéance de paiement : 15/02/2023, par virement sur le compte FR7610278967898540909993365 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : info.duboisjeanavocats@example.com, tél. +33465714109.
+Mentions légales : SELARL Dubois & Jean Avocats, société d'exercice libéral à responsabilité limitée au capital de 2 890,00 €, RCS Chambéry 355620535, TVA intracommunautaire FR36355620535.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+La facture a été envoyée par courriel à Nicolas Michel, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Thierry Thomas.
+Thierry Thomas
+SELARL Dubois & Jean Avocats | 27 avenue de la Grande Armée, 73903 Chambéry | SIREN 355620535 | TVA intracommunautaire FR36355620535 | Tél. +33465714109
+Auteur: Thierry Thomas
+Objet: Facture d'honoraires

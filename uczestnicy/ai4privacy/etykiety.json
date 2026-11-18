@@ -1,0 +1,22 @@
+{
+  "GIVENNAME": ["OSOBA"],
+  "SURNAME": ["OSOBA"],
+  "TITLE": [],
+  "SEX": [],
+  "GENDER": [],
+  "AGE": [],
+  "CITY": ["MIEJSCOWOSC", "MIEJSCE_UR"],
+  "STREET": ["ADRES"],
+  "BUILDINGNUM": ["ADRES"],
+  "ZIPCODE": ["KOD_POCZTOWY"],
+  "DATE": ["DATA", "DATA_UR"],
+  "TIME": [],
+  "EMAIL": ["EMAIL"],
+  "TELEPHONENUM": ["TELEFON"],
+  "CREDITCARDNUMBER": ["KARTA"],
+  "SOCIALNUM": ["SSN", "NINO", "NUSS", "SVNR", "NIR"],
+  "IDCARDNUM": ["DOWOD", "DNI"],
+  "PASSPORTNUM": ["PASZPORT"],
+  "DRIVERLICENSENUM": ["PRAWO_JAZDY"],
+  "TAXNUM": ["NIP", "NR_PODATKOWY", "EIN"]
+}

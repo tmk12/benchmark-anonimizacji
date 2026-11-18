@@ -1,0 +1,20 @@
+J18.9 Pneumopathie, sans précision
+J44.1 Bronchopneumopathie chronique obstructive avec épisode aigu, sans précision
+K21.0 Reflux gastro-œsophagien avec œsophagite
+K25.3 Ulcère de l'estomac aigu, sans hémorragie ni perforation
+K29.1 Autres gastrites aiguës
+K57.3 Diverticulose du côlon, sans perforation ni abcès
+K76.0 Dégénérescence graisseuse du foie, non classée ailleurs
+K92.2 Hémorragie gastro-intestinale, sans précision
+N17.9 Insuffisance rénale aiguë, sans précision
+N18.3 Maladie rénale chronique de stade 3
+N39.0 Infection des voies urinaires, siège non précisé
+D50.9 Anémie par carence en fer, sans précision
+E11.9 Diabète sucré de type 2 sans complication
+E87.1 Hypo-osmolarité et hyponatrémie
+I10 Hypertension essentielle (primitive)
+E78.2 Hyperlipidémie mixte
+M10.9 Goutte, sans précision
+R55 Syncope et collapsus
+A46 Érysipèle
+E66.9 Obésité, sans précision

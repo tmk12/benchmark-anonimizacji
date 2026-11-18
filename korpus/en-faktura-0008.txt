@@ -1,0 +1,27 @@
+Juniper Ltd
+81 Jefferson Drive, Peterborough PE3 7DR | VAT Reg. No. GB374449720
+VAT INVOICE
+Invoice date: 29/08/2024
+Date of supply: 21/08/2024
+From	To
+Juniper Ltd	Dunmore Limited
+81 Jefferson Drive, Peterborough PE3 7DR	49 Main Lane, Birmingham B2 6UA
+Company no. 14812196	Company no. 05862262
+VAT no. GB374449720	VAT no. GB424600192
+No.	Service	Unit	Qty	Net amount	VAT rate
+1	Services under agreement dated 07/10/2022	lump sum	1	£17,846.24	20%
+2	Drafting and negotiation of documents	lump sum	1	£18,289.65	20%
+3	Attendance at board meetings	lump sum	1	£1,185.42	20%
+Total net	VAT at 20%	Total payable
+£37,321.31	£7,464.26	£44,785.57
+Payment due by 19/09/2024. Please pay by bank transfer to GB20CPBK08961917092973, quoting the invoice date as the reference.
+Queries about this invoice: office@juniper.test, tel. 0161 496 0080.
+This invoice is issued in accordance with section 6 of the Value Added Tax Act 1994. The domestic reverse charge does not apply to these services.
+Late payment interest and a fixed recovery sum are claimable under the Late Payment of Commercial Debts (Interest) Act 1998.
+This invoice is issued electronically and is valid without a signature.
+The invoice was sent electronically to Joan Perkins, the person authorised to receive accounting documents on behalf of the buyer.
+Prepared and checked for accuracy by Alexis Reed.
+Alexis Reed
+Juniper Ltd | 81 Jefferson Drive, Peterborough PE3 7DR | Company No. 14812196 | VAT No. GB374449720 | tel. 0161 496 0080
+Author: User
+Subject: Invoice for legal services

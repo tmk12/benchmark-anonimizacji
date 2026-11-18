@@ -1,0 +1,45 @@
+Zielone Technologie sp.j.
+ul. Cicha 133/100, 08-689 Siedlce | NIP 7203865619
+FAKTURA VAT
+Data wystawienia: 22.01.2021 r.
+Data sprzedaży: 12.01.2021 r.
+Sprzedawca: Zielone Technologie sp.j.
+Nabywca: Bałtyk sp. z o.o.
+Sprzedawca: ul. Cicha 133/100, 08-689 Siedlce
+Nabywca: pl. Unii Lubelskiej 57, 60-929 Poznań
+Sprzedawca: NIP: 7203865619
+Nabywca: NIP: 5883847908
+Sprzedawca: REGON: 427887490
+Nabywca: REGON: 294386810
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 26.08.2020 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 1 204,42 PLN
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 1 691,27 PLN
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 1 920,52 PLN
+Stawka VAT: 23%
+Razem netto: 4 816,21 PLN
+Podatek VAT 23%: 1 107,73 PLN
+Razem do zapłaty (brutto): 5 923,94 PLN
+Termin płatności: 19.02.2021 r. Sposób zapłaty: przelew na rachunek PL79187727686871027951016522.
+Adres e-mail do przesyłania potwierdzeń płatności: info@zielonetechnologie.example.net, tel. 000 712 428.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Aleksandrze Ostrowskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Genowefa Krupa.
+Genowefa Krupa
+Zielone Technologie sp.j. | ul. Cicha 133/100, 08-689 Siedlce | NIP 7203865619 | KRS 0000579665 | tel. 000 712 428
+Autor: Genowefa Krupa
+Temat: Faktura VAT

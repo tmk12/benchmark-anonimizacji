@@ -1,0 +1,30 @@
+SELARL Michel Avocats
+184 rue de la République, 80206 Amiens | SIREN 998253835 | TVA intracommunautaire FR07998253835
+FACTURE N° F-539
+Date d'émission : 27/12/2023
+Date de la prestation : 22/12/2023
+Émetteur	Client
+SELARL Michel Avocats	Horizon SNC
+184 rue de la République, 80206 Amiens	22 rue Racine, 80734 Amiens
+SIREN 998253835	SIREN 721873065
+TVA intracommunautaire FR07998253835	TVA intracommunautaire FR20721873065
+Tél. 03 53 01 67 36	Tél. +33353014317
+Réf.	Désignation	Quantité	Prix unitaire HT	Total HT	TVA
+1	Forfait de conseil juridique récurrent	1	988,39 EUR	988,39 EUR	20 %
+2	Revue d'un bail commercial	1	2 776,78 EUR	2 776,78 EUR	20 %
+3	Assistance à une réunion avec l'administration	1	10 596,77 EUR	10 596,77 EUR	20 %
+Total HT	TVA 20 %	Total TTC
+14 361,94 EUR	2 872,39 EUR	17 234,33 EUR
+Échéance de paiement : 22/01/2024, par virement sur le compte FR7640618466122186202156407 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : accueil@michelavocats.example.net, tél. 03 53 01 67 36.
+Mentions légales : SELARL Michel Avocats, société d'exercice libéral à responsabilité limitée au capital de 6 220,00 EUR, RCS Amiens 998253835, TVA intracommunautaire FR07998253835.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Catherine Rigal, habilitée à recevoir les documents comptables du client.
+Établie et vérifiée par Sylvie Guerin.
+Sylvie Guerin
+SELARL Michel Avocats | 184 rue de la République, 80206 Amiens | SIREN 998253835 | TVA intracommunautaire FR07998253835 | Tél. 03 53 01 67 36
+Auteur: Utilisateur
+Objet: Facture d'honoraires

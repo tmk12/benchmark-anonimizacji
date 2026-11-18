@@ -1,0 +1,27 @@
+Specjalistyczne Centrum Medyczne Mazovia sp. z o.o.
+ul. Curie-Skłodowskiej 50/53, 84-590 Wejherowo | REGON 063986325 | tel. 000 385 894
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjentka: Genowefa Duda, PESEL 54032067580, data urodzenia 20 marca 1954 r.
+Adres zamieszkania: ul. Okólnik 100/71, 76-084 Słupsk, tel. 000 892 405
+Data przyjęcia: 15 stycznia 2021 r. Data wypisu: 26 stycznia 2021 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: I10 Samoistne nadciśnienie tętnicze
+Rozpoznania współistniejące: E66.9 Otyłość nieokreślona; I48 Migotanie i trzepotanie przedsionków
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: spironolakton 25 mg – według schematu ustalonego w poradni; losartan 50 mg – raz dziennie rano; apiksaban 2,5 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 24 lutego 2021 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 15 lutego 2021 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Genowefie Dudzie w dniu wypisu; za zgodą pacjentki informacje o stanie zdrowia mogą być udzielane Agnieszkiej Figurze, tel. +48000667305.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjentka została pouczona o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Kamil Koza, nr PWZ 3139195
+Ordynator oddziału: Mieczysław Różański, nr PWZ 6302380
+Kamil Koza
+Mieczysław Różański
+Specjalistyczne Centrum Medyczne Mazovia sp. z o.o. | ul. Curie-Skłodowskiej 50/53, 84-590 Wejherowo | tel. 000 385 894 | info@mazovia.example.net
+Autor: Kamil Koza
+Temat: Karta informacyjna leczenia szpitalnego

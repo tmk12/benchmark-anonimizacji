@@ -1,0 +1,27 @@
+Kaskada sp. z o.o.
+ul. Długa 36/10, 84-470 Hel | NIP 6155857862
+FAKTURA VAT
+Data wystawienia: 2 lutego 2023 r.
+Data sprzedaży: 25 stycznia 2023 r.
+Sprzedawca	Nabywca
+Kaskada sp. z o.o.	Eko-Serwis sp. z o.o.
+ul. Długa 36/10, 84-470 Hel	ul. Brzozowa 77, 26-101 Radom
+NIP: 6155857862	NIP: 8064233476
+REGON: 399481390	REGON: 236694215
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 11 czerwca 2021 r.	ryczałt	1	4 993,81 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	12 768,13 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	3 078,26 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+20 840,20 zł	4 793,25 zł	25 633,45 zł
+Termin płatności: 20 lutego 2023 r. Sposób zapłaty: przelew na rachunek PL20113446101592150533115862.
+Adres e-mail do przesyłania potwierdzeń płatności: info@kaskada.example.net, tel. 000 122 301.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Andrzejowi Urbańskiemu – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Diana Wróbel.
+Diana Wróbel
+Kaskada sp. z o.o. | ul. Długa 36/10, 84-470 Hel | NIP 6155857862 | KRS 0000779805 | tel. 000 122 301
+Autor: Użytkownik
+Temat: Faktura VAT

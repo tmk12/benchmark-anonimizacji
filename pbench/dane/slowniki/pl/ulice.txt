@@ -1,0 +1,214 @@
+ul. Marszałkowska
+ul. Długa
+ul. Krótka
+ul. Piękna
+ul. Świętokrzyska
+ul. Nowy Świat
+ul. Krakowskie Przedmieście
+ul. Puławska
+ul. Okólnik
+ul. Wolska
+ul. Grójecka
+ul. Chłodna
+ul. Żelazna
+ul. Złota
+ul. Prosta
+ul. Emilii Plater
+ul. Targowa
+ul. Ząbkowska
+ul. Francuska
+ul. Mokotowska
+ul. Wilcza
+ul. Hoża
+ul. Koszykowa
+ul. Nowogrodzka
+ul. Jana Pawła II
+ul. Kościuszki
+ul. Mickiewicza
+ul. Słowackiego
+ul. Piłsudskiego
+ul. Sienkiewicza
+ul. Prusa
+ul. Reymonta
+ul. Kopernika
+ul. Chopina
+ul. Moniuszki
+ul. Curie-Skłodowskiej
+ul. Konopnickiej
+ul. Orzeszkowej
+ul. Żeromskiego
+ul. Wyspiańskiego
+ul. Kasprowicza
+ul. Norwida
+ul. Staszica
+ul. Lelewela
+ul. Dąbrowskiego
+ul. Traugutta
+ul. Sobieskiego
+ul. Batorego
+ul. Chrobrego
+ul. Kazimierza Wielkiego
+ul. Jagiellońska
+ul. Zygmunta Augusta
+ul. Władysława Jagiełły
+ul. Stefana Czarnieckiego
+ul. Armii Krajowej
+ul. Wojska Polskiego
+ul. Powstańców Śląskich
+ul. Powstańców Warszawy
+ul. Bohaterów Getta
+ul. 1 Maja
+ul. 3 Maja
+ul. 11 Listopada
+ul. 22 Lipca
+ul. Rzemieślnicza
+ul. Fabryczna
+ul. Kolejowa
+ul. Dworcowa
+ul. Szkolna
+ul. Parkowa
+ul. Ogrodowa
+ul. Leśna
+ul. Polna
+ul. Łąkowa
+ul. Słoneczna
+ul. Kwiatowa
+ul. Spacerowa
+ul. Lipowa
+ul. Brzozowa
+ul. Dębowa
+ul. Sosnowa
+ul. Wiśniowa
+ul. Jabłoniowa
+ul. Różana
+ul. Akacjowa
+ul. Klonowa
+ul. Jesionowa
+ul. Topolowa
+ul. Wierzbowa
+ul. Cicha
+ul. Spokojna
+ul. Wesoła
+ul. Zacisze
+ul. Widokowa
+ul. Górna
+ul. Dolna
+ul. Wschodnia
+ul. Zachodnia
+ul. Północna
+ul. Południowa
+ul. Rynek
+ul. Ratuszowa
+ul. Kościelna
+ul. Klasztorna
+ul. Cmentarna
+ul. Szpitalna
+ul. Sądowa
+ul. Pocztowa
+ul. Handlowa
+ul. Młyńska
+ul. Browarna
+ul. Garbary
+ul. Stolarska
+ul. Kowalska
+ul. Rybacka
+ul. Mostowa
+ul. Nadbrzeżna
+ul. Wałowa
+ul. Podwale
+ul. Grodzka
+ul. Floriańska
+ul. Szewska
+ul. Karmelicka
+ul. Dietla
+ul. Starowiślna
+ul. Dłubniaka
+ul. Piotrkowska
+ul. Narutowicza
+ul. Pomorska
+ul. Wólczańska
+ul. Zgierska
+ul. Kilińskiego
+ul. Legionów
+ul. Tuwima
+ul. Rewolucji 1905 r.
+ul. Świdnicka
+ul. Grabiszyńska
+ul. Legnicka
+ul. Ostrowska
+ul. Paderewskiego
+ul. Półwiejska
+ul. Głogowska
+ul. Grunwaldzka
+ul. Kartuska
+ul. Długie Ogrody
+ul. Chmielna
+ul. Rajska
+ul. Wały Jagiellońskie
+ul. Podwale Staromiejskie
+ul. Starowiejska
+ul. Świętojańska
+ul. Morska
+ul. Aleja Jana Pawła II
+ul. Bohaterów Warszawy
+ul. Gdańska
+ul. Toruńska
+ul. Bydgoska
+ul. Warszawska
+ul. Krakowska
+ul. Poznańska
+ul. Wrocławska
+ul. Lubelska
+ul. Katowicka
+ul. Częstochowska
+ul. Opolska
+ul. Szczecińska
+ul. Rzeszowska
+ul. Białostocka
+ul. Kielecka
+ul. Olsztyńska
+ul. Gliwicka
+ul. Chorzowska
+ul. Bytomska
+ul. Mikołowska
+ul. Tysiąclecia
+ul. Wyzwolenia
+ul. Pokoju
+ul. Wolności
+ul. Niepodległości
+ul. Zwycięstwa
+ul. Jedności Narodowej
+ul. Solidarności
+ul. Konstytucji 3 Maja
+ul. Księcia Józefa Poniatowskiego
+ul. Generała Andersa
+ul. Generała Sikorskiego
+ul. Marii Konopnickiej
+ul. Ks. Piotra Skargi
+ul. Św. Wawrzyńca
+al. Jerozolimskie
+al. Ujazdowskie
+al. Niepodległości
+al. Solidarności
+al. Jana Pawła II
+al. Armii Ludowej
+al. Róż
+al. Wojska Polskiego
+al. Mickiewicza
+al. Piastów
+al. Lipowa
+al. Kasztanowa
+pl. Zbawiciela
+pl. Konstytucji
+pl. Trzech Krzyży
+pl. Unii Lubelskiej
+pl. Wolności
+pl. Defilad
+pl. Bankowy
+pl. Grunwaldzki
+pl. Powstańców Warszawy
+os. Słoneczne
+os. Młodych
+os. Piastów
+os. Armii Krajowej
+os. Zielone

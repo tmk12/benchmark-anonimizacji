@@ -1,0 +1,21 @@
+[project]
+name = "uczestnik-presidio-spacy"
+version = "0.1.0"
+description = "Uczestnik benchmarku: Microsoft Presidio + spaCy (konfiguracja domyślna autorów, 5 języków)"
+requires-python = "==3.12.*"
+dependencies = [
+    "presidio-analyzer==2.2.366",
+    "spacy==3.8.18",
+    "pl_core_news_lg",
+    "en_core_web_lg",
+    "es_core_news_lg",
+    "de_core_news_lg",
+    "fr_core_news_lg",
+]
+
+[tool.uv.sources]
+pl_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/pl_core_news_lg-3.8.0/pl_core_news_lg-3.8.0-py3-none-any.whl" }
+en_core_web_lg = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl" }
+es_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.8.0/es_core_news_lg-3.8.0-py3-none-any.whl" }
+de_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.8.0/de_core_news_lg-3.8.0-py3-none-any.whl" }
+fr_core_news_lg = { url = "https://github.com/explosion/spacy-models/releases/download/fr_core_news_lg-3.8.0/fr_core_news_lg-3.8.0-py3-none-any.whl" }

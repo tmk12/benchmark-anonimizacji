@@ -1,0 +1,22 @@
+Szpital Powiatowy Bałtyk S.A.
+ul. Leśna 26/49, 43-925 Jaworzno | tel. 000 581 647 | REGON 489081637
+Jaworzno, dnia 30.01.2026 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 12.02.2026 r.
+Dane pacjentki: Wanda Łukasik, PESEL 56040567100, data urodzenia 05.04.1956 r.
+Adres: ul. Targowa 125/26, 97-772 Bełchatów, tel. +48 000 232 254
+Skierowuję Wandę Łukasik do szpitala: Specjalistyczne Centrum Medyczne Sigma S.A., ul. Żelazna 39, 07-256 Ostrołęka, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): J45.0 Astma oskrzelowa z przewagą mechanizmu alergicznego
+Rozpoznanie dodatkowe: I10 Samoistne nadciśnienie tętnicze
+Dotychczasowe leczenie: losartan 100 mg – bez wystarczającej poprawy; omeprazol 40 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjentka powinna zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 009 978, e-mail info@sigma.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjentka została poinformowana o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Kazimierz Borys, nr PWZ 8712214
+Miejsce pieczęci imiennej i podpisu
+Kazimierz Borys
+Szpital Powiatowy Bałtyk S.A. | ul. Leśna 26/49, 43-925 Jaworzno | tel. 000 581 647 | kontakt.baltyk@example.com
+Autor: Użytkownik
+Temat: Skierowanie na leczenie szpitalne

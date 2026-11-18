@@ -1,0 +1,48 @@
+Verzeichnis der empfangsberechtigten Personen
+Unternehmen: Berger & Söhne AG
+Dieses Verzeichnis wurde am 10. November 2021 erstellt. Die nachstehend genannten Personen sind zum Empfang von Korrespondenz berechtigt.
+Nr.: 1
+Nachname, Vorname: Ehrlich, Peter
+Steuer-ID: 24067531957
+Funktion: Projektleiter
+Nr.: 2
+Nachname, Vorname: NEUMANN, Klaus
+Steuer-ID: –
+Funktion: Projektleiter
+Nr.: 3
+Nachname, Vorname: Vogt, Jörg
+Steuer-ID: 37105948208
+Funktion: Geschäftsführer
+Nr.: 4
+Nachname, Vorname: Klein, Siegfried
+Steuer-ID: 68049752182
+Funktion: Projektleiter
+Nr.: 5
+Nachname, Vorname: BRANDT, Günter
+Steuer-ID: –
+Funktion: Geschäftsführer
+Nr.: 6
+Nachname, Vorname: WALZ, Susanne
+Steuer-ID: 92867534818
+Funktion: Beraterin
+Nr.: 7
+Nachname, Vorname: MITTERMAIER, Thorsten
+Steuer-ID: –
+Funktion: Buchhalter
+Nr.: 8
+Nachname, Vorname: BECKER, Bernd
+Steuer-ID: –
+Funktion: Prokurist
+Nr.: 9
+Nachname, Vorname: Lehmann, Daniela
+Steuer-ID: 47103508699
+Funktion: Buchhalterin
+Nr.: 10
+Nachname, Vorname: Krause, Herbert
+Steuer-ID: 31985240364
+Funktion: Projektleiter
+Nr.: 11
+Nachname, Vorname: KRÜGER, Anja
+Steuer-ID: 98256203172
+Funktion: Prokuristin
+Das Verzeichnis wurde von Bernd Becker genehmigt.

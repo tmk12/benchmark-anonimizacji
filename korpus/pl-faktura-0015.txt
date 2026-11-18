@@ -1,0 +1,45 @@
+Europol S.A.
+ul. Rajska 112, 47-401 Racibórz | NIP 2779752017
+FAKTURA VAT
+Data wystawienia: 04.03.2024 r.
+Data sprzedaży: 01.03.2024 r.
+Sprzedawca: Europol S.A.
+Nabywca: Zielone Technologie sp. z o.o.
+Sprzedawca: ul. Rajska 112, 47-401 Racibórz
+Nabywca: ul. Leśna 45/102, 26-249 Radom
+Sprzedawca: NIP: 2779752017
+Nabywca: NIP: 1691163158
+Sprzedawca: REGON: 212057303
+Nabywca: REGON: 446303554
+Lp.: 1
+Nazwa usługi: Czynności doradcze wg umowy z dnia 21.10.2022 r.
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 8 486,38 zł
+Stawka VAT: 23%
+Lp.: 2
+Nazwa usługi: Przygotowanie i negocjacja dokumentacji
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 11 833,79 zł
+Stawka VAT: 23%
+Lp.: 3
+Nazwa usługi: Udział w posiedzeniach organów spółki
+Jedn.: ryczałt
+Ilość: 1
+Wartość netto: 7 063,57 zł
+Stawka VAT: 23%
+Razem netto: 27 383,74 zł
+Podatek VAT 23%: 6 298,26 zł
+Razem do zapłaty (brutto): 33 682,00 zł
+Termin płatności: 27.03.2024 r. Sposób zapłaty: przelew na rachunek PL79113517801508034217213840.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.europol@example.com, tel. 000 942 761.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Natalii Sowińskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Edward Jankowski.
+Edward Jankowski
+Europol S.A. | ul. Rajska 112, 47-401 Racibórz | NIP 2779752017 | KRS 0000732898 | tel. 000 942 761
+Autor: Edward Jankowski
+Temat: Faktura VAT

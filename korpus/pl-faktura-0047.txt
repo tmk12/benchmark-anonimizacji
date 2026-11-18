@@ -1,0 +1,27 @@
+Globe sp.j.
+ul. Wojska Polskiego 70, 32-517 Olkusz | NIP 6838385279
+FAKTURA VAT
+Data wystawienia: 9 lipca 2021 r.
+Data sprzedaży: 30 czerwca 2021 r.
+Sprzedawca	Nabywca
+Globe sp.j.	Polmet S.A.
+ul. Wojska Polskiego 70, 32-517 Olkusz	ul. Świętokrzyska 120/79, 05-815 Pruszków
+NIP: 6838385279	NIP: 6365810105
+REGON: 314563065	REGON: 044141901
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	2 104,21 zł	2 104,21 zł	23%
+2	Opinia prawna w sprawie umowy najmu	1	5 190,87 zł	5 190,87 zł	23%
+3	Reprezentacja przed organem administracji	1	16 358,30 zł	16 358,30 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+23 653,38 zł	5 440,28 zł	29 093,66 zł
+Termin płatności: 27 lipca 2021 r. Sposób zapłaty: przelew na rachunek PL76116450819076941214844505.
+Adres e-mail do przesyłania potwierdzeń płatności: office@globe.example.org, tel. 000 458 663.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Helenie Muchie – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Bogusława Michalczyk.
+Bogusława Michalczyk
+Globe sp.j. | ul. Wojska Polskiego 70, 32-517 Olkusz | NIP 6838385279 | KRS 0000407592 | tel. 000 458 663
+Autor: Użytkownik
+Temat: Faktura VAT

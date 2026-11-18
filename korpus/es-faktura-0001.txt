@@ -1,0 +1,46 @@
+Eolo Abogados y Asesores, S.L.P.
+Calle de las Cruces, 193, 07393 Palma | CIF B42125088 | NIF-IVA ESB42125088
+FACTURA N.º A-258
+Fecha de expedición: 14/02/2025
+Fecha de la operación: 13/02/2025
+Emisor: Eolo Abogados y Asesores, S.L.P.
+Destinatario: Zarzuela, S.A.
+Emisor: Calle de las Cruces, 193, 07393 Palma
+Destinatario: Calle de Balmes, 55, 36878 Vigo
+Emisor: CIF B42125088
+Destinatario: CIF A02685121
+Emisor: Tel. 000 008 517
+Destinatario: Tel. 000 544 564
+N.º: 1
+Servicio: Servicios según contrato de fecha 05/01/2024
+Unidad: a tanto alzado
+Cantidad: 1
+Base imponible: 6.349,50 €
+Tipo de IVA: 21 %
+N.º: 2
+Servicio: Redacción y negociación de documentos
+Unidad: a tanto alzado
+Cantidad: 1
+Base imponible: 2.739,14 €
+Tipo de IVA: 21 %
+N.º: 3
+Servicio: Asistencia a consejos de administración
+Unidad: a tanto alzado
+Cantidad: 1
+Base imponible: 5.272,29 €
+Tipo de IVA: 21 %
+Base imponible: 14.360,93 €
+IVA 21 %: 3.015,80 €
+Total factura: 17.376,73 €
+Vencimiento: 17/03/2025. Forma de pago: transferencia bancaria a la cuenta ES6401387517752017117765, indicando el número de factura como concepto.
+Consultas sobre esta factura: despacho@eoloabogadosyasesores.test, tel. 000 008 517.
+Factura expedida conforme al Real Decreto 1619/2012, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+El impago en plazo devengará los intereses de demora y la indemnización por costes de cobro previstos en la Ley 3/2004, de medidas de lucha contra la morosidad en las operaciones comerciales.
+Operación sujeta a IVA en el territorio de aplicación del impuesto; no procede inversión del sujeto pasivo.
+Esta factura se emite en formato electrónico y es válida sin firma.
+La factura se envió por correo electrónico a Gregorio Villar Martínez, persona autorizada para recibir documentos contables en nombre del destinatario.
+Elaborada y revisada por María Cuevas Cortés.
+María Cuevas Cortés
+Eolo Abogados y Asesores, S.L.P. | Calle de las Cruces, 193, 07393 Palma | CIF B42125088 | tel. 000 008 517
+Asunto: Factura por servicios jurídicos
+Autor: María Cuevas Cortés

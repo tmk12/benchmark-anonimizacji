@@ -1,0 +1,11 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). Presidio to analizator tekstu: bez poziomu plik.
+# Wariant krzyżowy (aneks, poza rankingami): Presidio z modelem Legal Geek Privatizer (RC) jako rozpoznawaczem NER.
+# Ruling R37: wszystkie 5 języków; model LGP jest jeden dla pl/en/es/de/fr, Presidio – dla języka z rejestru rozpoznawaczy.
+aneks = true
+poziomy = ["tekst"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["pl", "en", "es", "de", "fr"]
+formaty = []
+procesy = 2
+timeout_s = 600
+start_timeout_s = 900          # start aplikacji i ładowanie modelu

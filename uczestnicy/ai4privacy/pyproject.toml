@@ -1,0 +1,18 @@
+[project]
+name = "uczestnik-ai4privacy"
+version = "0.1.0"
+description = "Uczestnik benchmarku: model PII ai4privacy (ModernBERT, wielojęzyczny, kategorie) przez transformers"
+requires-python = "==3.12.*"
+dependencies = [
+    "transformers==4.57.6",
+    "torch==2.15.0",
+    "protobuf==7.36.2",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

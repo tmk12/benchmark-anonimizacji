@@ -1,0 +1,14 @@
+bisoprolol|1,25;2,5;5;10|1 fois par jour le matin
+métoprolol|50;100;200|1 fois par jour
+ramipril|2,5;5;10|1 fois par jour
+candésartan|8;16;32|1 fois par jour
+sacubitril/valsartan|24/26;49/51;97/103|2 fois par jour
+spironolactone|25;50|1 fois par jour le matin
+éplérénone|25;50|1 fois par jour
+dapagliflozine|10|1 fois par jour le matin
+empagliflozine|10;25|1 fois par jour le matin
+atorvastatine|10;20;40;80|1 fois par jour le soir
+acide acétylsalicylique|75;100|1 fois par jour au cours du repas
+apixaban|2,5;5|2 fois par jour
+rivaroxaban|15;20|1 fois par jour au cours d'un repas
+amiodarone|200|1 fois par jour

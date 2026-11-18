@@ -1,0 +1,27 @@
+Szpital Powiatowy Aurum sp. z o.o.
+al. Niepodległości 6/45, 97-829 Piotrków Trybunalski | REGON 247208812 | tel. 000 732 823
+KARTA INFORMACYJNA LECZENIA SZPITALNEGO
+Oddział Chorób Wewnętrznych i Kardiologii
+Pacjent: Przemysław Kowalski, PESEL 05260673416, data urodzenia 06.06.2005 r.
+Adres zamieszkania: ul. Emilii Plater 86, 25-582 Kielce, tel. +48 000 654 178
+Data przyjęcia: 11.11.2025 r. Data wypisu: 20.11.2025 r. Tryb przyjęcia: nagły.
+Rozpoznanie zasadnicze: I20.0 Dławica piersiowa niestabilna
+Rozpoznania współistniejące: E66.9 Otyłość nieokreślona; I25.1 Miażdżycowa choroba serca
+Wywiad i badanie przy przyjęciu: przyjęto z powodu narastającej duszności wysiłkowej, bólów w klatce piersiowej i obrzęków kończyn dolnych. W badaniu przedmiotowym stwierdzono tachykardię, szmery oddechowe pęcherzykowe z trzeszczeniami u podstawy płuc, ciśnienie tętnicze 165/95 mmHg, saturacja 93% przy oddychaniu powietrzem atmosferycznym.
+Badania dodatkowe: morfologia z rozmazem, CRP, kreatynina, jonogram, troponina hs, NT-proBNP, badanie ogólne moczu, EKG, RTG klatki piersiowej, echokardiografia przezklatkowa. Wyniki szczegółowe w załączniku do dokumentacji medycznej.
+Przebieg leczenia: włączono tlenoterapię bierną, diuretyki pętlowe dożylnie, leki przeciwkrzepliwe w dawkach profilaktycznych i leczenie hipotensyjne. Stan kliniczny uległ poprawie, ustąpiły obrzęki, uzyskano stabilizację ciśnienia tętniczego.
+W trakcie hospitalizacji nie obserwowano powikłań ani zdarzeń niepożądanych leczenia. Wykonano konsultacje diabetologiczną i kardiologiczną.
+Zalecenia: dieta niskosodowa, ograniczenie płynów do 1,5 l na dobę, kontrola masy ciała codziennie rano, unikanie wysiłków fizycznych przez dwa tygodnie, całkowity zakaz palenia tytoniu.
+Zalecane leki: spironolakton 25 mg – według schematu ustalonego w poradni; metoprolol 50 mg – raz dziennie rano; klopidogrel 75 mg – według zaleceń kardiologa.
+Kontrola w poradni kardiologicznej w dniu 01.12.2025 r., z wynikami badań laboratoryjnych (morfologia, kreatynina, potas). Dokumentację należy zabrać na wizytę.
+Zaświadczenie lekarskie o czasowej niezdolności do pracy (e-ZLA) wystawiono do dnia 28.11.2025 r. włącznie.
+Informację o stanie zdrowia i planowanym leczeniu przekazano Przemysławowi Kowalskiemu w dniu wypisu; za zgodą pacjenta informacje o stanie zdrowia mogą być udzielane Jadwidze Jankowskiej, tel. +48000417389.
+Wypis sporządzono zgodnie z rozporządzeniem Ministra Zdrowia w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania. Dokument zawiera dane dotyczące zdrowia i podlega szczególnej ochronie na podstawie art. 9 RODO.
+Pacjent został pouczony o objawach, przy których należy bezzwłocznie zgłosić się do szpitalnego oddziału ratunkowego lub wezwać pogotowie ratunkowe (numer 112 lub 999).
+Lekarz prowadzący: Urszula Woś, nr PWZ 5626204
+Ordynator oddziału: Bartosz Kucharski, nr PWZ 5225192
+Urszula Woś
+Bartosz Kucharski
+Szpital Powiatowy Aurum sp. z o.o. | al. Niepodległości 6/45, 97-829 Piotrków Trybunalski | tel. 000 732 823 | info@aurum.example.net
+Autor: Użytkownik
+Temat: Karta informacyjna leczenia szpitalnego

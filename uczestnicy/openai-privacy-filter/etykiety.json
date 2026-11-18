@@ -1,0 +1,10 @@
+{
+  "private_person": ["OSOBA", "INICJALY"],
+  "private_address": ["ADRES"],
+  "private_email": ["EMAIL"],
+  "private_phone": ["TELEFON"],
+  "private_url": ["URL"],
+  "private_date": ["DATA_UR", "DATA"],
+  "account_number": ["RACHUNEK", "KARTA", "PESEL", "NIP", "REGON", "KRS", "DOWOD", "PASZPORT", "PRAWO_JAZDY", "NR_ID", "SSN", "DNI", "NUSS", "NIR", "SIREN", "VAT", "CIF", "EIN", "NR_PODATKOWY", "SVNR", "KVNR", "NHS", "NINO", "MBI", "NR_REJESTRU", "IDENTYFIKATOR"],
+  "secret": ["SEKRET"]
+}

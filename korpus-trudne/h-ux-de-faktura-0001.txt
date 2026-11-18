@@ -1,0 +1,28 @@
+Vogt & Kunze Rechtsanwälte PartG mbB
+Schubertstraße 116, 79077 Freiburg im Breisgau | Steuernummer 230/2605/8815 | USt-IdNr. DE301173656
+RECHNUNG Nr. R-188
+Rechnungsdatum: 27. Februar 2025
+Leistungszeitpunkt: 25. Februar 2025
+Rechnungsaussteller	Rechnungsempfänger
+Vogt & Kunze Rechtsanwälte PartG mbB	Alpha Bau GmbH
+Schubertstraße 116, 79077 Freiburg im Breisgau	Schmiedestraße 106c, 79413 Freiburg im Breisgau
+USt-IdNr. DE301173656	USt-IdNr. DE928040584
+Tel. +49 172 9973185	Tel. +49 172 9925904
+Pos.	Leistung	Menge	Einzelpreis netto	Gesamt netto	USt-Satz
+1	Pauschale für laufende Rechtsberatung	1	6.560,83 EUR	6.560,83 EUR	19 %
+2	Prüfung eines Gewerberaummietvertrags	1	2.705,11 EUR	2.705,11 EUR	19 %
+3	Teilnahme an einer Besprechung mit der Behörde	1	8.351,99 EUR	8.351,99 EUR	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+17.617,93 EUR	3.347,41 EUR	20.965,34 EUR
+Zahlbar bis zum 24. März 2025 ohne Abzug durch Überweisung auf das Konto DE62500105176055473466 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an zentrale@vogtkunzerechtsanwalte.example.net, Tel. +49 172 9973185.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Greta Schmitz als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Ursula Lindner.
+Ursula Lindner
+Vogt & Kunze Rechtsanwälte PartG mbB | Schubertstraße 116, 79077 Freiburg im Breisgau | USt-IdNr. DE301173656 | Tel. +49 172 9973185
+Autor: Ursula Lindner
+Betreff: Rechnung für Rechtsberatung

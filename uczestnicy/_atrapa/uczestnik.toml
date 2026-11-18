@@ -1,0 +1,6 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`).
+poziomy = ["tekst", "plik"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+formaty = ["docx", "pdf", "skan", "xlsx", "pptx", "eml", "msg", "doc"]
+procesy = 4
+timeout_s = 300

@@ -1,0 +1,13 @@
+Wykaz osób uprawnionych do kontaktu
+Podmiot: Mazovia sp. z o.o.
+Wykaz sporządzono w dniu 21.03.2024 r. Osoby wymienione poniżej są uprawnione do odbioru korespondencji.
+Lp.	Nazwisko i imię	PESEL	Funkcja
+1	KALINOWSKA Blanka	–	pełnomocniczka
+2	Walczak Zuzanna	78042108884	członkini zarządu
+3	SOKOŁOWSKA Zofia	88020454724	prokurent
+4	WIŚNIEWSKA Marlena	60102383423	pełnomocniczka
+5	Żak Małgorzata	–	księgowa
+6	Sikorska Teresa	–	księgowa
+7	Nowicka Irena	–	prokurent
+8	KRUK Iwona	81012516668	doradczyni
+Wykaz zatwierdził Zuzanna Walczak.

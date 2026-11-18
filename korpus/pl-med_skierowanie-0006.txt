@@ -1,0 +1,23 @@
+Szpital Specjalistyczny Bud-Invest sp. z o.o.
+ul. Polna 38, 00-784 Warszawa | tel. +48000798566 | REGON 431257946
+Warszawa, dnia 14.08.2023 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 11.09.2023 r.
+Dane pacjenta: Eugeniusz Wieczorek, PESEL 73050456633, data urodzenia 04.05.1973 r.
+Adres: ul. Jagiellońska 9A/101, 97-187 Tomaszów Mazowiecki, tel. 000 943 367
+Skierowuję Eugeniusza Wieczorka do szpitala: Szpital Specjalistyczny Beta Systems sp. z o.o., ul. Starowiślna 29/91, 39-296 Tarnobrzeg, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): K29.5 Przewlekłe zapalenie żołądka
+Rozpoznanie dodatkowe: E66.9 Otyłość nieokreślona
+Dotychczasowe leczenie: prednizon 20 mg – bez wystarczającej poprawy; omeprazol 40 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: +48 000 649 876, e-mail office@betasystems.example.org; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Informacje o przebiegu leczenia prosimy przekazywać lekarzowi kierującemu w Poradni Szpital Specjalistyczny Bud-Invest sp. z o.o. oraz osobie wskazanej przez pacjenta: Arturowi Zielińskiemu.
+Lekarz kierujący: Oskar Walczak, nr PWZ 7936768
+Miejsce pieczęci imiennej i podpisu
+Oskar Walczak
+Szpital Specjalistyczny Bud-Invest sp. z o.o. | ul. Polna 38, 00-784 Warszawa | tel. +48000798566 | info@budinvest.example.net
+Autor: Oskar Walczak
+Temat: Skierowanie na leczenie szpitalne

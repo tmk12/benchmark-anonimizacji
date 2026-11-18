@@ -1,0 +1,25 @@
+Hospital General San Rafael, S.L.
+Calle de Ortega y Gasset, 182, 33375 Mieres | CIF B39934146 | tel. +34000803440
+INFORME CLÍNICO DE ALTA HOSPITALARIA – SERVICIO DE CARDIOLOGÍA
+Paciente: Mercedes Iglesias Bermúdez, nacida el 07/04/1949
+DNI/NIE: Z0638806D | N.º de afiliación a la Seguridad Social: 09/51467347/70
+Domicilio: Calle de los Naranjos, 168, 33515 Oviedo, tel. +34 000 51 55 67
+Ingreso: 13/04/2023. Alta: 18/04/2023. Tipo de ingreso: urgente.
+Diagnóstico principal (CIE-10): I50.0 Insuficiencia cardíaca congestiva
+Diagnósticos secundarios: I48 Fibrilación y aleteo auricular; I50.9 Insuficiencia cardíaca no especificada
+Pruebas complementarias: hemograma, PCR, creatinina, iones, troponina de alta sensibilidad, NT-proBNP, sistemático de orina, electrocardiograma, radiografía de tórax y ecocardiograma transtorácico. Los resultados detallados constan en la historia clínica.
+Evolución: se trató con oxigenoterapia, diuréticos del asa por vía intravenosa, anticoagulación profiláctica y tratamiento antihipertensivo. La evolución fue favorable, los edemas remitieron y la tensión arterial se estabilizó.
+No se registraron complicaciones ni eventos adversos durante el ingreso. Se realizaron interconsultas con Endocrinología y con Nefrología.
+Recomendaciones al alta: dieta baja en sal, restricción de líquidos a 1,5 litros al día, pesarse cada mañana, evitar esfuerzos intensos durante dos semanas y abandono completo del tabaco.
+Tratamiento al alta: dapagliflozina 10 mg, según la pauta habitual; digoxina 0,125 mg una vez al día por la mañana; enalapril 10 mg según indique el Servicio de Cardiología.
+Seguimiento: consulta de Cardiología el 26/04/2023, con analítica previa (hemograma, creatinina y potasio). Se ruega aportar este informe a la cita.
+Se emite parte de incapacidad temporal, que cubre la ausencia laboral hasta el 01/05/2023.
+Este informe contiene datos de salud, categoría especial de datos conforme al artículo 9 del Reglamento (UE) 2016/679 y a la Ley 41/2002, básica reguladora de la autonomía del paciente.
+Se indicó acudir a Urgencias o llamar al 112 si aparecen dolor torácico, desmayo o empeoramiento de la dificultad respiratoria.
+Médico responsable: Dr. Rubén Martínez Domínguez, n.º de colegiado 071708543
+Jefe de Servicio de Cardiología: Dra. Marta Paz Delgado, n.º de colegiado 518534880
+Rubén Martínez Domínguez
+Marta Paz Delgado
+Hospital General San Rafael, S.L. | Calle de Ortega y Gasset, 182, 33375 Mieres | tel. +34000803440 | despacho@hospitalgeneralsanrafael.test
+Asunto: Informe de alta hospitalaria
+Autor: Usuario

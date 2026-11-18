@@ -1,0 +1,207 @@
+Hauptstraße
+Bahnhofstraße
+Schulstraße
+Gartenstraße
+Dorfstraße
+Bergstraße
+Kirchstraße
+Waldstraße
+Ringstraße
+Schillerstraße
+Goethestraße
+Lindenstraße
+Mühlenstraße
+Poststraße
+Wiesenstraße
+Birkenweg
+Kirchweg
+Am Markt
+Am Bahnhof
+Am Anger
+Am Berg
+Am Bach
+Am Wald
+Am See
+Am Hang
+An der Kirche
+An der Mühle
+An der Linde
+Brunnenstraße
+Friedrichstraße
+Karlstraße
+Ludwigstraße
+Marienstraße
+Wilhelmstraße
+Bismarckstraße
+Lessingstraße
+Mozartstraße
+Beethovenstraße
+Bachstraße
+Haydnstraße
+Schubertstraße
+Wagnerstraße
+Kantstraße
+Hegelstraße
+Humboldtstraße
+Einsteinstraße
+Röntgenstraße
+Gutenbergstraße
+Mittelstraße
+Neue Straße
+Alte Straße
+Lange Straße
+Kurze Straße
+Breite Straße
+Schmale Gasse
+Marktplatz
+Rathausplatz
+Kirchplatz
+Schlossplatz
+Theaterplatz
+Kaiserstraße
+Königstraße
+Fürstenstraße
+Herzogstraße
+Prinzenstraße
+Rosenstraße
+Tulpenstraße
+Nelkenweg
+Veilchenweg
+Eichenweg
+Buchenweg
+Ahornweg
+Tannenweg
+Fichtenweg
+Kiefernweg
+Erlenweg
+Weidenweg
+Kastanienallee
+Lindenallee
+Birkenallee
+Parkallee
+Schlossallee
+Gartenweg
+Feldweg
+Waldweg
+Wiesenweg
+Bachweg
+Seestraße
+Uferstraße
+Hafenstraße
+Fährstraße
+Brückenstraße
+Mühlweg
+Sonnenstraße
+Sonnenweg
+Mondstraße
+Sternstraße
+Morgenstern
+Abendstraße
+Industriestraße
+Gewerbestraße
+Fabrikstraße
+Werkstraße
+Zechenstraße
+Hüttenstraße
+Bergmannstraße
+Jahnstraße
+Turnstraße
+Sportstraße
+Stadionstraße
+Schützenstraße
+Jägerstraße
+Försterweg
+Gärtnerstraße
+Bäckerstraße
+Metzgerstraße
+Schmiedestraße
+Webergasse
+Gerberstraße
+Färberstraße
+Töpferstraße
+Fleischergasse
+Kornmarkt
+Fischmarkt
+Viehmarkt
+Holzmarkt
+Neumarkt
+Altmarkt
+Oberstraße
+Unterstraße
+Vorstadt
+Hinterstraße
+Weststraße
+Oststraße
+Nordstraße
+Südstraße
+Nordring
+Südring
+Westring
+Ostring
+Stadtring
+Zeppelinstraße
+Daimlerstraße
+Benzstraße
+Boschstraße
+Siemensstraße
+Dieselstraße
+Maxstraße
+Josefstraße
+Annastraße
+Luisenstraße
+Charlottenstraße
+Augustastraße
+Elisabethstraße
+Sophienstraße
+Theresienstraße
+Georgstraße
+Heinrichstraße
+Albrechtstraße
+Friedensstraße
+Freiheitstraße
+Einigkeitstraße
+Eintrachtstraße
+Frankfurter Straße
+Berliner Straße
+Hamburger Straße
+Münchner Straße
+Kölner Straße
+Stuttgarter Straße
+Leipziger Straße
+Dresdner Straße
+Hannoversche Straße
+Bremer Straße
+Nürnberger Straße
+Düsseldorfer Straße
+Dortmunder Straße
+Essener Straße
+Bonner Straße
+Mainzer Straße
+Kasseler Straße
+Erfurter Straße
+Rostocker Straße
+Lübecker Straße
+Kieler Straße
+Freiburger Straße
+Heidelberger Straße
+Augsburger Straße
+Regensburger Straße
+Würzburger Straße
+Potsdamer Straße
+Friedrich-Ebert-Straße
+Konrad-Adenauer-Straße
+Willy-Brandt-Allee
+Theodor-Heuss-Straße
+Robert-Koch-Straße
+Albert-Schweitzer-Straße
+Max-Planck-Straße
+Otto-Hahn-Straße
+Hans-Böckler-Straße
+Karl-Marx-Straße
+Rosa-Luxemburg-Straße
+Käthe-Kollwitz-Straße
+Clara-Zetkin-Straße
+Thomas-Mann-Straße
+Heinrich-Heine-Straße
+Berthold-Brecht-Straße
+Hermann-Hesse-Straße

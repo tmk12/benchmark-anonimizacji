@@ -1,0 +1,29 @@
+SELARL Menard-Thomas Avocats
+40 rue Ambroise Paré, 13866 Aix-en-Provence | SIREN 906248943 | TVA intracommunautaire FR92906248943
+FACTURE N° F-596
+Date d'émission : 22/08/2022
+Date de la prestation : 22/08/2022
+Émetteur	Client
+SELARL Menard-Thomas Avocats	Nord Énergie SNC
+40 rue Ambroise Paré, 13866 Aix-en-Provence	166 rue Jules Ferry, 13008 Aix-en-Provence
+SIREN 906248943	SIREN 547900548
+TVA intracommunautaire FR92906248943	TVA intracommunautaire FR87547900548
+Tél. 04 65 71 66 96	Tél. 04 65 71 70 59
+Réf.	Désignation	Quantité	Prix unitaire HT	Total HT	TVA
+1	Forfait de conseil juridique récurrent	1	16 405,33 €	16 405,33 €	20 %
+2	Revue d'un bail commercial	1	2 555,74 €	2 555,74 €	20 %
+3	Assistance à une réunion avec l'administration	1	514,94 €	514,94 €	20 %
+Total HT	TVA 20 %	Total TTC
+19 476,01 €	3 895,20 €	23 371,21 €
+Échéance de paiement : 21/09/2022, par virement sur le compte FR7630006105714177285473515 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : bureau@menardthomasavocats.example.org, tél. 04 65 71 66 96.
+Mentions légales : SELARL Menard-Thomas Avocats, société d'exercice libéral à responsabilité limitée au capital de 8 780,00 €, RCS Aix-en-Provence 906248943, TVA intracommunautaire FR92906248943.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+La facture a été envoyée par courriel à Damien Lopez, habilité à recevoir les documents comptables du client.
+Établie et vérifiée par Pierre-Yves Vernet.
+Pierre-Yves Vernet
+SELARL Menard-Thomas Avocats | 40 rue Ambroise Paré, 13866 Aix-en-Provence | SIREN 906248943 | TVA intracommunautaire FR92906248943 | Tél. 04 65 71 66 96
+Auteur: Utilisateur
+Objet: Facture d'honoraires

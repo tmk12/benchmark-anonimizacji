@@ -1,0 +1,225 @@
+{
+  "data": "2026-11-02",
+  "n_gram": 8,
+  "metoda": "8-gramy słowne: małe litery, ciągi liter i cyfr bez interpunkcji, skrót 64-bit; odsetek unikalnych 8-gramów obecnych w treningu (bez próbkowania)",
+  "linia_modelu": {
+    "model": "lgp-1.0-rc",
+    "paczka": "1.0.0rc5",
+    "uwaga": "wersja publiczna: pominięto opis linii treningowej (przebiegi, kroki, składniki wag) – wewnętrzne dane treningowe"
+  },
+  "zbior_referencyjny": {
+    "osmiogramow_unikalnych": 84379068,
+    "probkowanie": "brak (100% wierszy)",
+    "kompletny": true,
+    "braki": [],
+    "uwaga": "wersja publiczna: pominięto listę źródeł (identyfikatory i ścieżki plików treningowych, liczby wierszy); liczby 8-gramów bez zmian"
+  },
+  "frazy_formulowe": {
+    "definicja": "8-gramy występujące w blokach szablonów co najmniej 3 różnych typów dokumentów",
+    "prog_typow": 3,
+    "liczba": 31,
+    "odsetek_8gramow_szablonow": 0.002328026434364674
+  },
+  "szablony": {
+    "ogolem": {
+      "osmiogramow_unikalnych": 13316,
+      "wspolnych": 1738,
+      "odsetek": 0.13051967557825173
+    },
+    "poza_formulowymi": {
+      "osmiogramow_unikalnych": 13285,
+      "wspolnych": 1712,
+      "odsetek": 0.12886714339480618
+    },
+    "po_jezykach": {
+      "de": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 1776,
+          "wspolnych": 114,
+          "odsetek": 0.06418918918918919
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 1771,
+          "wspolnych": 109,
+          "odsetek": 0.06154714850367024
+        }
+      },
+      "en": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 3945,
+          "wspolnych": 581,
+          "odsetek": 0.14727503168567807
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 3940,
+          "wspolnych": 576,
+          "odsetek": 0.14619289340101524
+        }
+      },
+      "es": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 2752,
+          "wspolnych": 401,
+          "odsetek": 0.1457122093023256
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 2743,
+          "wspolnych": 397,
+          "odsetek": 0.14473204520597885
+        }
+      },
+      "fr": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 2438,
+          "wspolnych": 404,
+          "odsetek": 0.1657095980311731
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 2432,
+          "wspolnych": 398,
+          "odsetek": 0.16365131578947367
+        }
+      },
+      "pl": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 2405,
+          "wspolnych": 238,
+          "odsetek": 0.09896049896049897
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 2399,
+          "wspolnych": 232,
+          "odsetek": 0.09670696123384744
+        }
+      }
+    }
+  },
+  "korpus": {
+    "dokumentow": 1000,
+    "ogolem": {
+      "osmiogramow_unikalnych": 326863,
+      "wspolnych": 2572,
+      "odsetek": 0.007868740114359838,
+      "wystapien": 495944,
+      "wystapien_wspolnych": 18537,
+      "odsetek_wystapien": 0.03737720387785718
+    },
+    "poza_formulowymi": {
+      "osmiogramow_unikalnych": 326832,
+      "wspolnych": 2546,
+      "odsetek": 0.007789934890096441,
+      "wystapien": 495036,
+      "wystapien_wspolnych": 17779,
+      "odsetek_wystapien": 0.03591455974918996
+    },
+    "po_jezykach": {
+      "de": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 38943,
+          "wspolnych": 221,
+          "odsetek": 0.005674960840202347,
+          "wystapien": 54991,
+          "wystapien_wspolnych": 1144,
+          "odsetek_wystapien": 0.020803404193413467
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 38938,
+          "wspolnych": 216,
+          "odsetek": 0.005547280291745852,
+          "wystapien": 54911,
+          "wystapien_wspolnych": 1064,
+          "odsetek_wystapien": 0.019376809746680993
+        }
+      },
+      "en": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 43580,
+          "wspolnych": 650,
+          "odsetek": 0.014915098669114273,
+          "wystapien": 61484,
+          "wystapien_wspolnych": 2816,
+          "odsetek_wystapien": 0.04580053347212283
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 43575,
+          "wspolnych": 645,
+          "odsetek": 0.014802065404475043,
+          "wystapien": 61441,
+          "wystapien_wspolnych": 2773,
+          "odsetek_wystapien": 0.04513272895948959
+        }
+      },
+      "es": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 48796,
+          "wspolnych": 632,
+          "odsetek": 0.012951881301746045,
+          "wystapien": 72180,
+          "wystapien_wspolnych": 3159,
+          "odsetek_wystapien": 0.04376558603491272
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 48787,
+          "wspolnych": 628,
+          "odsetek": 0.01287228155041302,
+          "wystapien": 71923,
+          "wystapien_wspolnych": 3052,
+          "odsetek_wystapien": 0.042434269983176454
+        }
+      },
+      "fr": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 44764,
+          "wspolnych": 606,
+          "odsetek": 0.013537664194441962,
+          "wystapien": 67640,
+          "wystapien_wspolnych": 3747,
+          "odsetek_wystapien": 0.05539621525724423
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 44758,
+          "wspolnych": 600,
+          "odsetek": 0.01340542472854015,
+          "wystapien": 67424,
+          "wystapien_wspolnych": 3531,
+          "odsetek_wystapien": 0.052370075937351684
+        }
+      },
+      "pl": {
+        "ogolem": {
+          "osmiogramow_unikalnych": 150780,
+          "wspolnych": 463,
+          "odsetek": 0.003070699031701817,
+          "wystapien": 239649,
+          "wystapien_wspolnych": 7671,
+          "odsetek_wystapien": 0.03200931362117096
+        },
+        "poza_formulowymi": {
+          "osmiogramow_unikalnych": 150774,
+          "wspolnych": 457,
+          "odsetek": 0.0030310265695676973,
+          "wystapien": 239337,
+          "wystapien_wspolnych": 7359,
+          "odsetek_wystapien": 0.03074743980245428
+        }
+      }
+    }
+  },
+  "diagnostyka": {
+    "szablony_poza_formulowymi_z_cyfra": {
+      "osmiogramow": 2465,
+      "wspolnych": 255,
+      "odsetek": 0.10344827586206896
+    },
+    "szablony_poza_formulowymi_bez_cyfr": {
+      "osmiogramow": 10820,
+      "wspolnych": 1457,
+      "odsetek": 0.13465804066543438
+    }
+  },
+  "cel": {
+    "odsetek_maks": 0.01,
+    "szablony_poza_formulowymi": false,
+    "korpus_poza_formulowymi": true
+  }
+}

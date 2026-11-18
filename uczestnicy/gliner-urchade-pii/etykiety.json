@@ -1,0 +1,85 @@
+{
+  "person": [
+    "OSOBA"
+  ],
+  "organization": [
+    "ORGANIZACJA"
+  ],
+  "address": [
+    "ADRES"
+  ],
+  "postal code": [
+    "KOD_POCZTOWY"
+  ],
+  "date of birth": [
+    "DATA_UR"
+  ],
+  "email": [
+    "EMAIL"
+  ],
+  "phone number": [
+    "TELEFON"
+  ],
+  "ip address": [
+    "IP"
+  ],
+  "iban": [
+    "RACHUNEK"
+  ],
+  "bank account number": [
+    "RACHUNEK"
+  ],
+  "credit card number": [
+    "KARTA"
+  ],
+  "passport number": [
+    "PASZPORT"
+  ],
+  "identity card number": [
+    "DOWOD"
+  ],
+  "national id number": [
+    "PESEL",
+    "DNI",
+    "NUSS",
+    "NIR"
+  ],
+  "social security number": [
+    "SSN",
+    "SVNR",
+    "NUSS",
+    "NINO",
+    "NIR"
+  ],
+  "tax identification number": [
+    "NIP",
+    "NR_PODATKOWY",
+    "VAT",
+    "CIF",
+    "EIN",
+    "SIREN"
+  ],
+  "driver's license number": [
+    "PRAWO_JAZDY"
+  ],
+  "license plate number": [
+    "NR_REJESTRACYJNY"
+  ],
+  "registration number": [
+    "NR_REJESTRU",
+    "KRS",
+    "REGON",
+    "NR_REJESTRACYJNY"
+  ],
+  "health insurance number": [
+    "KVNR",
+    "MBI",
+    "NHS"
+  ],
+  "medical condition": [
+    "ZDROWIE"
+  ],
+  "username": [
+    "LOGIN"
+  ]
+}

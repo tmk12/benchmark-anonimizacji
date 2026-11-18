@@ -1,0 +1,206 @@
+Warszawa|00
+Kraków|30
+Łódź|90
+Wrocław|50
+Poznań|60
+Gdańsk|80
+Szczecin|70
+Bydgoszcz|85
+Lublin|20
+Białystok|15
+Katowice|40
+Gdynia|81
+Częstochowa|42
+Radom|26
+Sosnowiec|41
+Toruń|87
+Kielce|25
+Rzeszów|35
+Gliwice|44
+Zabrze|41
+Olsztyn|10
+Bielsko-Biała|43
+Bytom|41
+Zielona Góra|65
+Rybnik|44
+Ruda Śląska|41
+Opole|45
+Tychy|43
+Gorzów Wielkopolski|66
+Elbląg|82
+Płock|09
+Dąbrowa Górnicza|41
+Wałbrzych|58
+Włocławek|87
+Tarnów|33
+Chorzów|41
+Koszalin|75
+Kalisz|62
+Legnica|59
+Grudziądz|86
+Słupsk|76
+Jaworzno|43
+Jastrzębie-Zdrój|44
+Nowy Sącz|33
+Jelenia Góra|58
+Siedlce|08
+Mysłowice|41
+Konin|62
+Piła|64
+Piotrków Trybunalski|97
+Inowrocław|88
+Lubin|59
+Ostrowiec Świętokrzyski|27
+Suwałki|16
+Stargard|73
+Gniezno|62
+Ostrów Wielkopolski|63
+Siemianowice Śląskie|41
+Głogów|67
+Pabianice|95
+Leszno|64
+Żory|44
+Zamość|22
+Pruszków|05
+Łomża|18
+Ełk|19
+Tomaszów Mazowiecki|97
+Chełm|22
+Mielec|39
+Kędzierzyn-Koźle|47
+Przemyśl|37
+Stalowa Wola|37
+Tczew|83
+Biała Podlaska|21
+Bełchatów|97
+Świdnica|58
+Będzin|42
+Zgierz|95
+Piekary Śląskie|41
+Racibórz|47
+Legionowo|05
+Ostrołęka|07
+Świętochłowice|41
+Starachowice|27
+Wejherowo|84
+Zawiercie|42
+Skarżysko-Kamienna|26
+Puławy|24
+Skierniewice|96
+Radomsko|97
+Tarnobrzeg|39
+Kutno|99
+Otwock|05
+Sieradz|98
+Żyrardów|96
+Krosno|38
+Oświęcim|32
+Wodzisław Śląski|44
+Nysa|48
+Kołobrzeg|78
+Sopot|81
+Zakopane|34
+Nowy Targ|34
+Sanok|38
+Bochnia|32
+Wieliczka|32
+Olkusz|32
+Chrzanów|32
+Myślenice|32
+Limanowa|34
+Gorlice|38
+Jasło|38
+Dębica|39
+Łańcut|37
+Jarosław|37
+Lubartów|21
+Kraśnik|23
+Łuków|21
+Hrubieszów|22
+Kwidzyn|82
+Malbork|82
+Iława|14
+Giżycko|11
+Mrągowo|11
+Kętrzyn|11
+Augustów|16
+Bielsk Podlaski|17
+Hajnówka|17
+Grajewo|19
+Mińsk Mazowiecki|05
+Wołomin|05
+Marki|05
+Piaseczno|05
+Konstancin-Jeziorna|05
+Nowy Dwór Mazowiecki|05
+Ciechanów|06
+Mława|06
+Płońsk|09
+Sochaczew|96
+Gostynin|09
+Łowicz|99
+Rawa Mazowiecka|96
+Brzeziny|95
+Wieluń|98
+Zduńska Wola|98
+Opoczno|26
+Końskie|26
+Busko-Zdrój|28
+Sandomierz|27
+Staszów|28
+Pińczów|28
+Jędrzejów|28
+Kluczbork|46
+Brzeg|49
+Prudnik|48
+Strzelce Opolskie|47
+Namysłów|46
+Oleśnica|56
+Trzebnica|55
+Oława|55
+Dzierżoniów|58
+Kłodzko|57
+Bolesławiec|59
+Zgorzelec|59
+Lubań|59
+Kamienna Góra|58
+Głubczyce|48
+Krotoszyn|63
+Jarocin|63
+Września|62
+Śrem|63
+Kościan|64
+Rawicz|63
+Chodzież|64
+Wągrowiec|62
+Szamotuły|64
+Nowy Tomyśl|64
+Swarzędz|62
+Luboń|62
+Police|72
+Świnoujście|72
+Szczecinek|78
+Wałcz|78
+Białogard|78
+Darłowo|76
+Ustka|76
+Lębork|84
+Chojnice|89
+Starogard Gdański|83
+Kościerzyna|83
+Pruszcz Gdański|83
+Rumia|84
+Reda|84
+Puck|84
+Hel|84
+Człuchów|77
+Świecie|86
+Brodnica|87
+Rypin|87
+Chełmno|86
+Nakło nad Notecią|89
+Żnin|88
+Mogilno|88
+Aleksandrów Kujawski|87
+Lipno|87
+Ciechocinek|87

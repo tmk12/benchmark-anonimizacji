@@ -1,0 +1,12 @@
+I10 Samoistne nadciśnienie tętnicze
+E11.9 Cukrzyca typu 2 bez powikłań
+E78.5 Hiperlipidemia nieokreślona
+E03.9 Niedoczynność tarczycy
+J44.9 Przewlekła obturacyjna choroba płuc
+J45.0 Astma oskrzelowa z przewagą mechanizmu alergicznego
+K21.0 Choroba refluksowa przełyku z zapaleniem
+K29.5 Przewlekłe zapalenie żołądka
+K80.2 Kamica żółciowa
+N18.3 Przewlekła choroba nerek stadium 3
+D50.9 Niedokrwistość z niedoboru żelaza
+E66.9 Otyłość nieokreślona

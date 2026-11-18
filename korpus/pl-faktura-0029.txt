@@ -1,0 +1,27 @@
+Gamma sp.j.
+ul. Lubelska 15, 60-378 Poznań | NIP 8212831891
+FAKTURA VAT
+Data wystawienia: 29 kwietnia 2022 r.
+Data sprzedaży: 25 kwietnia 2022 r.
+Sprzedawca	Nabywca
+Gamma sp.j.	Trans-Rol S.A.
+ul. Lubelska 15, 60-378 Poznań	os. Armii Krajowej 125/1, 30-840 Kraków
+NIP: 8212831891	NIP: 6369548259
+REGON: 332498460	REGON: 052915035
+Lp.	Nazwa towaru lub usługi	Ilość	Cena netto	Wartość netto	VAT
+1	Stała obsługa prawna za miesiąc rozliczeniowy	1	14 769,21 PLN	14 769,21 PLN	23%
+2	Opinia prawna w sprawie umowy najmu	1	10 321,78 PLN	10 321,78 PLN	23%
+3	Reprezentacja przed organem administracji	1	10 069,10 PLN	10 069,10 PLN	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+35 160,09 PLN	8 086,82 PLN	43 246,91 PLN
+Termin płatności: 19 maja 2022 r. Sposób zapłaty: przelew na rachunek PL07187786276462899962784330.
+Adres e-mail do przesyłania potwierdzeń płatności: kontakt.gamma@example.com, tel. +48 000 346 053.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Barbarze Kamińskiej – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Dariusz Urbański.
+Dariusz Urbański
+Gamma sp.j. | ul. Lubelska 15, 60-378 Poznań | NIP 8212831891 | KRS 0000765575 | tel. +48 000 346 053
+Autor: Dariusz Urbański
+Temat: Faktura VAT

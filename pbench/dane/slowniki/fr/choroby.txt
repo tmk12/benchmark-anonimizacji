@@ -1,0 +1,53 @@
+J45.0 Asthme à prédominance allergique
+I10 Hypertension essentielle (primitive)
+E11.9 Diabète sucré de type 2 sans complication
+E10.9 Diabète sucré de type 1 sans complication
+I25.1 Cardiopathie artérioscléreuse
+I50.0 Insuffisance cardiaque congestive
+I48 Fibrillation et flutter auriculaires
+J44.9 Bronchopneumopathie chronique obstructive sans précision
+F32.1 Épisode dépressif moyen
+F41.1 Anxiété généralisée
+F43.1 État de stress post-traumatique
+G43.9 Migraine sans précision
+G40.9 Épilepsie sans précision
+M54.5 Lombalgie basse
+M51.1 Atteinte d'un disque lombaire avec radiculopathie
+M17.9 Gonarthrose sans précision
+M05.9 Polyarthrite rhumatoïde séropositive
+M81.9 Ostéoporose sans précision
+N18.3 Maladie rénale chronique de stade 3
+N20.0 Calcul du rein
+N40 Hyperplasie de la prostate
+K21.0 Reflux gastro-œsophagien avec œsophagite
+K29.5 Gastrite chronique sans précision
+K50.9 Maladie de Crohn sans précision
+K51.9 Rectocolite hémorragique sans précision
+K80.2 Calcul de la vésicule biliaire
+K74.6 Cirrhose du foie
+E03.9 Hypothyroïdie sans précision
+E05.9 Thyréotoxicose sans précision
+E66.9 Obésité sans précision
+D50.9 Anémie par carence en fer
+C50.9 Tumeur maligne du sein
+C61 Tumeur maligne de la prostate
+C34.9 Tumeur maligne des bronches ou du poumon
+C18.9 Tumeur maligne du côlon
+C91.0 Leucémie aiguë lymphoblastique
+I63.9 Infarctus cérébral sans précision
+I21.9 Infarctus aigu du myocarde
+G20 Maladie de Parkinson
+G35 Sclérose en plaques
+F20.9 Schizophrénie sans précision
+F31.9 Trouble affectif bipolaire
+L40.0 Psoriasis vulgaire
+L20.9 Dermatite atopique
+B20 Maladie due au VIH
+B18.2 Hépatite virale chronique C
+U07.1 COVID-19
+H25.9 Cataracte sénile
+H40.9 Glaucome sans précision
+S72.0 Fracture du col du fémur
+S82.6 Fracture de la malléole externe
+O24.4 Diabète sucré gestationnel
+G47.3 Apnée du sommeil

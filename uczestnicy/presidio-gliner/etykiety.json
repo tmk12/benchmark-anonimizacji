@@ -1,0 +1,257 @@
+{
+  "PERSON": [
+    "OSOBA"
+  ],
+  "ORGANIZATION": [
+    "ORGANIZACJA"
+  ],
+  "LOCATION": [
+    "ADRES"
+  ],
+  "DATE_TIME": [
+    "DATA",
+    "DATA_UR"
+  ],
+  "EMAIL_ADDRESS": [
+    "EMAIL"
+  ],
+  "PHONE_NUMBER": [
+    "TELEFON"
+  ],
+  "IBAN_CODE": [
+    "RACHUNEK"
+  ],
+  "CREDIT_CARD": [
+    "KARTA"
+  ],
+  "CRYPTO": [
+    "KRYPTO"
+  ],
+  "IP_ADDRESS": [
+    "IP"
+  ],
+  "URL": [
+    "URL"
+  ],
+  "MAC_ADDRESS": [
+    "MAC"
+  ],
+  "UUID": [
+    "UUID"
+  ],
+  "MEDICAL_LICENSE": {
+    "en": [
+      "IDENTYFIKATOR",
+      "NR_ID"
+    ]
+  },
+  "PL_PESEL": {
+    "pl": [
+      "PESEL"
+    ]
+  },
+  "US_SSN": {
+    "en": [
+      "SSN"
+    ]
+  },
+  "US_ITIN": {
+    "en": [
+      "NR_PODATKOWY"
+    ]
+  },
+  "US_PASSPORT": {
+    "en": [
+      "PASZPORT"
+    ]
+  },
+  "US_DRIVER_LICENSE": {
+    "en": [
+      "PRAWO_JAZDY"
+    ]
+  },
+  "US_BANK_NUMBER": {
+    "en": [
+      "RACHUNEK"
+    ]
+  },
+  "US_MBI": {
+    "en": [
+      "MBI"
+    ]
+  },
+  "US_NPI": {
+    "en": [
+      "IDENTYFIKATOR",
+      "NR_ID"
+    ]
+  },
+  "UK_NHS": {
+    "en": [
+      "NHS"
+    ]
+  },
+  "UK_NINO": {
+    "en": [
+      "NINO"
+    ]
+  },
+  "UK_PASSPORT": {
+    "en": [
+      "PASZPORT"
+    ]
+  },
+  "UK_DRIVING_LICENCE": {
+    "en": [
+      "PRAWO_JAZDY"
+    ]
+  },
+  "UK_POSTCODE": {
+    "en": [
+      "KOD_POCZTOWY"
+    ]
+  },
+  "UK_VEHICLE_REGISTRATION": {
+    "en": [
+      "NR_REJESTRACYJNY"
+    ]
+  },
+  "ES_NIF": {
+    "es": [
+      "DNI",
+      "NR_PODATKOWY"
+    ]
+  },
+  "ES_NIE": {
+    "es": [
+      "DNI"
+    ]
+  },
+  "ES_PASSPORT": {
+    "es": [
+      "PASZPORT"
+    ]
+  },
+  "DE_TAX_ID": {
+    "de": [
+      "NR_PODATKOWY"
+    ]
+  },
+  "DE_TAX_NUMBER": {
+    "de": [
+      "NR_PODATKOWY"
+    ]
+  },
+  "DE_VAT_ID": {
+    "de": [
+      "VAT"
+    ]
+  },
+  "DE_SOCIAL_SECURITY": {
+    "de": [
+      "SVNR"
+    ]
+  },
+  "DE_HEALTH_INSURANCE": {
+    "de": [
+      "KVNR"
+    ]
+  },
+  "DE_ID_CARD": {
+    "de": [
+      "DOWOD"
+    ]
+  },
+  "DE_PASSPORT": {
+    "de": [
+      "PASZPORT"
+    ]
+  },
+  "DE_FUEHRERSCHEIN": {
+    "de": [
+      "PRAWO_JAZDY"
+    ]
+  },
+  "DE_KFZ": {
+    "de": [
+      "NR_REJESTRACYJNY"
+    ]
+  },
+  "DE_PLZ": {
+    "de": [
+      "KOD_POCZTOWY"
+    ]
+  },
+  "DE_HANDELSREGISTER": {
+    "de": [
+      "NR_REJESTRU"
+    ]
+  },
+  "DE_BSNR": {
+    "de": [
+      "IDENTYFIKATOR"
+    ]
+  },
+  "DE_LANR": {
+    "de": [
+      "IDENTYFIKATOR",
+      "NR_ID"
+    ]
+  },
+  "POSTAL_CODE": [
+    "KOD_POCZTOWY"
+  ],
+  "BANK_ACCOUNT": [
+    "RACHUNEK"
+  ],
+  "PASSPORT": [
+    "PASZPORT"
+  ],
+  "ID_CARD": [
+    "DOWOD"
+  ],
+  "NATIONAL_ID": [
+    "PESEL",
+    "DNI",
+    "NUSS",
+    "NIR"
+  ],
+  "SSN": [
+    "SSN",
+    "SVNR",
+    "NUSS",
+    "NINO",
+    "NIR"
+  ],
+  "TAX_ID": [
+    "NIP",
+    "NR_PODATKOWY",
+    "VAT",
+    "CIF",
+    "EIN",
+    "SIREN"
+  ],
+  "DRIVER_LICENSE": [
+    "PRAWO_JAZDY"
+  ],
+  "LICENSE_PLATE": [
+    "NR_REJESTRACYJNY"
+  ],
+  "REGISTRATION_NUMBER": [
+    "NR_REJESTRU",
+    "KRS",
+    "REGON",
+    "NR_REJESTRACYJNY"
+  ],
+  "HEALTH_INSURANCE": [
+    "KVNR",
+    "MBI",
+    "NHS"
+  ],
+  "MEDICAL_CONDITION": [
+    "ZDROWIE"
+  ],
+  "USERNAME": [
+    "LOGIN"
+  ]
+}

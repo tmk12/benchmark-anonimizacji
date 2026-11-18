@@ -1,0 +1,31 @@
+Odpis aktualny z rejestru przedsiębiorców
+Numer KRS: 0000201055
+Data sporządzenia odpisu: 24 lipca 2026 r.
+Rejestr przedsiębiorców Krajowego Rejestru Sądowego prowadzony przez Sąd Rejonowy w Olsztynie, Wydział Gospodarczy Krajowego Rejestru Sądowego
+Sygnatura akt rejestrowych: GD.XII NS-REJ.KRS/059846/25
+Odpis aktualny zawiera informacje o podmiocie według stanu na dzień sporządzenia.
+Rubryka 1	Dane podmiotu
+1. Oznaczenie formy prawnej	SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+2. Numer REGON / NIP	REGON: 255009503, NIP: 6007230982
+3. Firma, pod którą spółka działa	Europol sp. z o.o.
+4. Siedziba i adres	ul. Wolska 113/48, 75-596 Koszalin
+5. Adres poczty elektronicznej / strona www	biuro@europol.test; tel. +48 000 069 320
+Rubryka 2	Wzmianki o wpisie
+1. Data wpisu do rejestru przedsiębiorców	26 czerwca 2023 r.
+2. Data ostatniego wpisu	15 maja 2025 r.
+3. Kapitał zakładowy	34 000,00 PLN
+Rubryka 1 – Organ uprawniony do reprezentacji podmiotu: ZARZĄD
+Sposób reprezentacji: do składania oświadczeń woli w imieniu spółki uprawnieni są dwaj członkowie zarządu działający łącznie albo jeden członek zarządu łącznie z prokurentem.
+Lp.	Nazwisko / Nazwa lub firma	Imiona	Numer PESEL / REGON	Funkcja w organie
+1	Michalik	Henryka	58121070143	PREZES ZARZĄDU
+2	Stępień	Łukasz	80020646110	CZŁONEK ZARZĄDU
+Data urodzenia członka zarządu	10 grudnia 1958 r.	6 lutego 1980 r.		
+Prokurenci	Nazwisko	Imiona	PESEL	Rodzaj prokury
+1	Jabłoński	Eryk	66011927651	prokura łączna
+Rubryka 2 – Organ nadzoru: RADA NADZORCZA. Przewodnicząca rady nadzorczej: Weronika Nowak.
+Przedmiot działalności: 69.10.Z – działalność prawnicza; 70.22.Z – pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej; 62.01.Z – działalność związana z oprogramowaniem.
+Czas trwania spółki jest nieoznaczony. Rok obrotowy jest równy rokowi kalendarzowemu; pierwszy rok obrotowy zakończył się 31 grudnia.
+Dane zgłoszone do rejestru podlegają ujawnieniu, a podmiot jest zobowiązany do składania sprawozdań finansowych w terminie określonym w art. 69 ustawy o rachunkowości.
+Odpis sporządzono na podstawie ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym | KRS 0000201055 | Strona 1 z 2
+Numer KRS: 0000201055
+Temat: Odpis aktualny z KRS

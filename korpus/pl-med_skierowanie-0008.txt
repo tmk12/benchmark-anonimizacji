@@ -1,0 +1,22 @@
+Niepubliczny Zakład Opieki Zdrowotnej Agro-Ład sp. z o.o.
+ul. Prosta 80A, 50-757 Wrocław | tel. +48 000 509 537 | REGON 354796045
+Wrocław, dnia 12 sierpnia 2022 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 25 sierpnia 2022 r.
+Dane pacjenta: Łukasz Młynarczyk, PESEL 56072836133, data urodzenia 28 lipca 1956 r.
+Adres: ul. Legionów 2/116, 98-136 Zduńska Wola, tel. +48 000 348 182
+Skierowuję Łukasza Młynarczyka do szpitala: Niepubliczny Zakład Opieki Zdrowotnej Polmet sp. z o.o., ul. Sienkiewicza 106/67, 43-917 Tychy, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): E66.9 Otyłość nieokreślona
+Rozpoznanie dodatkowe: E03.9 Niedoczynność tarczycy
+Dotychczasowe leczenie: prednizon 20 mg – bez wystarczającej poprawy; atorwastatyna 20 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: 000 015 655, e-mail kontakt.polmet@example.com; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Maria Rutkowska, nr PWZ 3079516
+Miejsce pieczęci imiennej i podpisu
+Maria Rutkowska
+Niepubliczny Zakład Opieki Zdrowotnej Agro-Ład sp. z o.o. | ul. Prosta 80A, 50-757 Wrocław | tel. +48 000 509 537 | biuro@agrolad.test
+Autor: Maria Rutkowska
+Temat: Skierowanie na leczenie szpitalne

@@ -1,0 +1,49 @@
+SELARL Denis & Lucas Avocats
+104 rue Gambetta, 47774 Agen | SIREN 545320533 | TVA intracommunautaire FR60545320533
+FACTURE N° F-388
+Date d'émission : 16/01/2026
+Date de la prestation : 09/01/2026
+Émetteur: SELARL Denis & Lucas Avocats
+Client: Cévennes SASU
+Émetteur: 104 rue Gambetta, 47774 Agen
+Client: 82 rue Marcelin Berthelot, 47759 Agen
+Émetteur: SIREN 545320533
+Client: SIREN 903915742
+Émetteur: TVA intracommunautaire FR60545320533
+Client: TVA intracommunautaire FR09903915742
+Émetteur: Tél. 05 36 49 96 61
+Client: Tél. +33 5 36 49 16 13
+Réf.: 1
+Désignation: Forfait de conseil juridique récurrent
+Quantité: 1
+Prix unitaire HT: 3 594,14 €
+Total HT: 3 594,14 €
+TVA: 20 %
+Réf.: 2
+Désignation: Revue d'un bail commercial
+Quantité: 1
+Prix unitaire HT: 856,35 €
+Total HT: 856,35 €
+TVA: 20 %
+Réf.: 3
+Désignation: Assistance à une réunion avec l'administration
+Quantité: 1
+Prix unitaire HT: 7 018,83 €
+Total HT: 7 018,83 €
+TVA: 20 %
+Total HT: 11 469,32 €
+TVA 20 %: 2 293,86 €
+Total TTC: 13 763,18 €
+Échéance de paiement : 12/02/2026, par virement sur le compte FR7617515621503996622752033 en rappelant le numéro de facture.
+Pour toute question relative à cette facture : accueil@denislucasavocats.example.net, tél. 05 36 49 96 61.
+Mentions légales : SELARL Denis & Lucas Avocats, société d'exercice libéral à responsabilité limitée au capital de 6 060,00 €, RCS Agen 545320533, TVA intracommunautaire FR60545320533.
+Pas d'escompte pour paiement anticipé. En cas de retard de paiement, des pénalités sont exigibles au taux de trois fois le taux d'intérêt légal, ainsi qu'une indemnité forfaitaire pour frais de recouvrement de 40 euros.
+La prestation est réalisée en France et soumise à la TVA au taux normal de 20 %.
+Cette facture est dématérialisée (format Factur-X) et valable sans signature manuscrite.
+Les factures sont conservées dix ans par l'émetteur.
+La facture a été envoyée par courriel à Anne Simon, habilitée à recevoir les documents comptables du client.
+Établie et vérifiée par Monique Boucher.
+Monique Boucher
+SELARL Denis & Lucas Avocats | 104 rue Gambetta, 47774 Agen | SIREN 545320533 | TVA intracommunautaire FR60545320533 | Tél. 05 36 49 96 61
+Auteur: Utilisateur
+Objet: Facture d'honoraires

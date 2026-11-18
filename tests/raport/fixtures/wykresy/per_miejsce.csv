@@ -1,0 +1,5 @@
+ranking,uczestnik,miejsce,wartosci,wyciekle,odsetek_wyciekow
+tekst,privatizer-tekst,tresc,1000,10,0.01
+tekst,beta,tresc,1000,300,0.3
+tekst,privatizer-tekst,naglowek,100,20,0.2
+tekst,beta,naglowek,100,10,0.1

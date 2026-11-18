@@ -1,0 +1,27 @@
+Centrum Prawne sp. z o.o.
+ul. Kolejowa 141, 34-482 Zakopane | NIP 7877435444
+FAKTURA VAT
+Data wystawienia: 14 października 2021 r.
+Data sprzedaży: 4 października 2021 r.
+Sprzedawca	Nabywca
+Centrum Prawne sp. z o.o.	Tatra sp. z o.o.
+ul. Kolejowa 141, 34-482 Zakopane	ul. Targowa 141/64, 09-103 Płock
+NIP: 7877435444	NIP: 3133201549
+REGON: 345572545	REGON: 036523508
+Lp.	Nazwa usługi	Jedn.	Ilość	Wartość netto	Stawka VAT
+1	Czynności doradcze wg umowy z dnia 6 października 2020 r.	ryczałt	1	13 985,12 zł	23%
+2	Przygotowanie i negocjacja dokumentacji	ryczałt	1	5 114,98 zł	23%
+3	Udział w posiedzeniach organów spółki	ryczałt	1	7 452,61 zł	23%
+Razem netto	Podatek VAT 23%	Razem do zapłaty (brutto)
+26 552,71 zł	6 107,12 zł	32 659,83 zł
+Termin płatności: 29 października 2021 r. Sposób zapłaty: przelew na rachunek PL11109698124930311483483312.
+Adres e-mail do przesyłania potwierdzeń płatności: biuro@centrumprawne.test, tel. +48 000 037 568.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Fryderykowi Błaszczykowi – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Katarzyna Kaczmarek.
+Katarzyna Kaczmarek
+Centrum Prawne sp. z o.o. | ul. Kolejowa 141, 34-482 Zakopane | NIP 7877435444 | KRS 0000578924 | tel. +48 000 037 568
+Autor: Użytkownik
+Temat: Faktura VAT

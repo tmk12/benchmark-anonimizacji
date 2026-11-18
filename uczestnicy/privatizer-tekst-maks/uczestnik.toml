@@ -1,0 +1,11 @@
+# Deklaracja uczestnika (czyta ją orkiestrator `pbench-uruchom`). Ruling R37: każdy uczestnik biegnie na wszystkich 5 językach.
+# Privatizer ma jeden model dla wszystkich języków dokumentów (profile językowe pl/en/es/de/fr), więc oficjalnie obsługuje wszystkie 5.
+# Wariant aneksu (poza rankingami): jak privatizer-tekst, ale w trybie „Maksymalna ochrona” (sensitivity=privacy, KWOTA włączona przez aplikację); poziom tekst.
+aneks = true
+poziomy = ["tekst"]
+jezyki = ["pl", "en", "es", "de", "fr"]
+jezyki_oficjalne = ["pl", "en", "es", "de", "fr"]
+formaty = []
+procesy = 2
+timeout_s = 600
+start_timeout_s = 900          # start aplikacji i ładowanie modelu

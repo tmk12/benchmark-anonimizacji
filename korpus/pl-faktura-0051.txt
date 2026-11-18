@@ -1,0 +1,45 @@
+Kreatywna Agencja sp. z o.o.
+ul. Piotrkowska 37/103, 41-248 Bytom | NIP 8004465987
+FAKTURA VAT
+Data wystawienia: 10.06.2022 r.
+Data sprzedaży: 03.06.2022 r.
+Sprzedawca: Kreatywna Agencja sp. z o.o.
+Nabywca: Trans-Rol S.A.
+Sprzedawca: ul. Piotrkowska 37/103, 41-248 Bytom
+Nabywca: ul. Słowackiego 75/31, 46-688 Kluczbork
+Sprzedawca: NIP: 8004465987
+Nabywca: NIP: 6996083761
+Sprzedawca: REGON: 184295159
+Nabywca: REGON: 103156780
+Lp.: 1
+Nazwa towaru lub usługi: Stała obsługa prawna za miesiąc rozliczeniowy
+Ilość: 1
+Cena netto: 5 558,28 PLN
+Wartość netto: 5 558,28 PLN
+VAT: 23%
+Lp.: 2
+Nazwa towaru lub usługi: Opinia prawna w sprawie umowy najmu
+Ilość: 1
+Cena netto: 1 394,74 PLN
+Wartość netto: 1 394,74 PLN
+VAT: 23%
+Lp.: 3
+Nazwa towaru lub usługi: Reprezentacja przed organem administracji
+Ilość: 1
+Cena netto: 17 096,82 PLN
+Wartość netto: 17 096,82 PLN
+VAT: 23%
+Razem netto: 24 049,84 PLN
+Podatek VAT 23%: 5 531,46 PLN
+Razem do zapłaty (brutto): 29 581,30 PLN
+Termin płatności: 11.07.2022 r. Sposób zapłaty: przelew na rachunek PL82194277441642674736432207.
+Adres e-mail do przesyłania potwierdzeń płatności: info@kreatywnaagencja.example.net, tel. 000 906 201.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Marcinowi Adamczykowi – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Jan Żak.
+Jan Żak
+Kreatywna Agencja sp. z o.o. | ul. Piotrkowska 37/103, 41-248 Bytom | NIP 8004465987 | KRS 0000786692 | tel. 000 906 201
+Autor: Jan Żak
+Temat: Faktura VAT

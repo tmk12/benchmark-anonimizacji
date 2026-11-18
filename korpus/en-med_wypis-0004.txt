@@ -1,0 +1,26 @@
+Ironbridge University Medical Center
+6313 Shakespeare Road, Anchorage, AK 99589 | EIN 99-1450699 | tel. +19075550184
+HOSPITAL DISCHARGE SUMMARY – CARDIOLOGY SERVICE
+Patient: Michelle Flores, date of birth 12/11/2004
+Social Security No.: 682-20-8647
+Home address: 6156 York Boulevard, Anchorage, AK 99531, tel. +19075550199
+Admitted: 08/31/2026. Discharged: 09/04/2026. Admission type: emergency.
+Principal diagnosis (ICD-10-CM): E78.5 Hyperlipidemia unspecified
+Secondary diagnoses: I50.0 Congestive heart failure; I10 Essential (primary) hypertension
+Presenting complaint and examination: admitted with progressive breathlessness on exertion, chest pain and ankle swelling. On examination there was tachycardia, bibasal crackles, blood pressure 165/95 mmHg and oxygen saturation of 93% on room air.
+Studies: CBC with differential, CRP, basic metabolic panel, high-sensitivity troponin, BNP, urinalysis, EKG, chest X-ray and transthoracic echocardiogram. Detailed results are in the medical record.
+Hospital course: treated with supplemental oxygen, intravenous loop diuretics, prophylactic anticoagulation and antihypertensive therapy. The patient improved clinically, the edema resolved and blood pressure stabilized.
+There were no complications or adverse events during the admission. Diabetes and cardiology consultations were completed.
+Discharge instructions: low-sodium diet, fluid restriction to 1.5 liters a day, daily morning weights, no strenuous exertion for two weeks and complete cessation of smoking.
+Discharge medications: lisinopril 40 mg per outpatient regimen; apixaban 5 mg once daily in the morning; amlodipine 5 mg as directed by cardiology.
+Follow-up: cardiology clinic visit on 09/22/2026, with labs (CBC, basic metabolic panel, potassium). Please bring this summary to the appointment.
+A work excuse covering absence until 09/23/2026 has been provided.
+Information about the condition and the planned treatment was given to the patient on the day of discharge; with the patient's consent information may be shared with Anthony Brown (tel. +1 907-555-0163).
+This summary contains protected health information subject to the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule.
+Attending physician: Susan Holmes, NPI 1934516745
+Cardiology service chief: Nancy Bell, NPI 2190158552
+Susan Holmes
+Nancy Bell
+Ironbridge University Medical Center | 6313 Shakespeare Road, Anchorage, AK 99589 | tel. +19075550184 | office@ironbridge.test
+Author: User
+Subject: Discharge summary

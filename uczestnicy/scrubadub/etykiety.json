@@ -1,0 +1,9 @@
+{
+  "email": ["EMAIL"],
+  "url": ["URL"],
+  "phone": ["TELEFON"],
+  "credit_card": ["KARTA"],
+  "credential": ["LOGIN", "SEKRET"],
+  "twitter": ["LOGIN"],
+  "social_security_number": {"en": ["SSN"]}
+}

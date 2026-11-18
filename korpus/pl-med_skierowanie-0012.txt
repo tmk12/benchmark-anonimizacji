@@ -1,0 +1,22 @@
+Szpital Specjalistyczny Rewit sp. z o.o.
+ul. Lipowa 32, 58-794 Jelenia Góra | tel. 000 581 327 | REGON 141803310
+Jelenia Góra, dnia 06.05.2022 r.
+SKIEROWANIE NA LECZENIE SZPITALNE
+Pilność: skierowanie w trybie pilnym, termin przyjęcia do 31.05.2022 r.
+Dane pacjenta: Norbert Krajewski, PESEL 82031702351, data urodzenia 17.03.1982 r.
+Adres: ul. Mokotowska 93, 15-273 Białystok, tel. +48 000 545 011
+Skierowuję Norberta Krajewskiego do szpitala: Niepubliczny Zakład Opieki Zdrowotnej Silesia sp. z o.o., ul. Prosta 45/28, 59-560 Lubin, w celu diagnostyki i leczenia.
+Rozpoznanie główne (ICD-10): E66.9 Otyłość nieokreślona
+Rozpoznanie dodatkowe: E03.9 Niedoczynność tarczycy
+Dotychczasowe leczenie: metformina 1000 mg – bez wystarczającej poprawy; amlodypina 5 mg – z przerwami z powodu działań niepożądanych.
+Uzasadnienie skierowania: w ostatnich tygodniach narastanie dolegliwości mimo leczenia ambulatoryjnego, konieczność pogłębienia diagnostyki obrazowej i wdrożenia leczenia w warunkach szpitalnych.
+Wyniki badań dodatkowych dołączono do skierowania; pacjent powinien zabrać aktualny wykaz przyjmowanych leków oraz dokumentację medyczną z poprzednich hospitalizacji.
+Rejestracja do oddziału: +48 000 433 901, e-mail info@silesia.example.net; wymagane okazanie dowodu tożsamości oraz dokumentu potwierdzającego ubezpieczenie.
+Skierowanie wystawiono zgodnie z art. 57 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych; skierowanie jest ważne do dnia wskazanego w terminie przyjęcia.
+Pacjent został poinformowany o możliwości wyboru świadczeniodawcy w ramach systemu NFZ oraz o prawie do informacji o stanie zdrowia.
+Lekarz kierujący: Mateusz Chmielewski, nr PWZ 7624183
+Miejsce pieczęci imiennej i podpisu
+Mateusz Chmielewski
+Szpital Specjalistyczny Rewit sp. z o.o. | ul. Lipowa 32, 58-794 Jelenia Góra | tel. 000 581 327 | office@rewit.example.org
+Autor: Mateusz Chmielewski
+Temat: Skierowanie na leczenie szpitalne

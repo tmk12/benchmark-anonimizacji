@@ -1,0 +1,6 @@
+I50.1 Linksherzinsuffizienz
+I50.0 Rechtsherzinsuffizienz
+I50.9 Herzinsuffizienz, nicht näher bezeichnet
+I11.0 Hypertensive Herzkrankheit mit Herzinsuffizienz
+I42.0 Dilatative Kardiomyopathie
+I25.5 Ischämische Kardiomyopathie

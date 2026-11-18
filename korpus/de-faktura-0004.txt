@@ -1,0 +1,28 @@
+Schmid Rechtsanwälte PartG mbB
+Schillerstraße 151, 08752 Zwickau | Steuernummer 13/282/57765 | USt-IdNr. DE305316620
+RECHNUNG Nr. R-80
+Rechnungsdatum: 17. Juli 2026
+Leistungszeitpunkt: 13. Juli 2026
+Rechnungsaussteller	Rechnungsempfänger
+Schmid Rechtsanwälte PartG mbB	Concordia OHG
+Schillerstraße 151, 08752 Zwickau	Waldstraße 174b, 87511 Kempten
+USt-IdNr. DE305316620	USt-IdNr. DE529606825
+Tel. +491729980752	Tel. +49 172 9980752
+Pos.	Leistung	Einheit	Menge	Gesamt netto	USt-Satz
+1	Beratung nach Vertrag vom 20. März 2026	pauschal	1	1.577,74 €	19 %
+2	Entwurf und Verhandlung von Dokumenten	pauschal	1	5.573,30 €	19 %
+3	Teilnahme an Gesellschafterversammlungen	pauschal	1	906,63 €	19 %
+Nettobetrag	Umsatzsteuer 19 %	Rechnungsbetrag
+8.057,67 €	1.530,96 €	9.588,63 €
+Zahlbar bis zum 6. August 2026 ohne Abzug durch Überweisung auf das Konto DE64860555921855684523 unter Angabe der Rechnungsnummer.
+Rückfragen zu dieser Rechnung richten Sie bitte an info@schmidrechtsanwalte.test, Tel. +491729980752.
+Die Rechnung erfüllt die Anforderungen des § 14 Abs. 4 UStG; die Leistung ist im Inland steuerbar und steuerpflichtig.
+Bei Zahlungsverzug schulden Sie Verzugszinsen in Höhe von neun Prozentpunkten über dem Basiszinssatz (§ 288 Abs. 2 BGB) sowie die Verzugspauschale von 40 Euro nach § 288 Abs. 5 BGB.
+Die Aufbewahrungsfrist für diese Rechnung beträgt acht Jahre (§ 14b UStG, § 147 AO).
+Diese Rechnung wurde elektronisch im Format XRechnung/ZUGFeRD erstellt und ist ohne Unterschrift gültig.
+Die Rechnung wurde per E-Mail an Heike Koch als zur Entgegennahme von Buchhaltungsunterlagen berechtigte Person des Empfängers gesendet.
+Erstellt und geprüft durch Nadine Richter.
+Nadine Richter
+Schmid Rechtsanwälte PartG mbB | Schillerstraße 151, 08752 Zwickau | USt-IdNr. DE305316620 | Tel. +491729980752
+Autor: Nadine Richter
+Betreff: Rechnung für Rechtsberatung

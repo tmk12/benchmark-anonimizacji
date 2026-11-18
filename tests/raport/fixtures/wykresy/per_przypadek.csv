@@ -1,0 +1,6 @@
+ranking,uczestnik,przypadek,punktowany,dokumenty,z_wyciekiem,bez_wycieku,jezyki
+tekst,privatizer-tekst,homoglify,True,10,2,0.8,pl
+tekst,beta,homoglify,True,10,1,0.9,pl
+tekst,gamma,homoglify,True,10,,,pl
+tekst,privatizer-tekst,rtl,False,5,5,0.0,ar
+tekst,beta,rtl,False,5,5,0.0,ar

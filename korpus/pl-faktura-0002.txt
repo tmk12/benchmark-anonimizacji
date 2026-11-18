@@ -1,0 +1,45 @@
+Optima sp. z o.o.
+ul. Konopnickiej 115/79, 41-457 Bytom | NIP 5965871706
+FAKTURA VAT
+Data wystawienia: 26.04.2024 r.
+Data sprzedaży: 22.04.2024 r.
+Sprzedawca: Optima sp. z o.o.
+Nabywca: Rewit sp. z o.o.
+Sprzedawca: ul. Konopnickiej 115/79, 41-457 Bytom
+Nabywca: ul. Krótka 5, 38-272 Gorlice
+Sprzedawca: NIP: 5965871706
+Nabywca: NIP: 5664384710
+Sprzedawca: REGON: 349260274
+Nabywca: REGON: 405078170
+Lp.: 1
+Nazwa towaru lub usługi: Stała obsługa prawna za miesiąc rozliczeniowy
+Ilość: 1
+Cena netto: 1 486,01 PLN
+Wartość netto: 1 486,01 PLN
+VAT: 23%
+Lp.: 2
+Nazwa towaru lub usługi: Opinia prawna w sprawie umowy najmu
+Ilość: 1
+Cena netto: 3 431,79 PLN
+Wartość netto: 3 431,79 PLN
+VAT: 23%
+Lp.: 3
+Nazwa towaru lub usługi: Reprezentacja przed organem administracji
+Ilość: 1
+Cena netto: 6 935,64 PLN
+Wartość netto: 6 935,64 PLN
+VAT: 23%
+Razem netto: 11 853,44 PLN
+Podatek VAT 23%: 2 726,29 PLN
+Razem do zapłaty (brutto): 14 579,73 PLN
+Termin płatności: 23.05.2024 r. Sposób zapłaty: przelew na rachunek PL47215902903320011829323679.
+Adres e-mail do przesyłania potwierdzeń płatności: office@optima.example.org, tel. 000 875 397.
+Faktura wystawiona zgodnie z art. 106b ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. Zastosowano mechanizm podzielonej płatności, jeżeli wartość brutto przekracza 15 000 zł i usługa została wymieniona w załączniku nr 15 do ustawy.
+W przypadku opóźnienia w płatności naliczane będą odsetki ustawowe za opóźnienie w transakcjach handlowych oraz rekompensata za koszty odzyskiwania należności w wysokości 40 euro (art. 10 ust. 1 ustawy o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych).
+Faktura jest wystawiona w formie elektronicznej i nie wymaga podpisu odbiorcy (art. 106n ustawy o VAT).
+Fakturę przekazano w formie elektronicznej Leonowi Włodarczykowi – osobie upoważnionej do odbioru dokumentów rozliczeniowych nabywcy.
+Fakturę wystawił i sprawdził pod względem rachunkowym Roksana Maciejewska.
+Roksana Maciejewska
+Optima sp. z o.o. | ul. Konopnickiej 115/79, 41-457 Bytom | NIP 5965871706 | KRS 0000133245 | tel. 000 875 397
+Autor: Roksana Maciejewska
+Temat: Faktura VAT

@@ -1,0 +1,117 @@
+# Liczby opisowe raportu: stałe metodyki i opisu korpusu, których nie ma w agregacji wyników (`glowne.csv` itd.).
+# Rozdziały wstawiają je przez `{{ m.sekcja.klucz }}` (proza nie zawiera liczb wprost – `raport.kontrola`).
+# Źródło każdej sekcji w komentarzu; wartości przepisane z zamrożonej metodyki (`metodyka/*.md`, znacznik git `prerejestracja-1`).
+
+# metodyka/prerejestracja.md, pkt 6 (korpus) i pkt 3.5; metodyka/przypadki.md
+[korpus]
+trzon_dokumentow = 1000
+trzon_dev = 200
+trzon_test = 800
+trzon_pl = 500
+trzon_inny_jezyk = 125
+trudne_dokumentow = 290
+trudne_dev = 68
+trudne_test = 222
+trudne_przypadkow = 34
+przypadki_t3 = 18
+przypadki_p3 = 30
+przypadki_posrednie = 4
+medyczne = 67
+prywatne = 67
+ziarno_trzonu = 20261103
+ziarno_trudne = 20261104
+
+# metodyka/prerejestracja.md, pkt 3.5 (bootstrap) i pkt 1.2 (próbka czasu); README.md
+[ziarna]
+bootstrap = 20261031
+proba_czasu = 20261102
+
+# metodyka/prerejestracja.md, pkt 1.2
+[czas]
+t_ref_s = 1.0
+t_ref_niski_s = 0.5
+t_ref_wysoki_s = 2.0
+strona_znakow = 1800
+proba_dokumentow = 60
+proba_pl = 30
+proba_en = 8
+proba_de = 8
+proba_es = 7
+proba_fr = 7
+rozgrzewka = 1
+przejscia = 3
+watki = 4
+ram_gb = 8
+ram_mb = 8192
+# próg opisowy raportu (nie prerejestracji): szczyt pamięci powyżej tego ułamka RAM-u maszyny oznaczamy jako blisko limitu
+prog_pamieci = 0.8
+
+# metodyka/prerejestracja.md, pkt 2 (blok reguly_wycieku) i pkt 3.2; metodyka/punktacja.md
+[sedzia]
+min_dl_tokenu = 3
+min_cyfr_id = 4
+ulamek_tokenu = 0.5
+ocr_dpi = 300
+ocr_dpi_drugi = 400
+waga_kategorii_max = 3
+
+# metodyka/prerejestracja.md, pkt 4 (kalibracja)
+[kalibracja]
+siatka_min = 0.01
+siatka_max = 0.95
+dokumentow_dev = 200
+
+# metodyka/prerejestracja.md, pkt 3.2 (T5, P5): próg „0 pkt” jest w metodyka/wagi_punktow.json (`progi`), nie tutaj.
+
+# metodyka/znane-ograniczenia.md (liczby zliczone w tekstach .txt trzonu)
+[realizm]
+gorniej_dokumentow = 1
+gorniej_wystapien = 1
+agnieszkiej_wystapien = 35
+agnieszkiej_dokumentow = 21
+plec_nazwisko_wystapien = 3
+plec_ksiegowa_wierszy = 222
+plec_ksiegowa_list = 25
+podwojna_etykieta_dokumentow = 2
+firma_dokumentow = 8
+firma_wartosci_gold = 19
+
+# metodyka/uczestnicy.md, tabela odstępstw (openai-privacy-filter) i wersje.json
+[moe]
+okno_tokenow = 4096
+zakladka = 0.125
+roznica_max = 0.02
+roznica_de = 0.0016
+
+# Daty (RRRR-MM-DD): zamrożenie prerejestracji – znacznik git `prerejestracja-1` (metodyka/prerejestracja.md);
+# dwie sesje pomiaru szybkości `privatizer-tekst` – notatki z przebiegu pomiaru czasu (wznowienie po pierwszej sesji);
+# data raportu (okładka)
+[daty]
+zamrozenie = "2026-11-04"
+czas_sesja_1 = "2026-11-05"
+czas_sesja_2 = "2026-11-13"
+raport = "2026-11-18"
+
+# Środowisko pomiaru czasu `presidio-image-redactor` (Tesseract z conda-forge na maszynie referencyjnej, notatki z przebiegu pomiaru czasu)
+# i wymagania odtworzenia (README.md, `pyproject.toml`: requires-python >= 3.12)
+[srodowisko]
+tesseract_czas = "5.3.4"
+leptonica_czas = "1.83.1"
+python = "3.12"
+
+# Pamięć wymiany (swap) odczytana przy pomiarze szybkości plików (notatki z przebiegu pomiaru czasu; wartości w GB lub MB jak w źródle).
+# Dla pomiaru tekstu swapu nie zapisywano.
+[swap]
+wrapper_po_gb = 3.19
+wrapper_limit_gb = 4
+obraz_przed_mb = 1019
+obraz_po_mb = 1274
+obraz_limit_mb = 3072
+
+# Wersje użyte przez uczestników `presidio-*`: uczestnicy/presidio-*/uv.lock (presidio-analyzer 2.2.366, tldextract 5.4.0);
+# mechanizm odrzucania domen: email_recognizer.py (EmailRecognizer.validate_result, wiersze 51-53) i url_recognizer.py (BASE_URL_REGEX) tej wersji.
+[presidio]
+analyzer = "2.2.366"
+tldextract = "5.4.0"
+rfc_domeny = 2606  # RFC 2606: zarezerwowane nazwy domen (example.*, .test)
+rfc_nazwy = 6761  # RFC 6761: nazwy specjalnego przeznaczenia
